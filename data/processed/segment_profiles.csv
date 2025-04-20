@@ -1,0 +1,3 @@
+anomaly_iso,transaction_amount_sum,transaction_amount_mean,transaction_amount_max,item_category_nunique
+-1,531.1388,51.21105366876587,79.9876,5.08
+1,371.5020631578948,37.17596418163685,55.858084210526314,5.217894736842105

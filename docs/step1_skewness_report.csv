@@ -1,0 +1,24 @@
+,Skew,Normal-like (No Transform Needed),Skewed (Consider Transforming)
+age,0.006350516748482762,True,False
+annual_income,1.5630196976757993,False,True
+postal_code,-0.013165726624497808,True,False
+purchase_frequency,0.341750761906794,True,False
+avg_purchase_value,0.9701987133633462,True,False
+total_spent,1.5170105893653496,False,True
+days_since_last_purchase,0.00943090145163323,True,False
+electronics_score,0.054979568072754885,True,False
+clothing_score,0.062275973821252835,True,False
+home_decor_score,0.05302716001990917,True,False
+beauty_score,0.06724862567608694,True,False
+sports_score,0.04781886218763866,True,False
+books_score,0.11130637725336248,True,False
+food_score,0.03865262572363786,True,False
+website_visits_per_month,0.41738575087640506,True,False
+avg_session_duration,0.1422643175922093,True,False
+mobile_app_usage,-0.042617713109801496,True,False
+desktop_usage,0.0700587878860402,True,False
+items_viewed_per_visit,0.2925765900522389,True,False
+cart_abandonment_rate,0.08913153077500918,True,False
+email_engagement_rate,0.1776110366059947,True,False
+support_tickets,1.1931215614533441,False,True
+satisfaction_score,-0.1547926620104721,True,False

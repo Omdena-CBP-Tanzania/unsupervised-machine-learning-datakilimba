@@ -1,0 +1,5 @@
+,transaction_amount_sum,transaction_amount_sum,transaction_amount_sum,transaction_amount_mean,transaction_amount_mean,transaction_amount_mean,transaction_amount_max,transaction_amount_max,transaction_amount_max,item_category_nunique,item_category_nunique,item_category_nunique
+,mean,median,std,mean,median,std,mean,median,std,mean,median,std
+anomaly_iso,,,,,,,,,,,,
+-1,531.1388,502.09000000000003,346.45997311960986,51.21105366876587,49.96484162895927,29.73178716999304,79.9876,83.415,44.395679260256756,5.08,5.0,1.2262436419357106
+1,371.5020631578948,292.41499999999996,275.1001925230006,37.17596418163685,31.909230769230767,23.54197398006142,55.858084210526314,47.97,35.84997589494795,5.217894736842105,5.0,1.1291220184896913
