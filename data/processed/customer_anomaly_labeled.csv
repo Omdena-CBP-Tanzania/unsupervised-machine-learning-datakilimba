@@ -1,0 +1,1001 @@
+customer_id,age,gender,annual_income,education,marital_status,city,state,country,postal_code,signup_date,purchase_frequency,avg_purchase_value,total_spent,days_since_last_purchase,favorite_payment_method,electronics_score,clothing_score,home_decor_score,beauty_score,sports_score,books_score,food_score,website_visits_per_month,avg_session_duration,mobile_app_usage,desktop_usage,items_viewed_per_visit,cart_abandonment_rate,email_engagement_rate,support_tickets,satisfaction_score,anomaly_iso,anomaly_svm
+7e58732d,58,Male,76754,High School,Divorced,Curtisfurt,CT,US,47553,2023-11-26,7,30.46,213.2,29,Debit Card,53,81,52,84,74,49,48,3,11.7,6,96,7,54,0,1,7.0,1,1
+5371a919,19,Non-binary,36083,Associate Degree,Widowed,New Jessica,GA,US,61090,2024-01-15,7,36.78,257.47,58,Google Pay,17,27,44,38,34,26,30,2,8.08,95,0,12,59,16,1,5.6,1,1
+4a71a294,42,Male,45852,Bachelor Degree,Divorced,Hurstfurt,MN,US,29247,2021-11-21,13,33.38,433.95,34,Credit Card,75,80,53,70,51,81,64,2,9.21,91,18,7,40,65,0,6.9,1,1
+23165a5e,30,Non-binary,34021,High School,Single,Teresaburgh,NY,US,14448,2021-07-26,5,35.45,177.27,30,PayPal,19,11,29,22,34,45,28,5,4.24,17,79,13,51,23,1,6.4,1,1
+dcb1e818,62,Non-binary,90889,High School,Married,East Donna,OH,US,22144,2022-04-13,9,45.37,408.32,94,Debit Card,39,34,27,50,45,24,30,1,8.77,75,12,15,62,42,0,6.9,1,1
+59619e1e,69,Female,125360,Master Degree,Divorced,New David,FM,US,75348,2024-11-26,9,20.29,182.57,28,Google Pay,76,69,87,81,85,65,72,6,21.96,20,93,8,9,48,0,7.0,1,1
+688ea22b,65,Non-binary,50445,Master Degree,Widowed,Lake Yvettetown,CO,US,99272,2023-03-31,9,15.0,135.0,29,Debit Card,63,37,35,39,41,72,42,1,11.22,82,29,19,52,35,0,5.3,1,1
+cf12d9f1,42,Female,70963,PhD,Widowed,Lake Michellefurt,DE,US,75169,2022-04-23,11,39.6,435.63,33,Google Pay,55,62,89,72,76,62,73,4,10.76,47,46,12,29,58,1,7.6,1,1
+86560c9d,50,Male,40472,PhD,Single,Cherylhaven,AL,US,88039,2020-05-24,8,19.21,153.65,81,PayPal,93,85,91,65,62,76,63,9,13.26,59,36,12,56,7,2,6.2,1,1
+d1d6968f,38,Female,36778,High School,Single,North Charlesberg,ND,US,5223,2023-03-29,9,56.56,509.01,113,PayPal,18,30,51,20,20,46,19,8,9.52,100,0,14,51,35,0,6.5,1,1
+8de7a09b,60,Female,53545,PhD,Married,Phambury,KY,US,21367,2023-10-16,7,49.39,345.73,68,Google Pay,40,61,39,46,52,50,55,5,6.91,93,3,8,55,7,4,5.8,1,1
+7f6027dc,32,Male,94142,Bachelor Degree,Single,Benjaminchester,MI,US,95992,2021-12-23,17,29.17,495.86,71,Debit Card,51,37,41,77,40,51,41,10,37.82,90,1,8,45,37,0,8.8,1,1
+e2660129,33,Female,38309,Master Degree,Married,New Ashley,MO,US,72320,2022-04-02,5,23.7,118.5,17,Bank Transfer,95,95,89,74,89,85,71,8,8.69,12,91,7,60,51,1,6.8,1,1
+9dd2da9c,44,Female,47218,High School,Single,South Robertshire,ID,US,94656,2024-12-07,12,15.0,180.0,52,Bank Transfer,27,36,33,33,55,49,29,2,18.09,40,61,14,34,41,1,6.5,1,1
+0bba0348,73,Male,52771,Master Degree,Single,Colebury,MP,US,84080,2024-12-28,4,15.0,60.0,84,Google Pay,53,58,68,63,79,84,83,4,9.04,23,69,2,60,13,3,5.0,1,1
+89f298a6,42,Male,173949,Master Degree,Divorced,Port Nicoleshire,MS,US,63019,2020-11-17,18,15.0,270.0,101,Apple Pay,45,53,49,27,30,36,31,5,28.24,100,10,14,31,61,1,8.4,1,-1
+aad2fff7,65,Female,44592,High School,Single,Lake Roymouth,HI,US,7091,2021-12-31,7,49.14,343.95,62,Google Pay,91,68,61,90,63,69,62,6,17.34,56,42,4,51,30,3,5.1,1,1
+1dcc9643,74,Non-binary,53124,Associate Degree,Single,South Holly,WI,US,48852,2021-10-20,2,47.65,95.3,11,Apple Pay,79,78,75,62,58,55,62,5,2.24,25,70,1,77,35,2,5.1,1,1
+12ef1a34,47,Female,42211,High School,Single,Alexanderchester,GU,US,64752,2022-09-15,7,30.29,212.02,80,Google Pay,10,40,19,38,22,14,28,1,10.21,85,12,9,61,50,0,6.3,1,1
+f8898103,28,Female,29026,PhD,Divorced,Lewisview,MA,US,37156,2021-11-05,10,15.0,150.0,104,Bank Transfer,33,68,52,39,41,49,40,1,9.79,95,5,8,71,50,2,6.1,1,1
+d810058a,36,Non-binary,84548,Associate Degree,Divorced,North Jennifer,MD,US,16171,2024-02-19,5,33.68,168.42,88,Bank Transfer,70,86,85,70,57,59,94,8,16.59,40,48,16,25,61,0,8.2,1,1
+432aba84,39,Male,20703,Bachelor Degree,Married,Mendozamouth,HI,US,7235,2021-02-12,9,15.0,135.0,57,Google Pay,72,80,45,52,49,54,79,8,12.03,4,100,6,57,11,4,6.2,1,1
+145e335d,27,Female,26978,Associate Degree,Single,New Susanville,WV,US,27736,2023-07-19,11,15.0,165.0,47,Credit Card,79,70,72,63,79,92,83,6,14.42,91,0,19,54,66,3,5.9,1,1
+94dc73b7,69,Male,35947,Master Degree,Single,Scottmouth,UT,US,40358,2024-04-08,4,15.0,60.0,95,PayPal,76,65,67,60,56,74,52,1,12.43,82,10,1,42,0,2,4.9,1,1
+c69d8fa4,40,Female,46941,Associate Degree,Married,Manuelville,PR,US,21580,2025-02-21,12,74.69,896.22,85,Debit Card,46,42,29,42,47,57,50,2,11.13,74,32,13,59,38,1,6.7,1,1
+f87cfbd3,25,Female,47890,Associate Degree,Divorced,Andreaport,NV,US,92022,2025-01-22,3,18.54,55.61,14,Google Pay,49,47,54,65,59,34,51,1,4.15,85,8,6,55,0,1,6.4,1,1
+5304bd65,63,Female,77443,High School,Married,Loriport,VA,US,39633,2023-03-27,7,68.83,481.83,56,Credit Card,81,99,80,67,79,92,79,4,21.47,66,35,7,60,41,1,6.6,1,1
+786e177b,53,Male,56165,Associate Degree,Widowed,South Monica,FL,US,10308,2021-07-19,4,15.0,60.0,49,Bank Transfer,58,86,83,66,72,82,47,2,19.79,26,72,11,54,59,0,6.6,1,1
+2cd6d119,56,Non-binary,196254,Bachelor Degree,Widowed,Nicholasberg,IA,US,70122,2022-10-19,11,71.69,788.55,57,Bank Transfer,45,43,23,18,31,45,53,3,15.04,53,35,10,6,64,1,7.8,1,-1
+f4f81ab6,32,Male,72775,Associate Degree,Single,Jamesfurt,PR,US,63836,2025-01-06,8,39.4,315.17,32,Apple Pay,43,68,65,79,75,51,63,7,19.02,46,44,1,39,40,1,7.7,1,1
+6fe976ac,75,Male,33875,Master Degree,Married,North Renee,MD,US,98474,2024-04-15,2,24.83,49.67,103,Bank Transfer,62,36,68,48,40,62,41,1,10.58,86,26,1,75,0,3,4.6,1,-1
+9f218fd6,38,Female,79900,PhD,Widowed,Danielbury,NJ,US,3781,2020-08-13,6,37.63,225.8,117,Google Pay,38,58,56,44,43,68,45,6,14.08,82,28,14,42,39,2,8.0,1,1
+39a24893,35,Female,92555,High School,Divorced,Port Tracychester,KY,US,4789,2023-12-17,10,38.36,383.58,35,PayPal,54,25,28,29,34,44,29,8,26.12,62,32,14,27,63,2,8.8,1,1
+7c2b3797,39,Non-binary,70916,Master Degree,Widowed,North Maria,OH,US,27653,2024-12-04,9,28.6,257.43,27,Apple Pay,61,25,60,48,54,24,46,6,24.3,31,73,9,39,36,2,7.9,1,1
+70cce195,65,Non-binary,73623,PhD,Married,Foxland,NJ,US,59257,2022-07-16,8,87.21,697.68,29,PayPal,58,28,51,48,52,37,56,3,21.89,100,15,11,55,43,0,6.1,1,1
+40a5a780,43,Non-binary,153432,PhD,Single,Garciaville,PR,US,86315,2024-10-21,10,87.03,870.29,83,Apple Pay,37,19,11,24,32,28,21,11,20.21,45,56,11,26,22,1,8.5,-1,1
+7c48a528,66,Female,31414,Bachelor Degree,Single,Parrishton,LA,US,79197,2022-08-21,4,15.0,60.0,3,Bank Transfer,37,56,48,38,36,35,49,1,11.2,9,89,3,76,0,1,4.7,1,1
+8ae69396,33,Male,36005,Master Degree,Single,North Julieborough,MS,US,55529,2022-02-10,7,48.67,340.68,28,Apple Pay,60,67,54,82,82,51,54,4,13.27,89,11,6,41,37,2,6.4,1,1
+5fed7948,37,Non-binary,21180,Master Degree,Widowed,Roseport,AZ,US,29404,2021-04-07,7,15.0,105.0,26,Credit Card,77,52,43,56,75,44,73,1,14.36,79,28,4,52,32,0,6.2,1,1
+ec84fdda,60,Female,85891,High School,Divorced,Dariustown,MD,US,23028,2025-03-16,5,15.0,75.0,109,Apple Pay,83,58,79,75,92,81,61,5,8.12,49,66,12,60,29,0,7.0,1,1
+bd66c34d,57,Non-binary,25981,Master Degree,Widowed,Marshallshire,WV,US,76453,2022-10-31,6,75.27,451.62,106,Bank Transfer,54,57,52,42,54,65,52,4,13.57,83,33,5,53,50,0,5.2,1,1
+00da5470,39,Male,69836,Master Degree,Divorced,Stoutshire,SD,US,25173,2024-04-03,8,15.0,120.0,63,Debit Card,38,43,39,60,39,57,22,7,25.24,47,40,19,32,55,1,7.6,1,1
+347528f9,64,Female,72534,Master Degree,Married,Erikaton,WY,US,83192,2021-05-27,3,15.0,45.0,61,Bank Transfer,76,73,46,50,63,59,70,3,17.42,68,38,2,64,0,3,6.3,1,1
+96ea9ed7,48,Non-binary,81128,PhD,Divorced,East Matthew,WI,US,64237,2022-11-21,6,15.0,90.0,96,Google Pay,43,50,38,40,37,35,28,8,6.73,72,20,16,29,36,2,7.8,1,1
+fa6ab058,66,Non-binary,79213,Associate Degree,Married,Youngbury,ME,US,61975,2024-01-23,8,64.31,514.48,95,Apple Pay,54,50,55,35,23,29,35,4,7.99,17,76,14,51,49,2,6.3,1,1
+b351ca42,63,Non-binary,29656,Associate Degree,Divorced,Wilkersontown,MT,US,7481,2025-01-07,2,35.78,71.56,7,Google Pay,26,58,49,24,18,54,36,2,8.91,50,53,1,51,39,3,4.8,1,1
+e894289a,21,Female,85537,Master Degree,Single,North Johnmouth,CA,US,15031,2020-08-31,14,41.96,587.46,9,Apple Pay,35,67,71,34,40,40,67,4,11.01,86,2,7,26,68,2,7.5,1,1
+c4cdaa22,53,Female,97945,PhD,Married,Port Bonniemouth,DC,US,6312,2020-12-04,17,35.57,604.63,67,Apple Pay,56,47,65,55,47,64,67,9,20.19,0,89,12,29,85,0,7.8,1,1
+2eb599da,34,Non-binary,49677,High School,Married,Port Dianaview,DE,US,48738,2023-12-06,9,15.0,135.0,23,Google Pay,14,4,30,32,42,34,22,9,7.35,2,95,4,61,23,1,7.3,1,1
+4a499c7b,22,Non-binary,84743,Associate Degree,Divorced,Lake Mollystad,RI,US,57509,2020-11-09,16,15.0,240.0,102,Bank Transfer,49,64,44,71,51,46,54,8,20.16,74,8,10,30,68,2,7.6,1,1
+d740e34a,68,Female,65877,PhD,Divorced,New Devinstad,MO,US,41708,2022-10-24,9,29.11,262.01,16,Apple Pay,63,69,61,76,78,75,72,5,17.43,0,94,2,55,18,1,5.9,1,1
+87a7765a,56,Female,45276,High School,Single,Melissaburgh,WY,US,47882,2023-12-29,2,38.89,77.77,87,Google Pay,38,54,73,39,48,67,70,4,1.86,63,29,1,64,14,1,6.1,1,1
+5b2cd5ed,45,Non-binary,67636,Master Degree,Single,South Wesley,VI,US,7764,2022-08-22,12,20.82,249.84,45,Apple Pay,41,27,31,42,47,52,39,2,11.86,68,40,19,44,70,1,7.1,1,1
+2d07a5be,47,Male,71066,Bachelor Degree,Divorced,Meganshire,AZ,US,4219,2023-06-18,10,51.47,514.69,15,Apple Pay,87,55,89,84,81,58,67,5,9.04,60,53,14,37,65,1,7.4,1,1
+e8169997,66,Male,54912,Associate Degree,Divorced,Andersonstad,NY,US,74117,2022-03-13,6,15.0,90.0,17,PayPal,59,35,29,68,66,43,38,2,22.08,21,75,6,64,62,0,5.7,1,1
+5743ad9d,23,Male,66449,High School,Widowed,Kochfort,AK,US,12303,2024-08-13,3,15.0,45.0,83,Debit Card,49,63,48,57,61,61,46,5,19.63,39,56,13,54,20,3,7.0,1,1
+4e0b4511,56,Non-binary,101192,Associate Degree,Single,East Theresafurt,MN,US,44945,2023-09-23,9,25.19,226.74,99,Apple Pay,53,38,21,39,40,58,58,5,20.56,100,0,9,45,90,1,7.9,1,1
+b15ada54,52,Female,61023,Bachelor Degree,Divorced,West Markville,MT,US,77008,2022-03-07,3,36.77,110.32,98,Google Pay,53,44,36,39,60,48,38,6,3.64,88,5,17,53,66,3,6.6,1,1
+6aaf4ab5,65,Female,89344,Master Degree,Widowed,Vaughnchester,NY,US,80648,2021-07-21,8,40.21,321.71,102,Bank Transfer,40,11,17,41,46,30,15,6,3.46,91,5,10,33,45,2,7.1,1,1
+d3dc2e6a,47,Male,31340,Associate Degree,Widowed,Jeffreyport,WI,US,38381,2020-05-23,5,62.66,313.3,84,Debit Card,34,20,25,43,29,9,25,2,9.14,92,16,13,65,0,1,5.9,1,1
+4b35f214,58,Non-binary,91449,Master Degree,Single,North Craig,MA,US,94526,2021-10-24,8,74.95,599.63,9,Debit Card,58,54,45,67,46,80,46,3,19.74,43,45,10,49,2,0,7.2,1,1
+0c1d9fc3,38,Male,64194,Bachelor Degree,Divorced,North Kennethville,MA,US,37799,2023-03-05,8,53.37,427.0,56,Debit Card,48,41,51,26,25,26,20,5,15.76,62,48,12,60,54,2,7.5,1,1
+5475bf9e,49,Non-binary,96905,Associate Degree,Married,Caldwellburgh,DC,US,63081,2022-09-09,11,52.62,578.84,82,PayPal,45,29,58,47,63,39,33,8,19.86,45,63,15,47,62,1,8.1,1,1
+39655a85,58,Female,52993,Bachelor Degree,Widowed,Robertside,PW,US,62213,2020-07-14,9,57.59,518.29,39,Debit Card,54,30,39,48,60,46,60,4,4.71,28,60,6,33,21,0,6.1,1,1
+97322e26,35,Male,136081,PhD,Single,South Davidchester,NH,US,74413,2021-11-16,13,80.29,1043.83,96,Apple Pay,71,67,91,75,67,93,65,7,29.86,56,47,28,57,77,1,8.8,-1,-1
+4029276c,75,Non-binary,87506,High School,Divorced,Millerside,DC,US,86161,2020-11-07,5,38.65,193.23,57,Credit Card,60,45,42,55,57,63,48,3,12.23,27,80,14,68,0,1,6.4,1,1
+797d805c,50,Female,36635,Associate Degree,Divorced,East Jamieville,PA,US,4901,2020-08-26,5,21.17,105.85,62,PayPal,68,54,76,51,56,61,72,5,11.09,100,4,4,57,38,2,5.7,1,1
+9094e727,68,Female,76866,High School,Divorced,Peterston,MI,US,84821,2022-04-08,10,15.0,150.0,16,Apple Pay,39,60,47,63,46,29,37,6,19.83,56,59,17,28,41,1,6.3,1,1
+b4f74298,57,Male,70066,High School,Widowed,North Joseph,TX,US,79795,2021-05-06,8,33.29,266.3,39,Bank Transfer,33,34,28,28,45,57,33,3,11.1,16,84,4,41,12,0,6.8,1,1
+f983c12c,47,Female,40965,PhD,Widowed,Port Tinafort,WV,US,42474,2021-12-25,12,31.25,374.94,96,Bank Transfer,35,15,40,48,35,26,11,4,9.56,65,34,12,36,40,2,6.3,1,1
+07a7c7e9,33,Female,103327,High School,Divorced,New Arthurland,GU,US,88085,2022-03-22,18,67.44,1213.93,116,Bank Transfer,25,47,39,34,29,51,27,10,30.54,76,43,21,16,56,0,9.1,-1,-1
+9fc1570b,19,Male,23906,Bachelor Degree,Married,East James,NC,US,33585,2024-07-27,10,39.55,395.5,101,Google Pay,17,48,26,50,26,27,34,7,5.0,86,12,5,39,55,3,5.4,1,1
+1c4a40f3,72,Male,205343,Associate Degree,Divorced,Newmanmouth,OK,US,13000,2020-10-18,6,25.58,153.47,23,Credit Card,43,50,42,64,57,79,62,1,13.77,0,89,11,50,45,0,6.7,1,-1
+32fab673,65,Female,14127,PhD,Single,Brianchester,IN,US,10464,2021-02-03,2,24.83,49.66,9,Apple Pay,51,60,65,34,56,60,42,2,1.85,85,11,3,54,5,0,4.2,1,1
+747fb22b,47,Non-binary,44060,High School,Single,Kathleenville,DC,US,11943,2022-08-04,9,21.94,197.47,109,Apple Pay,33,58,55,31,32,47,65,3,7.64,8,83,1,60,51,1,6.5,1,1
+29db4b5e,58,Non-binary,44880,PhD,Divorced,Evansland,MN,US,33491,2023-02-20,3,15.0,45.0,77,Google Pay,47,50,56,45,24,25,53,2,4.22,68,30,5,28,65,1,5.8,1,1
+4a2e4eda,74,Male,32974,Master Degree,Divorced,Ramirezfurt,MN,US,15428,2020-08-20,4,15.79,63.16,59,Apple Pay,32,46,53,46,42,49,35,5,3.09,73,23,13,72,6,0,4.2,1,1
+60e29679,71,Male,57287,High School,Widowed,North Kaylastad,GA,US,85304,2024-09-25,7,51.96,363.74,96,Bank Transfer,31,58,26,60,58,58,44,3,11.04,70,33,4,44,52,1,5.5,1,1
+27cc5ee5,73,Non-binary,84131,High School,Divorced,West Larry,NH,US,27615,2021-11-28,5,64.93,324.67,40,PayPal,42,38,19,15,36,20,12,0,16.31,42,65,3,33,60,0,6.0,1,1
+58661c1f,66,Female,68912,PhD,Married,South Brittany,MS,US,1084,2020-09-30,9,15.0,135.0,55,Google Pay,88,88,84,50,87,66,50,6,7.53,17,81,1,83,11,1,6.1,1,1
+d371b840,18,Male,53604,Associate Degree,Widowed,Lake Dennisville,IA,US,40527,2024-11-19,14,23.01,322.19,19,Bank Transfer,41,45,73,53,64,66,69,4,17.97,35,64,7,40,54,3,6.4,1,1
+e5a01cbc,67,Non-binary,67533,PhD,Single,Ortizfort,MT,US,93580,2020-04-27,8,106.6,852.8,7,Debit Card,49,13,15,27,38,37,41,3,18.43,63,37,5,57,3,2,5.9,1,1
+1a3faa13,66,Non-binary,108914,High School,Divorced,West Nancy,AZ,US,59448,2022-11-12,3,18.79,56.37,15,PayPal,80,74,76,62,45,57,68,5,16.41,89,0,6,78,26,2,7.1,1,1
+29a7f804,37,Male,138766,Associate Degree,Divorced,East Sydneychester,PW,US,8271,2023-08-27,10,26.64,266.4,42,Credit Card,31,27,11,8,24,34,14,6,32.43,51,41,20,55,70,0,9.0,1,-1
+1e67f66b,73,Non-binary,59664,High School,Widowed,Reidstad,PR,US,8801,2025-03-03,2,63.45,126.91,59,Credit Card,75,91,82,91,80,95,81,5,4.36,30,61,1,58,18,5,5.4,-1,1
+6f3caec6,28,Non-binary,110251,Master Degree,Divorced,Erikview,CO,US,86299,2024-10-12,6,64.55,387.28,56,Credit Card,42,52,40,48,20,40,34,7,19.07,71,25,3,50,46,0,8.5,1,1
+2893b6c2,22,Non-binary,100356,High School,Married,South Christopher,AS,US,13926,2020-12-03,15,38.73,581.02,45,PayPal,55,61,52,55,62,58,57,7,27.91,70,31,19,44,40,0,8.1,1,1
+96b96046,67,Non-binary,87820,Master Degree,Widowed,Bellchester,MD,US,18828,2021-01-16,4,70.43,281.72,73,Google Pay,64,68,67,48,68,48,37,3,10.58,48,60,15,45,31,0,6.7,1,1
+8996daee,68,Female,17816,PhD,Single,Diazburgh,WV,US,62237,2023-04-21,2,42.23,84.45,65,Credit Card,48,47,21,22,42,37,23,4,-2.63,56,44,1,75,0,1,4.4,1,1
+d8343955,50,Female,75600,Master Degree,Single,West Hollybury,AR,US,32545,2022-10-02,7,36.58,256.07,117,Google Pay,53,61,79,71,73,50,44,4,17.15,45,46,19,48,24,1,7.5,1,1
+eb348045,59,Male,47849,High School,Married,South Spencerstad,AR,US,65985,2021-04-22,7,87.26,610.84,57,Apple Pay,66,72,43,56,56,51,57,3,16.73,40,68,3,33,31,3,5.6,1,1
+14a90d35,68,Non-binary,70174,Bachelor Degree,Single,New Nathanhaven,TX,US,7404,2023-06-05,3,27.84,83.51,13,Google Pay,67,61,59,81,52,64,48,3,15.13,52,42,9,76,15,1,6.0,1,1
+852492a4,59,Non-binary,23971,Master Degree,Married,Cynthiatown,MA,US,692,2021-12-09,8,27.01,216.1,91,Credit Card,54,43,40,27,52,24,46,6,6.08,40,50,3,62,38,0,4.9,1,1
+84d6893b,29,Male,167923,Bachelor Degree,Widowed,Jonesshire,AR,US,57515,2024-03-13,6,15.47,92.84,29,Debit Card,13,27,15,41,43,42,11,10,18.69,75,27,11,72,53,1,8.8,1,-1
+a0f3bb7a,42,Male,40027,Associate Degree,Married,Margaretton,IL,US,43465,2020-08-12,12,49.98,599.8,89,Google Pay,61,79,53,77,74,66,79,4,12.09,65,35,1,60,66,1,6.7,1,1
+c6d5f480,33,Female,56868,Master Degree,Married,Port Richard,TX,US,83115,2023-03-19,9,75.14,676.24,87,Google Pay,57,46,52,60,61,54,38,6,19.27,90,12,12,52,54,2,7.4,1,1
+fac12507,21,Non-binary,68621,Master Degree,Divorced,Stephensonton,RI,US,81657,2022-03-02,9,55.83,502.5,120,Credit Card,78,52,63,50,55,62,73,5,16.78,84,12,12,62,31,0,6.9,1,1
+2bb6f5cc,32,Female,71944,Bachelor Degree,Single,Morenoshire,IN,US,21423,2022-12-13,5,96.88,484.41,7,Apple Pay,55,47,56,37,55,46,33,2,7.62,24,78,14,64,24,0,7.8,1,1
+24918d36,68,Male,96293,Associate Degree,Single,North Alisha,AL,US,43982,2023-09-01,5,86.64,433.21,118,Apple Pay,52,74,72,83,44,49,45,6,14.57,19,81,12,62,89,1,7.1,1,1
+06ca7af6,51,Female,125120,High School,Divorced,Jeffreyshire,GU,US,23484,2023-12-11,11,32.77,360.5,39,Credit Card,18,29,43,42,32,7,10,7,18.87,88,25,1,49,56,1,8.3,1,1
+fc9dd92e,19,Non-binary,188234,PhD,Married,Seanview,IL,US,33208,2021-03-31,4,46.54,186.18,19,PayPal,27,66,49,42,63,53,38,3,14.5,58,39,1,55,16,0,8.1,1,-1
+a55db17e,22,Non-binary,62394,PhD,Single,West Joseville,CA,US,45302,2023-02-01,1,15.0,15.0,112,Apple Pay,42,26,25,18,3,24,6,1,9.54,44,58,3,60,56,1,7.1,1,1
+648624fe,65,Female,55267,Associate Degree,Single,Donnaport,IA,US,13072,2023-04-20,4,46.46,185.83,70,PayPal,63,81,82,92,63,60,56,4,5.93,75,19,1,30,0,3,5.7,1,1
+53b208c7,30,Male,47027,Associate Degree,Single,Scottview,IN,US,35701,2023-07-04,6,39.08,234.46,120,PayPal,57,66,62,48,34,44,50,4,12.4,26,74,5,54,44,1,6.9,1,1
+a33f3ea1,35,Male,56994,Bachelor Degree,Widowed,Port James,AZ,US,55993,2020-04-15,10,39.81,398.14,52,Bank Transfer,52,49,39,59,59,51,61,4,18.46,18,76,6,65,29,2,7.3,1,1
+e0f99903,45,Non-binary,150258,Associate Degree,Divorced,Natalieview,MS,US,86325,2023-06-23,9,23.47,211.22,14,Credit Card,38,39,48,58,47,30,48,13,18.67,26,65,7,28,44,0,8.6,1,1
+240f16d9,45,Female,115284,High School,Single,Jacobsland,ID,US,58397,2021-07-06,9,87.7,789.33,82,Apple Pay,55,33,24,32,61,51,25,8,19.71,9,97,7,43,43,1,8.4,1,1
+4317d472,41,Female,34576,PhD,Single,West Tracy,NV,US,23777,2021-11-18,5,20.29,101.45,20,Bank Transfer,51,51,56,32,64,36,61,8,3.82,36,73,2,36,34,2,6.4,1,1
+fb080f97,33,Male,53660,High School,Married,Jenniferview,NE,US,49846,2022-06-23,5,74.41,372.07,67,Apple Pay,93,65,74,74,86,71,97,5,13.07,33,67,21,55,55,1,7.1,1,1
+777f2d6a,26,Male,47860,Master Degree,Married,Erintown,SD,US,65692,2021-04-11,9,15.0,135.0,57,Credit Card,71,73,55,86,85,69,70,6,16.33,95,9,9,67,37,1,6.7,1,1
+9a5e1ffe,50,Male,38068,High School,Married,West Jeffrey,VI,US,40751,2020-10-31,12,15.0,180.0,18,Debit Card,81,51,73,85,86,73,79,5,12.89,87,13,14,86,40,1,6.2,1,1
+64a982e5,74,Male,159298,High School,Divorced,South Marvinburgh,MD,US,83666,2023-01-16,9,26.51,238.57,92,Bank Transfer,63,56,56,66,34,38,50,4,18.31,68,39,12,40,47,3,6.9,1,1
+5d90175a,40,Male,71377,PhD,Married,Lake Natalie,ME,US,17400,2020-12-20,5,72.87,364.33,17,Apple Pay,35,39,65,41,51,42,42,4,15.44,29,68,13,42,36,1,7.9,1,1
+9be8ad1a,75,Female,54742,High School,Divorced,Kelseyton,PA,US,6787,2024-03-04,3,24.49,73.48,82,Google Pay,25,57,36,56,51,22,49,4,6.27,72,43,1,69,0,3,5.0,1,1
+1d761f61,28,Non-binary,13230,PhD,Divorced,Port Jose,NC,US,26934,2020-07-20,7,30.91,216.34,119,Google Pay,3,7,4,38,18,15,38,3,10.16,51,48,1,45,19,1,5.7,1,1
+07742ef7,74,Non-binary,39687,PhD,Divorced,North Kimberly,CA,US,95339,2021-09-04,0,52.3,0.0,39,Apple Pay,40,34,44,19,18,25,43,1,10.38,45,54,1,49,37,0,4.6,1,1
+c7cd3ae3,56,Male,30548,Bachelor Degree,Divorced,Lisaburgh,DE,US,53031,2021-02-27,8,15.0,120.0,111,PayPal,33,48,57,60,31,45,40,5,12.64,44,57,2,59,28,3,5.2,1,1
+48fbb809,27,Male,66281,High School,Divorced,Knappville,FM,US,54408,2023-02-14,8,29.7,237.57,111,Google Pay,41,36,46,62,46,38,36,5,19.17,55,54,5,64,41,0,7.5,1,1
+e2027a7d,74,Female,97292,Master Degree,Single,West Tara,AR,US,66945,2024-10-08,8,81.14,649.12,51,Google Pay,44,42,66,51,32,32,47,3,14.1,59,55,4,62,26,0,6.6,1,1
+80a093cc,52,Male,27927,High School,Widowed,Port Shawn,OH,US,81733,2024-07-10,1,15.0,15.0,113,PayPal,69,71,69,48,71,49,82,3,7.46,57,50,5,67,20,2,5.5,1,1
+64e1758b,22,Female,85621,PhD,Widowed,Port Robertshire,DE,US,59549,2020-12-27,7,62.53,437.74,71,PayPal,91,91,59,60,58,77,75,3,10.4,79,27,3,50,45,1,7.7,1,1
+53f3c4d2,66,Male,65295,Associate Degree,Widowed,East Robert,UT,US,98598,2022-06-21,5,35.73,178.63,6,Credit Card,10,23,32,35,31,11,40,4,13.34,83,10,7,52,15,0,6.2,1,1
+fb2d6d59,38,Male,49633,Master Degree,Divorced,East Josephburgh,LA,US,90074,2021-12-12,11,26.63,292.89,44,Google Pay,85,87,84,89,72,83,54,4,11.37,29,66,10,48,56,0,7.3,1,1
+02afd91d,37,Non-binary,164687,High School,Widowed,North Juliaborough,RI,US,58574,2023-10-15,6,49.37,296.22,84,Google Pay,50,39,73,66,46,69,76,5,12.06,74,21,11,37,62,1,8.8,1,1
+c5f160ac,20,Non-binary,26928,High School,Married,Candiceport,NM,US,75562,2025-03-03,5,39.35,196.74,57,PayPal,35,52,39,52,58,65,56,7,18.58,78,6,5,68,0,1,5.8,1,1
+a70c2d67,31,Non-binary,125751,Bachelor Degree,Widowed,Angelhaven,GU,US,49647,2022-04-30,12,59.0,708.02,49,PayPal,40,45,32,45,33,27,50,4,19.72,45,49,10,46,76,0,9.0,1,1
+54ba6919,37,Male,48129,Bachelor Degree,Divorced,North Stephen,MA,US,5466,2021-04-28,8,34.21,273.72,27,Bank Transfer,76,65,75,67,80,62,63,8,5.35,19,89,14,31,55,0,7.2,1,1
+eabbd2b7,70,Female,27913,Associate Degree,Divorced,Jamestown,NJ,US,20990,2025-01-14,1,18.37,18.37,37,Bank Transfer,27,33,21,35,18,17,39,1,-2.22,34,70,13,70,67,2,4.3,1,1
+29d54a66,24,Non-binary,54472,PhD,Married,East Emilyshire,PR,US,7629,2023-12-01,8,61.68,493.47,7,Bank Transfer,90,71,97,71,60,63,83,1,14.35,38,59,13,69,30,1,6.7,1,1
+ab4bf5c0,18,Non-binary,100561,Associate Degree,Widowed,Hayesport,UT,US,77069,2021-08-12,12,65.13,781.61,120,Apple Pay,42,48,50,48,33,35,66,5,24.05,14,71,1,31,34,0,8.1,1,1
+db033fbd,74,Male,84094,High School,Widowed,Port Juanberg,MH,US,71098,2020-11-09,10,15.0,150.0,64,Debit Card,77,61,59,78,95,97,65,5,22.41,92,6,10,59,24,2,6.3,1,1
+e597ef30,59,Non-binary,82886,PhD,Widowed,Lake Johnburgh,WV,US,67889,2020-04-15,13,15.0,195.0,18,Google Pay,46,41,36,50,39,58,45,8,22.97,61,28,16,55,48,1,7.0,1,1
+9f0f9b3d,54,Non-binary,75139,Associate Degree,Married,Maryview,OR,US,71850,2021-11-06,4,19.83,79.3,110,Bank Transfer,82,84,89,77,62,82,63,8,22.01,12,86,8,49,39,2,7.0,1,1
+df9b0d7a,33,Male,47126,Bachelor Degree,Widowed,Jasonburgh,GA,US,47978,2023-12-15,9,15.0,135.0,58,PayPal,40,58,57,21,37,44,36,4,21.89,0,97,2,67,24,1,7.0,1,1
+487ce642,28,Female,42116,PhD,Divorced,Greeneshire,SC,US,2941,2021-05-28,9,60.57,545.15,16,Bank Transfer,76,81,97,72,72,66,88,4,15.91,24,85,9,51,22,0,6.7,1,1
+e9aa4e0b,62,Non-binary,127618,Master Degree,Married,New Cole,NJ,US,81077,2021-01-01,8,20.35,162.79,32,Bank Transfer,86,53,81,76,81,71,52,4,15.86,84,0,11,51,27,2,7.6,1,1
+55080b80,75,Non-binary,89832,Associate Degree,Married,Thomasbury,PW,US,11487,2024-05-09,8,15.0,120.0,42,Google Pay,35,41,65,59,33,60,56,8,5.28,84,13,11,61,33,2,6.5,1,1
+d1b21591,44,Female,38863,PhD,Single,Fischerchester,OH,US,73581,2022-02-21,6,26.74,160.43,60,Bank Transfer,70,52,76,67,51,64,88,5,13.55,10,93,6,42,18,0,6.1,1,1
+c4414baf,52,Male,140436,High School,Widowed,Davisview,IN,US,49107,2025-02-05,11,33.89,372.82,37,Apple Pay,19,37,34,35,39,35,35,11,19.03,15,85,10,45,68,1,8.0,1,1
+8a57f194,25,Male,89785,PhD,Widowed,Gomezfurt,MO,US,77319,2022-04-23,12,35.19,422.28,17,Bank Transfer,14,15,33,43,48,41,48,8,18.03,34,59,18,36,54,0,8.2,1,1
+121c3d6f,40,Male,42396,Bachelor Degree,Married,Hartbury,WV,US,45021,2020-05-14,8,33.64,269.11,93,Credit Card,28,41,3,17,15,6,8,2,14.76,63,49,10,40,44,0,6.5,1,1
+10fb794e,33,Non-binary,34802,High School,Widowed,New Joseph,WA,US,90037,2022-10-25,11,15.0,165.0,30,Google Pay,16,21,45,31,27,49,33,6,17.37,57,39,14,52,44,2,6.6,1,1
+99b38b35,74,Male,75873,PhD,Married,Walkershire,DC,US,7598,2022-12-16,4,15.0,60.0,39,PayPal,38,40,14,43,30,38,34,0,14.86,5,100,11,38,27,0,6.0,1,1
+4ce16d9a,68,Non-binary,52026,Bachelor Degree,Widowed,Michaelfort,NE,US,28095,2022-12-26,4,37.01,148.02,20,PayPal,35,58,54,39,38,43,33,1,1.84,71,26,2,73,65,1,5.5,1,1
+bb56fc76,44,Non-binary,152586,PhD,Married,Port Crystal,ND,US,94946,2023-02-05,13,57.94,753.2,32,PayPal,34,18,41,36,18,47,25,8,25.06,7,100,11,32,35,1,8.7,-1,1
+8cc0e21f,20,Male,15640,Associate Degree,Married,Hamptonmouth,FM,US,10778,2022-08-03,2,30.45,60.89,27,PayPal,19,32,31,26,49,34,57,4,13.7,72,26,5,65,26,1,5.4,1,1
+ef39b9f6,38,Female,53132,Master Degree,Widowed,Lake Johnathan,WA,US,92342,2022-04-14,9,79.94,719.44,84,PayPal,35,42,51,50,48,25,49,6,22.11,76,19,8,20,55,0,7.2,1,1
+c853bea5,38,Female,31980,High School,Married,Proctorside,KY,US,72399,2021-02-12,6,15.0,90.0,19,Credit Card,51,53,53,42,34,25,28,3,15.37,34,75,11,42,34,3,6.3,1,1
+b5f24c5a,49,Non-binary,62437,Bachelor Degree,Divorced,Arroyofort,ME,US,1698,2020-12-29,12,77.09,925.08,106,Apple Pay,77,75,56,68,56,54,80,6,11.24,55,61,7,42,16,2,6.7,1,1
+8495e923,51,Male,66912,High School,Single,East Derrickville,SC,US,60183,2020-12-27,11,20.68,227.49,1,Apple Pay,48,22,12,17,8,21,40,8,17.61,36,63,8,33,4,0,7.1,1,1
+4de484fc,48,Non-binary,50700,Master Degree,Single,North Joseph,MO,US,9857,2025-03-28,11,47.0,517.05,69,Google Pay,26,27,59,43,60,44,27,2,18.78,53,44,13,34,35,0,6.3,1,1
+271b216d,24,Non-binary,109908,Associate Degree,Married,Lake Jessica,WA,US,72535,2024-03-13,11,27.49,302.39,80,Google Pay,38,33,41,21,39,41,45,5,26.48,53,42,24,56,62,1,8.2,1,1
+bc20f007,59,Non-binary,144985,High School,Single,North Michaelberg,UT,US,70801,2023-01-01,14,25.24,353.3,49,Apple Pay,65,38,75,35,45,40,66,10,22.42,94,15,8,24,61,1,7.8,1,1
+cd3efdf4,72,Male,96404,PhD,Single,Ambermouth,AL,US,84128,2023-12-27,9,47.9,431.06,28,Bank Transfer,92,86,73,58,60,73,90,5,5.96,47,38,15,38,36,3,6.7,1,1
+0d9f9ef5,19,Male,74191,PhD,Married,Barretthaven,RI,US,92423,2021-01-21,12,26.65,319.77,106,Bank Transfer,77,56,71,62,88,67,88,6,14.37,85,23,10,36,33,1,7.2,1,1
+e14ba73c,42,Non-binary,25563,Associate Degree,Single,New Paul,ID,US,69470,2022-06-20,5,15.0,75.0,96,PayPal,9,30,17,7,24,41,42,2,13.65,97,4,4,49,9,1,5.8,1,1
+62cd4540,58,Female,58940,Master Degree,Widowed,South Katie,WA,US,33804,2023-12-30,7,15.0,105.0,46,Google Pay,84,87,71,97,84,65,99,2,2.78,26,62,6,35,0,3,6.0,1,1
+33020bae,35,Male,48676,Master Degree,Married,Michaelshire,IA,US,31040,2021-02-16,14,61.35,858.84,50,PayPal,29,28,23,42,51,46,40,5,28.48,2,84,20,78,47,0,7.3,1,1
+7217b16a,46,Non-binary,20987,PhD,Widowed,Lake Denise,PA,US,1999,2024-09-11,5,51.58,257.89,4,Credit Card,57,27,60,60,42,46,22,3,9.96,31,62,8,51,5,2,5.8,1,1
+9cef6aca,75,Male,107997,PhD,Married,South Anita,NM,US,52316,2021-06-07,7,39.16,274.1,49,Debit Card,25,27,25,39,17,12,18,0,14.98,46,55,10,72,49,0,6.8,1,1
+e74fc165,68,Male,21089,Bachelor Degree,Divorced,Ericland,DE,US,97439,2023-11-22,3,15.0,45.0,93,Bank Transfer,69,70,43,60,37,39,50,1,7.16,2,99,2,28,0,1,4.5,1,1
+2b9f1cf4,42,Female,15157,Master Degree,Divorced,Briantown,CA,US,51441,2022-11-11,6,15.0,90.0,105,Bank Transfer,46,57,58,76,50,68,58,3,10.2,19,82,11,46,26,0,5.6,1,1
+983939a5,65,Non-binary,21119,Master Degree,Married,Michaelport,IA,US,66201,2023-06-13,2,69.52,139.04,49,PayPal,77,75,59,88,64,89,86,1,7.11,24,72,1,49,4,2,4.6,1,1
+183c93d7,63,Male,45813,Master Degree,Divorced,Haleyhaven,PW,US,18228,2020-08-12,6,35.54,213.24,89,Credit Card,78,83,60,92,71,67,68,0,10.16,68,36,12,46,40,1,5.3,1,1
+e9c3403c,46,Non-binary,62685,Master Degree,Widowed,New Jesse,TX,US,3919,2022-04-12,12,43.66,523.86,65,Bank Transfer,60,28,49,60,64,66,31,6,9.12,7,90,9,61,36,1,7.0,1,1
+61f6bb2c,59,Non-binary,82474,High School,Widowed,Parsonsfurt,VA,US,41513,2021-01-20,4,29.9,119.61,43,Apple Pay,6,12,22,20,38,39,41,6,15.16,66,38,16,38,69,2,7.1,1,1
+b2205548,41,Female,52309,Master Degree,Married,South Maria,NV,US,12355,2023-05-05,7,53.4,373.77,4,Apple Pay,24,32,11,13,15,28,25,6,18.97,30,71,10,69,21,3,7.1,1,1
+cd7a1b5b,40,Female,86357,High School,Widowed,Pierceton,WI,US,22899,2021-03-24,10,53.17,531.68,90,Apple Pay,24,39,22,27,21,41,26,3,14.38,62,29,25,66,65,0,8.4,1,1
+664ccc7d,29,Non-binary,73989,Associate Degree,Divorced,Ortizland,PA,US,79157,2022-02-19,11,103.42,1137.62,55,Apple Pay,39,54,25,25,54,41,39,5,9.74,11,93,17,51,59,1,7.8,1,1
+e068bcee,55,Female,106594,Master Degree,Single,Port Kevinstad,MH,US,50169,2021-04-28,8,26.11,208.87,28,Debit Card,21,53,23,51,28,40,37,5,19.92,12,78,13,34,1,0,7.9,1,1
+5b612b8b,51,Non-binary,65855,Bachelor Degree,Widowed,Vasquezburgh,FM,US,80377,2021-11-06,7,48.27,337.92,51,Google Pay,29,29,36,46,18,26,46,3,17.14,53,40,10,42,42,1,6.7,1,1
+d849e658,33,Female,106888,High School,Married,Katieville,TX,US,44185,2023-03-08,15,39.08,586.19,89,Debit Card,56,58,70,40,68,56,59,7,19.8,28,88,15,40,62,0,8.8,1,1
+6a5a38e8,53,Male,32862,Master Degree,Divorced,Angelatown,IL,US,76181,2024-06-27,12,16.95,203.37,24,PayPal,81,92,56,75,53,84,61,6,13.1,21,87,14,50,56,2,5.8,1,1
+ce451d5d,59,Female,58204,Master Degree,Widowed,West Shannon,ME,US,28830,2022-12-11,5,66.12,330.6,91,Apple Pay,41,36,67,32,45,49,33,0,18.62,34,71,3,74,5,3,6.0,1,1
+ded967c9,67,Female,62113,PhD,Widowed,West Steventon,CT,US,68734,2022-03-12,6,17.1,102.62,66,Credit Card,43,53,70,59,70,38,64,3,9.1,57,38,1,61,33,0,5.7,1,1
+f386860f,37,Male,39331,Master Degree,Divorced,Williamstown,NJ,US,89039,2023-04-28,4,27.26,109.03,111,Credit Card,35,43,41,65,50,67,68,3,14.7,51,51,6,51,47,0,6.7,1,1
+00a855a2,70,Male,62426,High School,Divorced,Port Paula,KS,US,48139,2022-04-16,3,15.0,45.0,36,Google Pay,44,54,52,52,70,51,66,2,0.32,91,0,13,58,32,1,5.7,1,1
+b1236b00,21,Female,75867,Associate Degree,Married,West Jaredshire,NE,US,57563,2023-11-16,10,30.1,301.04,19,Bank Transfer,35,45,51,29,56,60,37,4,2.63,64,41,9,31,13,1,7.1,1,1
+0233ca10,58,Male,116346,Master Degree,Divorced,East Lisashire,MH,US,99458,2021-05-19,7,49.81,348.69,120,PayPal,60,49,66,29,34,58,69,3,9.78,67,25,14,33,28,0,7.9,1,1
+8a5b9599,43,Male,87610,Master Degree,Married,Garrettfurt,MO,US,50513,2022-07-02,14,15.0,210.0,35,PayPal,71,74,88,89,61,89,84,7,25.25,69,12,20,56,63,0,7.9,1,1
+c7ccb6ca,58,Female,187367,High School,Single,Jeremiahchester,PA,US,1474,2020-06-19,11,21.89,240.76,21,Apple Pay,29,56,41,37,48,39,46,5,14.93,10,88,16,58,59,0,7.5,1,1
+cc7dd5cc,41,Non-binary,93978,Associate Degree,Single,South Crystal,TN,US,88151,2023-01-20,12,96.65,1159.77,81,PayPal,60,73,51,52,46,59,76,9,27.44,15,89,16,36,16,1,8.6,1,1
+a70fb7fc,61,Female,51104,High School,Single,Lisatown,LA,US,64039,2021-05-17,2,26.27,52.53,44,Credit Card,82,63,85,59,69,79,60,3,13.93,66,19,1,60,42,2,5.8,1,1
+abb307e7,41,Female,66049,Associate Degree,Widowed,New Sarah,FL,US,65505,2020-12-08,14,15.08,211.09,105,Debit Card,50,45,74,77,41,80,51,5,15.37,40,65,19,53,91,0,7.4,1,1
+a51d01de,44,Non-binary,40942,Master Degree,Married,North Samanthastad,PR,US,57096,2024-10-15,4,40.1,160.4,115,Credit Card,15,45,32,30,35,28,16,3,17.19,34,67,8,56,41,1,6.3,1,1
+09586ec6,53,Non-binary,20411,PhD,Divorced,North Andrew,CO,US,7956,2020-11-27,4,48.9,195.59,89,Credit Card,73,67,87,92,86,66,79,1,7.98,20,67,6,75,23,3,5.3,1,1
+06f243a1,42,Male,39781,Associate Degree,Widowed,West Stephanieview,HI,US,58248,2021-09-12,8,15.0,120.0,77,Credit Card,33,56,53,41,57,69,59,6,11.15,31,68,1,67,42,0,6.3,1,1
+82e9f0f1,19,Non-binary,58282,High School,Single,New Jasminefort,NJ,US,57655,2023-10-22,4,15.0,60.0,28,Credit Card,62,84,91,77,99,91,85,5,21.7,44,49,7,41,9,3,6.8,1,1
+f4e7663e,52,Non-binary,40092,Associate Degree,Divorced,Heatherville,SC,US,90788,2024-10-21,7,68.92,482.47,40,Credit Card,45,41,66,52,57,69,72,1,15.15,86,33,12,73,6,2,5.7,1,1
+65ddfd91,37,Non-binary,84075,Master Degree,Married,Port Desiree,NC,US,60580,2024-12-13,8,41.08,328.6,32,Credit Card,86,66,88,98,97,62,78,6,8.65,61,26,9,30,45,1,8.1,1,1
+bd33dce1,63,Male,132156,High School,Married,Larsonbury,CA,US,27061,2022-06-29,11,15.0,165.0,45,Google Pay,49,43,56,41,50,40,34,4,28.65,36,64,17,49,68,0,7.6,1,1
+5d7aae6f,22,Female,65672,PhD,Single,Port Melaniefurt,WI,US,21178,2022-06-29,6,77.72,466.34,59,Google Pay,26,54,59,33,46,33,39,5,25.4,85,15,7,58,48,0,6.9,1,1
+8c9a8afe,65,Non-binary,79205,High School,Single,New Tiffanystad,VI,US,71243,2020-06-17,9,15.0,135.0,111,Credit Card,17,45,38,39,24,26,17,4,24.01,65,47,5,43,34,2,6.4,1,1
+b65859c6,38,Male,51704,Master Degree,Divorced,Watkinsmouth,MT,US,26551,2023-10-03,14,15.0,210.0,106,Credit Card,59,43,68,39,47,50,69,4,25.71,100,0,15,21,52,1,7.2,1,1
+636a4b9d,73,Female,32592,Bachelor Degree,Divorced,North Heather,AR,US,37280,2024-10-16,2,15.0,30.0,71,Apple Pay,23,12,18,36,19,39,15,0,7.14,54,58,1,26,8,1,4.3,1,1
+8b5ddbbf,64,Non-binary,41613,Associate Degree,Married,Ryanbury,MH,US,78065,2025-03-28,6,23.6,141.62,120,Apple Pay,15,35,23,41,1,22,1,1,9.97,77,23,1,51,26,3,5.1,1,1
+7c57924d,31,Non-binary,57199,Associate Degree,Widowed,Evanmouth,PR,US,75261,2022-07-08,9,35.21,316.86,8,Debit Card,62,50,47,59,78,71,68,1,22.14,37,62,17,43,0,1,7.1,1,1
+5336796c,50,Male,36124,Master Degree,Single,Pamelaville,MS,US,48419,2021-12-15,6,15.0,90.0,73,Credit Card,35,42,45,43,47,52,47,1,13.94,29,65,12,34,81,1,5.7,1,1
+80379718,30,Male,38225,PhD,Single,Oliverland,ID,US,60515,2024-05-27,11,15.0,165.0,14,Debit Card,57,48,54,35,62,50,41,6,11.12,49,52,12,69,0,1,6.3,1,1
+0a415895,23,Male,36944,Bachelor Degree,Single,Ellisshire,DC,US,40673,2024-01-26,8,78.11,624.89,107,PayPal,14,24,31,34,41,12,28,5,25.13,21,63,1,32,39,1,6.2,1,1
+4b0f3b21,72,Female,109353,PhD,Married,Earlmouth,ND,US,21812,2024-09-29,10,15.86,158.6,60,Credit Card,59,58,51,54,65,59,63,3,6.36,83,27,10,58,43,0,6.6,1,1
+2833a9df,55,Non-binary,38345,Bachelor Degree,Single,West Brianborough,OR,US,69501,2025-02-25,6,24.4,146.39,9,Debit Card,85,65,62,78,64,59,86,9,6.08,13,97,3,44,5,2,5.8,1,1
+7b3943d7,49,Male,41666,Master Degree,Widowed,Tiffanyside,CO,US,28772,2024-04-22,4,35.58,142.33,46,Debit Card,69,75,75,86,67,60,97,2,17.33,58,48,13,54,48,2,6.1,1,1
+83e4fde4,49,Female,36802,PhD,Widowed,Port Patrick,OH,US,64803,2024-12-07,5,58.58,292.91,12,PayPal,32,50,36,57,39,64,58,4,14.6,81,21,11,43,0,0,6.1,1,1
+647e3639,52,Female,60902,Bachelor Degree,Divorced,Oneillfort,UT,US,16175,2023-02-05,11,36.48,401.32,35,Debit Card,21,39,15,2,18,4,31,6,11.24,60,44,7,51,42,1,6.5,1,1
+7698bf76,24,Male,28167,Associate Degree,Divorced,Moniqueport,KY,US,90343,2022-04-14,3,15.0,45.0,105,Bank Transfer,17,39,27,25,14,14,18,6,11.7,60,48,2,59,32,1,5.6,1,1
+e67ad426,63,Non-binary,64877,Bachelor Degree,Married,Geraldport,AK,US,98078,2022-02-12,7,95.93,671.5,25,Apple Pay,53,45,65,36,39,37,48,6,16.2,50,45,13,62,24,0,6.2,1,1
+9465d06d,18,Female,62106,PhD,Married,Elizabethville,WY,US,16726,2020-10-02,10,28.94,289.36,17,PayPal,56,65,48,46,54,82,54,8,12.19,83,23,11,63,35,0,6.5,1,1
+4cddffde,41,Non-binary,62091,Master Degree,Single,New Jayborough,LA,US,23015,2023-05-22,8,43.64,349.13,39,PayPal,18,35,48,39,28,19,43,7,32.19,78,31,22,45,40,2,7.2,1,1
+5f9eb94b,60,Non-binary,120529,Associate Degree,Widowed,North Markville,MS,US,37674,2023-07-22,13,28.13,365.63,94,Bank Transfer,26,29,18,54,43,54,20,3,21.99,18,90,16,46,46,2,7.4,1,1
+92ea069f,58,Non-binary,20160,High School,Widowed,Martinezchester,VA,US,65920,2024-06-26,4,25.81,103.24,43,Bank Transfer,19,26,24,14,44,9,44,2,13.63,72,31,2,49,0,4,4.7,1,1
+107a1519,34,Male,53841,Associate Degree,Single,West Christy,CT,US,10530,2023-04-24,11,83.17,914.87,33,Credit Card,46,49,70,74,72,56,72,5,12.37,51,51,7,49,20,0,7.5,1,1
+3311e5d2,42,Male,23967,Master Degree,Married,Gallaghershire,TX,US,64798,2024-05-12,6,15.0,90.0,58,Credit Card,53,69,52,71,67,57,55,3,9.03,36,60,8,42,35,0,5.7,1,1
+eb3cbd46,53,Male,65548,Bachelor Degree,Widowed,Davisstad,MI,US,54493,2021-04-29,6,72.99,437.91,4,Apple Pay,70,98,87,70,63,66,81,8,6.27,16,82,1,34,38,1,6.9,1,1
+77bf43e4,64,Non-binary,60922,PhD,Divorced,West Tyler,AS,US,87976,2021-07-28,6,15.0,90.0,37,PayPal,21,18,40,51,50,46,24,1,10.31,0,97,9,63,26,0,5.7,1,1
+4ac463c8,36,Non-binary,49023,PhD,Widowed,Lauraport,NY,US,39810,2024-02-27,12,44.92,539.02,13,Credit Card,23,53,31,18,43,20,32,5,15.47,83,26,17,42,40,0,7.2,1,1
+09e8dd3a,23,Non-binary,97679,PhD,Widowed,West Steven,IA,US,20223,2024-03-28,12,15.0,180.0,48,Apple Pay,34,51,25,39,51,52,39,6,19.68,20,85,18,24,79,0,8.0,1,1
+9776cad9,27,Non-binary,29795,High School,Single,Donnaburgh,SD,US,6036,2021-07-12,4,46.86,187.42,45,Google Pay,63,40,61,29,50,59,52,1,5.18,100,11,6,63,23,0,6.0,1,1
+e00ad109,48,Female,70246,High School,Widowed,Markshire,WA,US,51612,2020-06-27,12,86.75,1041.04,92,Credit Card,68,65,68,71,41,39,60,4,19.34,12,78,12,18,29,2,7.1,1,1
+e84f6595,26,Male,84894,Master Degree,Single,Lake Samanthabury,KS,US,72948,2021-06-11,11,34.88,383.73,56,Debit Card,92,61,90,68,72,56,57,12,28.1,40,68,8,67,46,0,7.9,1,1
+c1cadb2b,72,Female,33937,PhD,Widowed,Jenniferville,GU,US,21517,2020-05-18,5,32.7,163.52,2,Bank Transfer,76,72,65,46,65,48,48,4,11.52,64,36,4,88,22,1,4.3,1,1
+3ebc212c,54,Male,52505,Bachelor Degree,Divorced,Russoberg,KS,US,23239,2020-05-09,1,20.12,20.12,53,PayPal,55,60,62,54,26,35,41,5,12.87,49,68,13,70,40,2,6.3,1,1
+5fbd8f1c,20,Female,44995,Bachelor Degree,Married,Lake Aliciamouth,GU,US,88792,2024-12-31,10,35.9,358.96,96,Apple Pay,75,81,59,79,77,77,75,4,15.07,77,12,18,34,46,0,6.1,1,1
+c7a08359,37,Non-binary,57155,Master Degree,Divorced,Millerfort,DC,US,42869,2023-10-07,11,31.27,343.97,94,Apple Pay,43,50,66,51,64,69,71,6,18.27,77,19,12,27,55,2,7.3,1,1
+aa3b345f,22,Female,289534,PhD,Widowed,Geoffreyfort,MA,US,61853,2024-07-07,9,15.0,135.0,100,Google Pay,92,57,67,68,68,59,71,4,15.59,0,97,22,50,17,0,8.1,1,-1
+1fc6e17c,35,Female,21321,Master Degree,Widowed,North Thomas,GA,US,93032,2021-09-17,5,31.18,155.92,119,Credit Card,44,58,66,74,81,71,54,3,11.46,100,11,9,34,42,1,6.4,1,1
+a2d56049,40,Female,46904,Associate Degree,Divorced,West Anthonyville,MO,US,49464,2021-01-28,6,53.64,321.85,107,Bank Transfer,23,6,29,8,15,41,18,2,13.12,95,11,6,44,49,1,6.7,1,1
+312be7fc,35,Non-binary,177188,Master Degree,Single,Davisborough,GA,US,51422,2020-06-05,13,15.0,195.0,100,Bank Transfer,30,8,11,38,0,14,16,10,21.11,59,49,27,61,63,0,9.0,-1,-1
+438acf94,45,Female,77534,Bachelor Degree,Widowed,Davishaven,MA,US,61256,2023-11-11,10,33.57,335.71,28,Apple Pay,52,58,44,56,25,19,51,4,20.4,100,7,13,30,52,2,7.8,1,1
+5e7ab4a8,56,Female,70577,Bachelor Degree,Single,Gutierrezmouth,TN,US,94913,2022-07-29,9,59.1,531.93,9,PayPal,57,37,34,33,36,29,26,4,12.93,48,39,1,44,33,0,6.9,1,1
+2abd74ec,43,Non-binary,48840,Bachelor Degree,Married,South Amandatown,MO,US,15794,2021-03-25,3,78.02,234.06,4,Bank Transfer,49,47,57,56,55,33,68,5,10.79,78,25,8,56,39,2,6.7,1,1
+3bf50a63,64,Non-binary,111010,Associate Degree,Widowed,Johnsonburgh,MH,US,20479,2021-07-05,11,15.0,165.0,46,Google Pay,29,54,30,37,25,49,27,8,14.69,81,20,18,30,89,1,7.3,1,1
+2b46a5f8,59,Male,55680,Associate Degree,Divorced,Smallville,NM,US,82119,2024-01-09,4,19.3,77.21,96,PayPal,47,49,42,63,44,55,33,5,6.74,57,60,15,52,27,2,6.2,1,1
+e6daa5d3,57,Male,64668,Master Degree,Married,Garciachester,NM,US,40301,2022-06-21,12,30.73,368.75,16,Bank Transfer,57,43,50,27,33,32,36,5,17.99,42,69,7,39,42,2,6.4,1,1
+ed82f1c5,38,Non-binary,106201,Associate Degree,Single,South Laurenville,CT,US,80529,2022-07-17,10,45.81,458.1,43,Bank Transfer,31,51,14,11,39,28,24,5,24.24,71,31,13,20,57,1,8.7,1,1
+93c78391,49,Male,36825,Associate Degree,Widowed,Wardbury,FL,US,99225,2021-09-21,2,57.84,115.69,55,Apple Pay,57,51,27,29,61,39,50,3,7.28,95,10,5,63,30,1,5.9,1,1
+4123fd26,19,Non-binary,18152,High School,Married,Robertside,VI,US,40389,2024-01-03,10,15.0,150.0,89,PayPal,27,25,43,51,56,38,29,3,6.32,0,92,7,53,3,1,5.2,1,1
+62015b36,47,Non-binary,44784,PhD,Divorced,Johnport,VA,US,55911,2022-11-04,6,23.45,140.72,114,Bank Transfer,29,39,30,20,18,33,9,3,12.39,16,73,10,81,22,2,6.2,1,1
+aa4cdfe1,55,Non-binary,161808,Associate Degree,Single,East Jenniferchester,CO,US,12592,2023-03-22,9,110.08,990.73,92,Bank Transfer,52,74,90,66,84,89,53,11,16.14,50,33,6,33,10,1,7.6,-1,-1
+ac4482b1,21,Non-binary,71519,High School,Widowed,New Mike,DE,US,79353,2022-10-14,6,78.03,468.2,49,Credit Card,51,65,44,48,75,35,54,7,15.62,35,63,14,38,67,0,7.2,1,1
+9e9bbdaa,57,Non-binary,19329,Associate Degree,Widowed,Kimberlyfort,MP,US,94877,2020-08-13,8,15.0,120.0,116,Credit Card,71,39,50,39,38,63,44,3,8.02,58,45,3,38,1,1,4.8,1,1
+10f707da,40,Non-binary,44391,Master Degree,Divorced,New Aimeefort,NY,US,2947,2024-05-17,11,15.0,165.0,6,Google Pay,44,61,52,46,31,31,36,4,15.12,98,14,16,42,35,1,6.7,1,1
+7120b011,23,Non-binary,45105,High School,Single,Gregoryton,RI,US,43137,2023-11-03,6,15.0,90.0,83,Debit Card,47,45,58,32,35,40,31,6,6.51,86,14,3,76,33,2,6.5,1,1
+5f59570e,65,Male,34073,High School,Single,Schultztown,KY,US,73124,2025-03-22,2,54.86,109.71,110,Debit Card,52,63,64,70,81,59,47,2,3.12,37,57,9,51,36,4,4.7,1,1
+e74d5174,43,Female,102946,Master Degree,Divorced,Carlafurt,MI,US,83365,2020-08-03,17,94.79,1611.42,50,Bank Transfer,84,80,64,61,62,57,64,10,25.66,18,94,9,21,57,0,8.7,-1,-1
+0bd13749,61,Female,33629,Associate Degree,Widowed,South Susan,MA,US,2581,2020-11-27,5,15.0,75.0,46,Google Pay,9,31,32,8,27,29,3,3,13.64,16,93,7,86,42,2,5.0,1,1
+60b1d00c,63,Non-binary,42777,PhD,Married,Port Katrina,UT,US,1606,2021-07-09,6,30.73,184.35,112,PayPal,66,72,39,60,48,63,55,1,9.76,76,35,11,42,23,4,5.3,1,1
+1c3f4861,71,Non-binary,44190,PhD,Single,North Brianna,WA,US,9027,2025-03-18,6,15.0,90.0,83,Debit Card,62,63,42,36,63,52,47,3,9.81,31,57,4,70,32,2,5.1,1,1
+ca0ff74c,32,Non-binary,76393,Master Degree,Widowed,New Lindseybury,UT,US,56051,2020-09-10,12,75.01,900.07,31,Credit Card,57,65,57,34,60,57,49,8,20.05,16,98,10,54,53,1,7.8,1,1
+21d9ac85,24,Female,41212,Master Degree,Single,North Territon,MS,US,41563,2022-02-24,9,32.03,288.25,71,Credit Card,57,90,91,92,71,84,87,5,9.35,24,79,8,67,46,0,6.3,1,1
+6610bdd8,70,Male,107659,Associate Degree,Widowed,Debratown,NH,US,68293,2023-06-01,8,27.24,217.92,72,Google Pay,68,61,66,45,44,52,38,4,17.28,44,64,17,42,29,0,7.2,1,1
+1c488259,51,Female,63705,High School,Single,Palmerstad,ME,US,77003,2024-05-09,5,15.48,77.42,64,Debit Card,78,58,68,91,64,64,59,3,16.58,95,2,15,76,44,1,6.9,1,1
+9f1a983b,70,Male,38769,Bachelor Degree,Single,Melissashire,MA,US,81254,2021-01-11,6,15.0,90.0,54,Credit Card,99,96,66,87,88,96,91,6,11.03,18,76,7,73,0,2,5.0,-1,-1
+d79c9bf2,65,Male,32950,PhD,Widowed,Scottshire,PW,US,47675,2020-07-28,5,29.31,146.56,75,Apple Pay,91,70,96,70,67,65,83,2,1.59,74,34,8,66,3,2,5.1,1,1
+8220fa10,74,Female,20235,Master Degree,Married,North Drewberg,WY,US,25357,2023-09-28,3,15.0,45.0,51,PayPal,46,26,26,44,56,50,37,1,3.69,91,15,5,74,18,2,4.1,1,1
+d8d75895,58,Male,64566,Associate Degree,Married,Port Thomasland,GA,US,67166,2021-10-10,4,42.97,171.87,92,PayPal,65,51,54,75,77,83,63,3,13.1,72,35,3,47,51,2,6.5,1,1
+48f8afbd,55,Non-binary,100403,Master Degree,Divorced,Jonathanland,DC,US,99017,2020-05-09,8,85.68,685.43,109,Apple Pay,51,84,57,52,75,60,54,11,16.59,63,30,12,48,48,0,7.7,1,1
+1f72b473,36,Non-binary,35593,Bachelor Degree,Married,West Benjaminborough,MA,US,26275,2020-07-26,9,91.84,826.54,8,Bank Transfer,68,63,84,52,72,78,56,6,21.81,68,35,2,54,32,0,6.9,1,1
+14e3e582,42,Male,35063,PhD,Divorced,East Jennifer,IL,US,62686,2021-05-22,4,82.42,329.68,86,Credit Card,83,83,85,79,94,62,59,7,9.13,70,34,9,47,12,0,6.4,1,1
+42fae280,71,Male,89721,Bachelor Degree,Married,Farmerside,ME,US,43240,2020-12-03,8,15.0,120.0,93,Debit Card,46,29,22,29,29,50,25,2,14.67,40,60,4,51,52,2,6.7,1,1
+0c84b273,34,Male,40750,Associate Degree,Divorced,Jamieport,TN,US,69234,2025-03-30,11,51.19,563.09,43,Apple Pay,54,47,54,65,83,48,85,5,12.5,60,43,7,35,66,1,7.1,1,1
+8726c9cc,53,Female,52428,High School,Divorced,East Seanfurt,PA,US,32854,2022-04-30,3,61.7,185.11,29,Debit Card,37,65,43,59,67,67,58,3,18.83,6,86,4,80,19,0,6.3,1,1
+17d95411,39,Female,71548,Bachelor Degree,Married,South Robert,WV,US,72960,2021-01-20,11,79.07,869.73,80,Google Pay,65,30,37,52,58,45,69,11,11.08,88,0,11,40,63,2,7.8,1,1
+799ef16a,42,Male,34980,Master Degree,Divorced,Mckenzieburgh,MP,US,2868,2022-03-31,6,34.56,207.39,93,PayPal,34,24,33,33,29,32,3,5,15.28,39,66,1,61,10,0,6.3,1,1
+005a41ae,50,Male,95381,High School,Married,Reginaborough,CO,US,2603,2020-12-09,12,64.55,774.63,69,Google Pay,40,4,13,40,13,27,6,8,16.47,23,89,8,21,44,0,7.8,1,1
+a107c2c0,65,Non-binary,31707,Associate Degree,Single,Glennfurt,SD,US,41951,2022-09-13,0,15.0,0.0,92,PayPal,7,6,5,13,18,37,6,2,8.3,54,40,1,54,18,2,5.0,1,1
+9d303a3b,42,Female,83545,Master Degree,Widowed,Jonestown,PA,US,77182,2023-07-03,9,60.31,542.78,3,Apple Pay,50,77,43,82,47,80,45,10,19.32,62,30,6,73,69,0,8.2,1,1
+18b83294,24,Female,85941,Bachelor Degree,Single,Lake Carly,NV,US,97396,2023-09-12,10,45.26,452.56,98,Apple Pay,49,25,54,34,58,38,32,5,13.63,81,24,14,49,69,0,7.8,1,1
+b48b8c38,37,Non-binary,60540,Bachelor Degree,Single,North Glenn,OH,US,27288,2022-03-04,11,55.99,615.94,112,Google Pay,16,11,9,45,47,34,43,5,21.2,46,44,10,51,35,0,7.4,1,1
+6b741b0d,65,Non-binary,28321,Bachelor Degree,Married,Port Stephanie,NJ,US,3097,2022-12-17,6,58.01,348.05,116,Bank Transfer,86,63,64,65,68,93,70,2,1.72,14,88,3,75,36,0,4.5,-1,-1
+c5ee75e1,72,Non-binary,118224,Master Degree,Single,Burnsshire,CA,US,54081,2023-08-24,15,35.38,530.7,86,Credit Card,22,28,53,47,37,38,24,6,17.41,64,25,5,53,9,1,6.8,1,1
+11832aa2,57,Male,77150,Associate Degree,Divorced,Lake Elizabethberg,KS,US,79856,2022-07-20,7,33.4,233.79,58,PayPal,58,76,48,75,75,62,59,6,12.45,90,0,11,45,55,1,6.9,1,1
+8170b75b,33,Male,59018,Master Degree,Divorced,West Kaitlyn,WA,US,52663,2020-07-25,12,15.0,180.0,47,Debit Card,64,73,72,71,65,62,74,2,18.93,50,54,19,32,40,0,7.6,1,1
+ffa2e2c1,23,Female,117645,Associate Degree,Married,Alexanderville,VI,US,83919,2023-10-19,11,25.39,279.29,94,Bank Transfer,8,5,36,44,5,41,41,2,21.86,48,55,16,39,83,0,8.1,1,1
+a89726a7,53,Female,45210,PhD,Widowed,Lisastad,TN,US,52729,2021-08-10,7,43.18,302.28,100,Debit Card,48,37,60,41,31,52,55,1,16.02,53,49,12,56,28,0,6.2,1,1
+e26c0313,18,Non-binary,35480,Associate Degree,Married,Hallfort,MO,US,97390,2021-01-11,5,15.0,75.0,66,Debit Card,38,39,64,64,37,58,50,1,7.37,9,92,7,57,51,2,5.6,1,1
+ab54fad8,34,Female,44179,Associate Degree,Single,Jacksonmouth,DE,US,63699,2021-07-11,7,15.0,105.0,27,Google Pay,81,82,88,87,60,60,78,4,15.29,16,99,11,43,25,1,7.0,1,1
+34587443,71,Non-binary,66205,Bachelor Degree,Married,Christopherland,MA,US,97570,2023-03-01,7,15.0,105.0,84,Apple Pay,60,27,56,39,47,37,56,1,9.48,41,64,2,73,15,1,5.8,1,1
+398e5cd3,74,Non-binary,30082,High School,Married,Lake Elizabeth,AS,US,92640,2022-10-23,3,15.0,45.0,22,Debit Card,36,21,17,13,15,14,27,1,1.13,53,36,5,82,0,2,4.4,-1,1
+23712884,69,Female,101857,High School,Widowed,North Amy,MA,US,55870,2021-06-28,13,24.56,319.34,62,Apple Pay,50,23,39,14,28,15,21,3,23.22,52,36,1,69,69,1,7.2,1,1
+224849eb,20,Non-binary,59968,Associate Degree,Single,Lake Kristenberg,MS,US,56483,2024-05-05,7,70.64,494.49,34,Debit Card,58,71,69,73,34,51,38,5,14.87,30,83,15,63,55,0,6.8,1,1
+d9ed9e30,28,Male,101660,Master Degree,Married,Cynthiamouth,MN,US,2021,2020-10-26,11,53.03,583.3,75,Debit Card,71,55,49,60,68,77,76,8,20.42,8,95,21,63,56,0,8.5,1,1
+91987a5b,24,Male,21245,Associate Degree,Widowed,New Maryside,VT,US,85920,2020-08-22,7,15.0,105.0,20,Google Pay,17,36,45,44,8,40,38,4,11.38,67,29,18,24,41,0,5.5,1,1
+32f419e4,75,Non-binary,38610,PhD,Single,Donnamouth,DC,US,76138,2020-12-06,1,15.0,15.0,87,Bank Transfer,60,53,50,29,60,54,41,3,2.13,98,8,6,59,0,1,4.5,1,1
+af1c24a5,55,Non-binary,117261,PhD,Single,Ericaberg,ND,US,27208,2022-11-21,13,80.46,1046.04,18,PayPal,44,35,48,68,64,56,46,5,17.85,8,89,13,54,57,2,8.0,1,1
+9fa05633,25,Non-binary,64709,High School,Widowed,Kimberlyberg,VI,US,30092,2021-08-09,7,48.96,342.69,27,Bank Transfer,71,77,74,57,60,78,88,7,18.64,32,77,12,60,87,0,7.4,1,1
+58cdfd3f,41,Non-binary,52649,Bachelor Degree,Widowed,Staceyfurt,HI,US,45743,2021-01-15,11,15.0,165.0,27,Apple Pay,70,65,46,58,70,70,65,7,14.95,24,82,14,49,4,1,7.0,1,1
+68999d1c,67,Non-binary,95797,Master Degree,Married,Lake Christopherbury,CO,US,22142,2020-06-24,9,23.93,215.37,111,Bank Transfer,21,35,17,13,20,39,32,5,23.43,85,30,13,72,43,1,6.8,1,1
+595ef2ef,28,Female,25166,High School,Single,New Shaneburgh,TX,US,69119,2020-08-28,2,35.02,70.04,19,Apple Pay,97,86,64,63,75,73,82,4,15.39,0,93,7,66,19,0,6.1,1,1
+a9920992,57,Non-binary,29852,PhD,Divorced,Adammouth,MA,US,39606,2021-04-14,3,74.42,223.26,77,Credit Card,71,100,91,88,60,72,93,3,4.2,19,80,5,74,31,5,5.5,-1,1
+da5cc01f,51,Non-binary,35002,Associate Degree,Married,Douglasmouth,GA,US,18834,2021-06-30,4,29.52,118.07,5,PayPal,15,25,20,32,40,37,40,5,6.08,36,65,1,52,7,0,5.6,1,1
+455ae2a1,65,Non-binary,84506,High School,Single,North Lauraberg,FL,US,45605,2022-03-12,3,15.0,45.0,37,Bank Transfer,88,90,75,75,70,67,91,6,14.2,100,5,9,55,59,0,6.9,1,1
+0da3e2f3,18,Female,76096,Associate Degree,Widowed,East David,MO,US,5529,2022-06-09,6,58.81,352.85,14,Google Pay,36,22,25,11,36,20,38,3,15.37,89,16,15,62,14,2,7.3,1,1
+7a7b509e,42,Non-binary,77579,Master Degree,Married,Lake Julieborough,LA,US,62374,2021-01-10,9,25.6,230.42,44,Apple Pay,72,80,44,73,50,59,47,4,13.08,35,58,9,28,53,0,7.8,1,1
+020158dd,44,Female,78814,PhD,Single,North Brendaborough,ID,US,92862,2021-05-06,4,95.0,379.99,107,PayPal,33,20,40,36,19,50,26,5,19.7,48,48,10,54,26,0,7.9,1,1
+57aaccfe,35,Male,43577,Associate Degree,Widowed,New Bruceborough,WA,US,52601,2021-02-21,8,34.66,277.24,26,Debit Card,62,63,60,61,59,62,86,8,15.61,28,57,4,47,48,2,6.8,1,1
+d125e8fe,61,Non-binary,39255,Master Degree,Single,West Benjamin,FL,US,36907,2020-12-27,5,43.25,216.26,110,Google Pay,32,25,41,22,33,38,19,4,18.03,55,48,8,42,18,3,5.5,1,1
+b85360ac,32,Non-binary,65510,Associate Degree,Single,Lake Juliefurt,SD,US,34231,2022-04-30,12,65.26,783.15,103,Apple Pay,64,32,62,52,55,41,59,5,15.18,100,6,10,53,16,1,7.6,1,1
+8b6ad83f,62,Male,75404,High School,Married,North Ronald,NH,US,85058,2023-02-23,7,41.27,288.87,75,Credit Card,43,59,36,31,55,36,35,1,15.01,35,73,13,57,2,2,6.6,1,1
+8c81741f,29,Female,48781,Master Degree,Married,Ochoaport,MA,US,63272,2022-12-04,5,58.2,290.98,90,PayPal,48,40,51,34,59,31,59,7,9.98,61,29,13,76,43,1,6.8,1,1
+1e51cbd6,53,Female,116003,Master Degree,Married,North Jeffrey,LA,US,47334,2024-06-16,16,37.43,598.82,103,Bank Transfer,39,9,20,35,40,17,49,8,15.45,51,53,13,54,46,0,8.0,1,1
+52adb129,34,Non-binary,52250,PhD,Single,Griffithfort,GU,US,9323,2023-01-16,9,74.66,671.92,13,Bank Transfer,13,23,26,40,50,16,38,3,21.8,72,26,11,51,43,1,7.3,1,1
+435cb663,53,Non-binary,75947,Bachelor Degree,Divorced,Lake Christopher,MN,US,876,2025-03-01,2,15.0,30.0,53,Credit Card,60,34,58,58,56,33,40,5,10.56,41,69,6,67,18,2,7.2,1,1
+5d72a43e,74,Male,50333,Master Degree,Divorced,Lake Bonniefort,MP,US,78348,2022-09-04,4,44.46,177.83,81,Debit Card,65,95,76,81,95,94,91,4,6.31,32,51,1,29,21,6,4.9,-1,-1
+a021ce00,39,Male,39555,Bachelor Degree,Divorced,Wallmouth,OH,US,93746,2021-08-12,7,15.0,105.0,38,Bank Transfer,55,42,34,45,40,54,50,2,20.27,99,0,7,44,67,1,6.6,1,1
+c9190915,72,Male,34610,Associate Degree,Married,Wilcoxburgh,AR,US,49191,2021-07-25,8,16.2,129.6,33,Bank Transfer,49,57,54,69,50,50,48,2,3.12,98,13,13,72,20,1,4.4,1,1
+74969542,19,Female,117655,PhD,Single,Christopherport,AL,US,47247,2024-09-10,16,15.0,240.0,34,Google Pay,14,33,28,23,24,27,37,5,19.9,56,43,16,40,65,0,8.0,1,1
+cc641140,19,Male,103368,Bachelor Degree,Divorced,East Lindsey,SD,US,18964,2020-06-06,12,15.0,180.0,61,Apple Pay,89,72,90,83,63,89,66,6,23.47,63,50,14,29,55,1,8.3,1,1
+6fafd129,45,Non-binary,54033,PhD,Divorced,Barbarastad,CO,US,9824,2023-04-30,7,67.9,475.29,62,Google Pay,19,42,33,37,40,30,23,5,18.54,20,75,8,48,50,3,6.7,1,1
+e4a2048e,40,Female,40717,Master Degree,Single,Williammouth,MN,US,11444,2021-06-02,4,15.0,60.0,119,Apple Pay,90,79,60,87,78,98,74,1,14.01,86,21,9,15,21,1,6.5,-1,-1
+b433cf2c,44,Non-binary,42243,Master Degree,Widowed,Rodriguezburgh,VA,US,14702,2023-11-16,7,15.0,105.0,21,Bank Transfer,71,71,61,63,52,74,87,3,19.57,32,74,13,31,56,0,6.5,1,1
+0556baa4,59,Non-binary,35662,PhD,Divorced,Nelsonburgh,CO,US,19078,2022-12-17,9,17.81,160.3,25,Credit Card,19,29,18,51,40,50,39,3,9.55,36,77,15,53,27,2,5.2,1,1
+07c308c3,38,Male,108238,Associate Degree,Single,Elizabethmouth,AL,US,20228,2022-04-11,20,79.83,1596.69,3,Debit Card,24,23,14,34,6,20,11,11,35.29,20,80,8,54,69,2,8.8,-1,-1
+3f7b9966,44,Female,65036,Master Degree,Divorced,Lake Victormouth,MT,US,54291,2022-09-04,9,15.0,135.0,90,Credit Card,26,30,24,38,46,25,55,6,14.22,43,50,11,54,35,1,7.4,1,1
+eb9002a6,71,Male,81394,High School,Married,Bradyside,CT,US,83538,2023-02-12,0,15.0,0.0,99,Apple Pay,17,27,44,21,48,28,45,2,6.0,37,61,10,58,0,1,6.1,1,1
+4b9024d2,58,Non-binary,53647,High School,Single,East Krystalhaven,GU,US,97657,2023-11-09,10,15.0,150.0,62,Bank Transfer,31,42,22,32,26,34,59,6,21.46,33,51,1,69,47,1,6.0,1,1
+ba89e96d,55,Male,123702,Master Degree,Married,North Samuelshire,FL,US,4147,2025-03-23,10,19.48,194.84,6,Google Pay,80,88,59,73,55,65,60,10,24.19,58,50,15,49,30,0,7.6,1,1
+30ef2aa3,21,Female,32574,Associate Degree,Single,South Saraville,CT,US,19091,2024-07-27,4,27.05,108.21,63,Debit Card,55,42,48,32,21,44,42,3,18.05,70,18,8,74,11,1,5.9,1,1
+241b0eea,63,Female,108345,PhD,Divorced,Victoriafort,RI,US,79143,2022-03-26,6,84.54,507.26,90,Apple Pay,48,23,46,34,32,41,29,3,7.73,95,20,13,57,33,1,7.3,1,1
+c16ace61,22,Non-binary,55023,Associate Degree,Widowed,Grahamfurt,ID,US,33281,2023-08-14,8,56.4,451.19,105,PayPal,57,63,34,74,66,58,45,4,9.32,97,12,3,50,40,1,6.9,1,1
+c6f98929,33,Female,58391,High School,Widowed,Carterhaven,MI,US,52707,2024-03-18,13,15.0,195.0,68,Bank Transfer,66,40,70,49,51,57,51,9,27.18,17,80,15,71,26,2,7.2,1,1
+49bda094,71,Male,56080,Associate Degree,Single,Flemingchester,MD,US,42459,2024-02-22,6,57.87,347.2,14,Apple Pay,18,14,48,36,43,45,51,4,6.93,68,20,1,67,39,1,5.4,1,1
+02a121df,32,Non-binary,25207,High School,Single,Cummingsview,MD,US,99288,2024-02-08,8,70.07,560.55,84,Apple Pay,64,88,99,62,82,94,85,6,9.8,73,26,1,71,23,1,6.2,1,-1
+b74c31e4,51,Male,61956,High School,Divorced,Lake Mirandaview,FM,US,6147,2024-11-02,9,15.0,135.0,28,Google Pay,12,20,40,30,18,18,39,6,11.76,73,44,9,20,50,1,6.6,1,1
+5bd43182,53,Non-binary,72180,PhD,Widowed,Braymouth,WI,US,96296,2021-02-02,7,61.09,427.65,14,Bank Transfer,58,65,63,42,46,47,71,7,11.26,40,54,9,26,30,0,7.2,1,1
+212a07a7,56,Female,47859,Bachelor Degree,Divorced,Kathleenport,VT,US,60010,2022-03-11,5,15.0,75.0,42,PayPal,66,53,46,64,41,62,60,3,13.48,28,76,14,46,30,0,6.0,1,1
+8ef9a7ea,46,Female,32117,Master Degree,Single,Ryanberg,MO,US,66324,2021-03-15,7,44.12,308.85,5,PayPal,39,71,46,57,38,57,52,3,0.17,21,68,6,41,37,1,6.0,1,1
+8e91a0af,53,Non-binary,97078,PhD,Married,East Dariuston,OK,US,35389,2024-09-29,10,21.48,214.8,5,Apple Pay,31,30,38,45,59,37,36,3,15.15,24,66,22,21,100,1,8.0,1,1
+f0a2b4c7,43,Non-binary,44918,Associate Degree,Single,Lake Thomasmouth,AK,US,23768,2021-03-21,9,15.0,135.0,42,Apple Pay,42,47,17,49,30,13,47,7,12.66,29,61,1,78,32,2,6.6,1,1
+26871545,74,Female,281855,Master Degree,Single,Smithstad,ME,US,93582,2020-05-25,12,26.0,312.06,99,Debit Card,85,47,87,87,71,50,66,5,11.47,52,54,12,49,26,1,6.9,1,-1
+f8748880,27,Female,55781,PhD,Married,Archerhaven,HI,US,35275,2024-06-01,9,15.0,135.0,7,Bank Transfer,71,74,84,82,78,51,60,3,17.06,45,50,13,59,76,1,6.9,1,1
+50d8f3ec,39,Male,83375,Master Degree,Single,West Margaret,DE,US,7473,2022-03-15,20,15.0,300.0,52,PayPal,30,37,32,13,13,35,40,9,22.05,21,90,20,21,100,0,8.4,-1,-1
+3eb337f9,30,Non-binary,19697,PhD,Married,Glenchester,TX,US,42769,2023-12-01,6,15.0,90.0,10,PayPal,76,69,85,54,56,75,76,1,10.06,32,63,8,44,10,0,5.9,1,1
+a5ba196b,56,Non-binary,43575,High School,Divorced,New Rebecca,WY,US,32305,2024-04-29,7,33.39,233.75,45,Google Pay,80,91,61,80,54,66,64,6,4.04,62,23,4,53,0,2,5.6,1,1
+263ebab1,65,Male,29746,Associate Degree,Married,Lake Jamieberg,OH,US,97549,2020-05-27,5,15.0,75.0,107,PayPal,21,7,19,28,30,1,21,4,-2.47,27,75,1,57,0,2,4.7,1,1
+001b5c26,52,Non-binary,77101,Bachelor Degree,Widowed,Myersville,ME,US,53527,2021-10-13,8,34.59,276.73,94,Debit Card,45,68,81,77,46,60,54,6,18.84,2,100,10,22,24,4,7.2,1,1
+51ac415d,21,Female,67972,High School,Single,Cruzville,NH,US,55144,2023-02-05,9,15.0,135.0,85,PayPal,65,48,43,60,66,56,66,5,14.27,43,49,8,67,41,2,7.2,1,1
+cc5548e6,73,Non-binary,26020,PhD,Single,Jonesfort,MS,US,62334,2024-03-25,1,15.0,15.0,26,Google Pay,64,30,31,44,62,48,50,2,8.45,43,41,1,67,15,2,4.2,1,1
+5c009ae2,61,Female,39884,Bachelor Degree,Divorced,South Sarahfort,MD,US,30848,2023-12-14,6,87.3,523.78,65,PayPal,54,91,67,75,52,86,68,4,12.84,22,79,1,64,12,0,5.3,1,1
+ab9c5a4a,23,Non-binary,69319,Master Degree,Married,Andersonshire,OH,US,26680,2022-12-08,6,15.0,90.0,31,Google Pay,36,28,47,30,37,43,17,5,16.73,14,87,7,58,44,0,7.4,1,1
+25c808d6,61,Male,95737,Associate Degree,Divorced,Masonstad,RI,US,73730,2021-05-31,9,15.0,135.0,91,Google Pay,66,85,67,94,68,78,62,5,22.07,48,39,10,30,48,1,7.3,1,1
+60cfe858,71,Male,88908,High School,Divorced,Port April,RI,US,66043,2020-05-04,9,41.39,372.55,53,Apple Pay,47,59,36,28,31,25,27,2,4.19,27,90,6,26,28,0,6.5,1,1
+a05deb30,56,Non-binary,64577,PhD,Married,West Tinachester,PA,US,97401,2021-12-06,4,91.29,365.15,30,Debit Card,44,65,48,73,51,75,81,5,22.67,56,54,5,56,22,2,6.4,1,1
+7b9a46b6,72,Female,92132,Master Degree,Widowed,Wilsonstad,MI,US,25882,2024-07-03,12,15.0,180.0,21,Debit Card,16,40,14,31,40,28,26,7,19.99,67,19,7,57,11,2,6.7,1,1
+e854b3dc,73,Non-binary,35030,Master Degree,Divorced,West Shawnaborough,NM,US,92940,2020-05-31,5,56.99,284.97,59,Debit Card,52,29,65,51,47,52,66,0,14.46,100,15,6,79,20,0,4.7,1,-1
+e986898a,51,Non-binary,31307,High School,Single,North Tiffany,UT,US,58209,2022-09-29,7,15.0,105.0,59,Credit Card,71,89,90,81,58,91,80,1,12.59,61,39,8,66,25,2,5.6,1,1
+c2cd4e08,36,Female,67273,Master Degree,Divorced,Sandraview,AS,US,99239,2020-12-08,10,19.86,198.6,106,PayPal,39,56,47,68,32,62,38,6,22.74,56,57,8,53,42,1,7.6,1,1
+53928648,64,Non-binary,40908,High School,Married,East Kelseyport,MA,US,75353,2020-11-28,6,29.45,176.73,75,Bank Transfer,42,59,60,54,62,35,45,4,14.48,41,58,3,58,43,1,5.0,1,1
+448aa434,34,Female,59380,Associate Degree,Single,Jordanfort,DC,US,30309,2024-10-06,9,59.93,539.35,15,Bank Transfer,68,51,33,61,52,60,67,4,13.56,96,12,9,51,34,1,7.6,1,1
+c5cd8915,20,Male,28532,Bachelor Degree,Married,Ashleychester,CA,US,84634,2024-05-13,9,15.0,135.0,112,Debit Card,14,37,30,30,39,29,51,4,9.35,12,77,1,60,24,0,5.4,1,1
+33c7ce32,57,Female,183354,High School,Widowed,South Kathryn,SD,US,10782,2022-06-26,11,15.0,165.0,110,Apple Pay,34,72,65,49,47,71,64,4,5.42,49,46,11,23,41,0,7.9,1,-1
+dfa1ba6f,56,Male,28632,Associate Degree,Divorced,South Jessica,FM,US,54230,2021-10-19,4,54.08,216.33,81,Google Pay,65,55,63,61,55,74,54,1,19.89,5,93,14,41,54,1,5.5,1,1
+b3d91d5f,37,Female,58010,High School,Single,South Joseside,VT,US,62086,2024-08-30,8,18.88,151.01,54,Debit Card,28,49,48,46,45,21,39,9,12.62,75,16,6,41,68,2,7.2,1,1
+8953c61b,67,Female,43665,Bachelor Degree,Divorced,Gravesburgh,VA,US,77775,2023-02-24,0,24.16,0.0,105,Credit Card,75,83,52,66,78,56,55,2,5.69,67,30,1,80,36,0,5.4,1,1
+f27cc3c5,44,Non-binary,83239,Associate Degree,Married,Tommybury,FM,US,22694,2021-11-04,13,28.67,372.71,8,Credit Card,76,69,41,66,74,54,63,6,27.77,60,37,7,27,48,2,8.1,1,1
+e82366bf,54,Non-binary,64571,Bachelor Degree,Married,Port Shawn,PW,US,14868,2021-10-30,6,15.0,90.0,73,Apple Pay,73,64,64,44,72,47,51,4,12.57,87,0,6,37,42,2,6.5,1,1
+1a30fed6,47,Non-binary,63369,High School,Married,Wigginsbury,TX,US,26148,2020-10-16,12,41.42,497.01,79,Apple Pay,28,47,48,61,66,39,26,3,12.85,63,33,8,60,43,0,6.8,1,1
+2923e361,37,Female,96704,PhD,Divorced,Morenoburgh,FM,US,39835,2020-12-22,12,82.17,986.08,1,Credit Card,64,64,68,79,82,44,54,7,28.71,19,85,19,73,51,0,8.9,-1,1
+981eef0f,69,Male,59716,Associate Degree,Widowed,Mcdanieltown,LA,US,35618,2024-05-27,8,55.03,440.27,81,Apple Pay,91,78,86,83,60,90,76,3,10.25,56,50,7,65,19,3,5.8,1,1
+ffc39701,19,Male,37686,PhD,Divorced,Lake Andrewfurt,CO,US,92871,2020-10-16,4,24.34,97.38,118,PayPal,13,21,5,25,28,44,38,5,9.41,92,24,1,88,43,1,6.0,1,-1
+db1b8b5b,29,Non-binary,59476,High School,Divorced,Williamsport,ME,US,3678,2021-04-27,12,27.09,325.05,110,PayPal,47,62,71,50,76,60,68,3,23.53,44,50,18,43,69,2,7.4,1,1
+4b3482bd,37,Male,52670,High School,Divorced,Harrisview,SD,US,76024,2020-11-15,11,15.0,165.0,5,Debit Card,63,86,90,59,88,90,67,7,8.19,24,86,12,33,52,1,7.2,1,1
+82ebbccb,67,Female,86579,Associate Degree,Single,New Garyfort,OR,US,33264,2020-08-31,9,15.0,135.0,67,Bank Transfer,21,10,37,32,41,15,8,4,16.95,22,77,8,33,22,2,6.5,1,1
+45d9748f,39,Female,79713,High School,Single,Port Alexander,NC,US,98562,2022-05-10,9,17.44,157.0,99,Bank Transfer,66,48,83,66,87,60,67,7,15.67,19,77,21,52,40,1,8.3,1,1
+2c58d413,38,Female,96598,High School,Divorced,Thomasborough,MA,US,98380,2024-06-09,9,15.0,135.0,21,PayPal,7,46,42,39,13,20,41,3,18.64,35,62,10,42,70,0,8.6,1,1
+5dcdd63b,63,Female,52239,PhD,Married,Lorichester,OR,US,96094,2024-04-25,5,55.5,277.49,10,PayPal,60,73,67,42,47,40,69,2,13.18,81,2,5,79,3,1,5.8,1,1
+3adc26dd,21,Male,55478,Master Degree,Widowed,North Derrickmouth,NE,US,87643,2024-04-09,3,22.66,67.97,91,Google Pay,94,97,85,96,79,76,78,4,16.58,88,10,3,51,36,0,6.7,-1,1
+76dbca2c,54,Male,51941,High School,Widowed,Townsendstad,VA,US,56085,2024-09-23,6,52.67,316.02,59,PayPal,72,73,57,57,52,82,59,4,14.42,93,3,13,61,15,1,6.2,1,1
+883f3a5c,68,Female,25027,Master Degree,Widowed,Joshuaton,OK,US,4489,2025-02-08,7,15.0,105.0,9,Apple Pay,29,37,36,17,25,29,45,3,7.34,63,35,5,69,4,0,4.6,1,1
+f5a0f3fc,70,Non-binary,32480,High School,Divorced,West Marymouth,MH,US,93471,2022-02-27,4,61.28,245.1,84,Credit Card,69,84,79,75,87,76,65,4,4.93,69,32,4,55,33,3,4.7,1,1
+a0578588,42,Male,60464,Bachelor Degree,Married,Carrollland,OK,US,61188,2020-09-17,8,15.0,120.0,89,Google Pay,54,63,48,61,42,38,31,5,12.98,81,31,7,35,5,1,7.0,1,1
+7dfd9a17,55,Non-binary,27531,Master Degree,Divorced,Robertborough,KY,US,26613,2022-03-01,7,70.54,493.81,13,Apple Pay,30,36,15,49,17,49,35,1,8.84,42,58,6,82,20,3,5.1,1,1
+c4297f1f,31,Male,84801,PhD,Single,Anthonyville,NC,US,86789,2021-01-11,10,42.76,427.56,19,Bank Transfer,37,43,27,33,48,45,37,8,30.76,19,79,11,45,76,0,8.4,1,1
+7cc22bc4,68,Non-binary,33674,Bachelor Degree,Widowed,Simonfort,MP,US,32428,2021-04-01,2,15.0,30.0,118,PayPal,42,5,44,37,30,13,23,1,5.14,13,84,1,85,19,3,4.6,-1,-1
+3774b3b0,63,Non-binary,53750,Bachelor Degree,Single,Lauraberg,AS,US,45865,2020-06-12,6,15.0,90.0,37,Credit Card,42,52,40,55,35,39,40,3,8.2,45,57,10,62,27,1,5.6,1,1
+249dd12c,48,Male,66317,Associate Degree,Widowed,Port Sabrina,MS,US,17344,2020-07-18,14,15.0,210.0,119,PayPal,79,62,71,61,61,53,57,1,6.55,58,40,13,50,48,1,7.2,1,1
+d604e121,26,Male,72169,Associate Degree,Widowed,Lopezborough,ME,US,57569,2020-06-14,5,82.96,414.78,59,Bank Transfer,65,77,49,67,70,65,73,2,13.35,84,18,8,40,41,2,7.4,1,1
+5d46ff27,29,Female,49092,PhD,Single,Wiseport,NE,US,34402,2022-01-13,10,33.53,335.29,64,Bank Transfer,47,32,41,49,51,38,17,6,9.3,100,7,18,47,47,2,6.9,1,1
+646b4671,25,Non-binary,48872,Master Degree,Single,Campbellville,VI,US,64676,2024-06-24,4,15.0,60.0,94,Bank Transfer,50,62,66,38,66,72,38,4,18.47,34,67,14,56,30,3,6.8,1,1
+e24027e1,69,Non-binary,27260,Bachelor Degree,Single,Lake Trevor,MH,US,36505,2023-05-08,3,20.09,60.27,69,Credit Card,59,62,60,66,51,56,52,4,3.51,95,2,1,35,2,2,4.4,1,1
+18a85263,20,Non-binary,88194,PhD,Divorced,New Jose,ME,US,81186,2021-03-14,13,46.17,600.23,101,Google Pay,19,56,46,53,26,52,19,6,27.37,64,43,14,13,63,0,7.5,1,1
+90bf79a2,36,Female,57656,High School,Married,North Jenna,IN,US,8853,2022-06-10,12,69.03,828.3,10,PayPal,24,55,33,33,32,16,23,7,22.78,68,33,14,89,29,2,7.6,1,1
+d489528c,41,Male,41909,Bachelor Degree,Married,Lake Traci,MN,US,40351,2022-07-22,6,15.0,90.0,24,Google Pay,57,76,60,64,93,64,86,2,14.92,78,26,10,49,4,3,6.5,1,1
+a0dd7578,60,Female,94288,Associate Degree,Married,Bellborough,MT,US,79045,2022-01-13,8,51.55,412.39,94,PayPal,19,10,6,13,32,28,33,7,20.39,37,66,12,60,39,1,7.4,1,1
+9aa6adf7,61,Non-binary,109203,Master Degree,Widowed,New Ashleychester,AK,US,43102,2023-10-21,8,39.43,315.44,19,Google Pay,82,55,73,83,79,75,88,9,17.76,59,24,2,16,8,0,7.7,1,1
+5f4f3aec,58,Female,37981,Master Degree,Divorced,Port Cassandramouth,VI,US,21376,2023-05-25,5,45.77,228.83,35,PayPal,57,67,88,76,80,66,88,2,8.47,83,22,11,50,23,2,5.4,1,1
+f60b2a09,38,Non-binary,38795,High School,Single,Katherineshire,WV,US,15152,2020-08-11,6,50.16,300.98,9,Credit Card,32,59,32,54,48,40,44,4,14.97,16,64,2,66,0,1,6.9,1,1
+dc340cce,23,Male,43560,PhD,Married,West Anna,VT,US,38671,2021-11-30,4,15.0,60.0,82,Credit Card,52,50,83,53,69,81,56,7,7.18,84,8,3,80,30,1,6.3,1,1
+e5b13dd2,47,Non-binary,91591,High School,Widowed,New Melissa,MD,US,69095,2023-09-22,8,61.54,492.28,99,Apple Pay,64,60,54,48,61,47,68,10,20.06,29,59,15,25,38,0,8.0,1,1
+ba081ca1,29,Female,39485,High School,Widowed,West Elizabeth,MO,US,82604,2024-02-25,7,15.72,110.05,79,Apple Pay,42,17,20,45,38,24,50,4,18.16,68,33,26,33,43,0,6.3,1,-1
+641e022a,20,Male,48740,High School,Divorced,East John,WV,US,76689,2020-12-01,4,47.18,188.71,58,Credit Card,88,66,97,57,59,81,74,5,5.32,15,86,5,42,11,1,6.5,1,1
+8928823b,18,Non-binary,42478,Master Degree,Widowed,Travisburgh,MA,US,66992,2022-10-30,8,63.44,507.5,52,Bank Transfer,53,83,63,49,73,79,56,3,9.5,57,43,16,38,26,1,6.0,1,1
+ad876f99,43,Male,132522,High School,Divorced,Lukehaven,NJ,US,13990,2022-04-12,9,42.44,381.95,110,PayPal,34,23,17,16,40,7,29,6,18.15,65,35,7,36,73,1,8.3,1,1
+ccf4577b,58,Non-binary,24414,Bachelor Degree,Widowed,Elliottchester,AL,US,53464,2024-10-19,4,54.01,216.06,114,Bank Transfer,40,36,30,40,29,65,43,0,5.91,40,58,8,39,44,1,5.0,1,1
+e2f2b50b,49,Non-binary,36350,Master Degree,Single,Craneton,WI,US,86932,2025-01-25,7,15.0,105.0,44,Credit Card,23,46,28,34,54,50,55,4,12.59,22,82,8,43,69,0,5.8,1,1
+3dbdd0a8,20,Non-binary,58150,Associate Degree,Widowed,New Christopher,IA,US,43471,2021-08-10,4,58.08,232.32,3,Apple Pay,97,60,73,66,58,69,98,3,13.48,3,88,9,43,66,2,6.8,1,1
+46665f91,57,Male,52133,PhD,Single,Allenchester,AZ,US,66589,2020-09-09,4,15.0,60.0,105,Credit Card,38,45,46,21,11,19,34,5,8.97,35,66,4,51,27,0,5.8,1,1
+3bdccd12,61,Non-binary,88663,PhD,Married,Prestonberg,SD,US,43811,2023-06-22,15,15.0,225.0,108,Debit Card,50,85,59,69,52,55,65,7,24.76,17,80,14,49,28,1,7.1,1,1
+bd5753ec,53,Male,30271,Master Degree,Married,East Kendra,IL,US,40934,2022-01-05,6,15.0,90.0,6,Debit Card,46,45,30,16,7,37,11,5,11.54,0,91,8,32,37,1,5.7,1,1
+c716dbe4,74,Female,23051,Master Degree,Widowed,Port Michael,DC,US,58125,2021-05-24,5,37.6,188.0,17,Debit Card,49,26,42,37,35,24,20,2,15.21,52,47,7,85,26,1,3.9,1,1
+0f9fea28,63,Female,67381,PhD,Single,Scottville,NH,US,2617,2021-10-04,7,15.0,105.0,106,PayPal,48,22,57,37,34,29,55,4,7.55,100,3,15,31,43,0,6.4,1,1
+3c3e1348,50,Male,51304,Master Degree,Married,Port Jodi,LA,US,49220,2023-09-22,9,15.0,135.0,7,Debit Card,16,37,38,18,17,9,10,6,10.24,63,31,8,32,54,2,6.5,1,1
+ad9942d7,34,Female,18329,PhD,Widowed,Farmerhaven,GA,US,21232,2025-01-12,9,39.78,358.01,14,Bank Transfer,37,14,13,4,34,35,10,3,10.51,4,96,4,45,32,1,6.3,1,1
+69d3b88e,55,Female,60569,Master Degree,Married,South Trevorshire,ID,US,16994,2021-01-31,8,50.56,404.45,87,PayPal,21,34,28,20,29,40,26,6,13.53,34,54,1,56,45,1,6.6,1,1
+fa9a1df9,55,Female,118562,High School,Widowed,Welchborough,HI,US,2378,2024-06-18,12,19.53,234.41,28,Google Pay,40,53,52,37,58,41,69,6,14.06,33,60,23,43,37,1,7.8,1,1
+d6dcce9d,26,Male,49274,PhD,Single,Bryanstad,NE,US,84687,2023-09-14,8,54.18,433.43,18,Credit Card,83,83,80,64,75,68,72,6,4.19,70,48,7,87,26,5,6.6,1,1
+e9f9f8bc,54,Non-binary,53263,Associate Degree,Single,Amberhaven,GA,US,49583,2022-12-19,12,56.31,675.67,110,Google Pay,44,68,61,60,48,31,58,7,9.02,70,23,1,67,0,1,6.3,1,1
+1c7711a3,45,Non-binary,59515,Associate Degree,Married,Port Teresa,IA,US,51781,2022-01-22,13,15.0,195.0,115,Credit Card,28,28,56,58,28,53,59,4,16.74,32,64,10,37,33,2,7.1,1,1
+a625c3d8,33,Male,22956,PhD,Single,Evansville,ND,US,97875,2021-05-22,5,15.0,75.0,94,Apple Pay,73,68,82,78,75,65,61,3,14.81,46,47,16,53,42,2,6.3,1,1
+5ba4626f,72,Non-binary,59938,PhD,Single,Meganview,MH,US,33487,2022-09-22,7,15.0,105.0,60,Debit Card,80,66,78,95,84,95,55,4,10.86,78,15,2,30,31,4,5.4,1,1
+72b8f1cd,51,Male,54881,Bachelor Degree,Widowed,Deborahmouth,PR,US,60891,2021-01-20,5,83.48,417.4,35,Bank Transfer,99,94,96,73,65,99,81,3,17.47,64,32,13,52,69,2,6.5,-1,1
+a742e832,74,Male,43785,High School,Widowed,Kaylaburgh,IL,US,73701,2023-03-24,2,15.0,30.0,60,Google Pay,25,25,13,37,6,37,15,2,3.19,13,83,1,54,24,2,5.0,1,1
+643c2c04,25,Non-binary,106389,Master Degree,Married,East Marcus,DE,US,25377,2021-01-19,9,60.63,545.66,96,Debit Card,42,37,52,47,37,23,24,7,17.83,41,67,13,41,37,2,8.6,1,1
+3063461e,51,Male,75911,Master Degree,Divorced,East Amyview,AK,US,65315,2022-09-28,14,58.54,819.54,80,PayPal,55,63,80,56,56,76,62,7,12.56,20,64,8,64,31,1,7.1,1,1
+1a25806b,35,Male,123629,Associate Degree,Widowed,Lake Dennisbury,WY,US,71053,2024-06-06,14,15.0,210.0,112,Debit Card,73,34,51,59,67,41,63,13,28.31,38,75,10,65,59,0,8.8,1,1
+1fff06b9,36,Male,75518,High School,Single,West Thomasberg,CA,US,89893,2020-05-21,6,61.74,370.42,103,Debit Card,86,74,79,90,74,73,84,5,19.15,65,47,15,66,46,0,8.2,1,1
+e98b60f6,47,Female,43922,PhD,Married,Brianaland,RI,US,8840,2020-11-06,9,15.0,135.0,40,Debit Card,66,64,80,73,68,53,59,5,16.84,39,59,1,61,0,2,6.5,1,1
+93c93dff,28,Non-binary,188037,PhD,Divorced,Port Matthew,CT,US,41290,2024-04-02,8,15.0,120.0,23,Bank Transfer,53,54,59,51,46,64,80,2,15.29,10,88,1,51,17,0,8.5,1,-1
+fab8fdb7,31,Non-binary,50855,High School,Divorced,Micheleburgh,ID,US,83925,2023-05-07,7,15.0,105.0,19,PayPal,62,38,62,47,35,29,53,3,23.42,87,10,23,51,54,1,7.0,1,1
+baaaa800,27,Male,88266,PhD,Divorced,New Eric,RI,US,44724,2021-08-24,10,29.22,292.15,91,PayPal,48,66,39,66,58,51,37,7,16.6,64,20,6,34,51,2,8.3,1,1
+4d6ec1d2,25,Female,45720,High School,Widowed,Derekborough,LA,US,82596,2021-10-24,8,15.0,120.0,108,Debit Card,50,33,48,31,66,40,65,2,20.38,50,43,8,52,54,1,6.3,1,1
+afe66994,23,Non-binary,85172,Master Degree,Single,Port Marciachester,WA,US,67134,2022-05-28,12,51.75,621.0,51,Debit Card,51,69,69,63,34,54,56,1,18.5,17,86,9,34,52,0,7.9,1,1
+1a2d1a1e,41,Male,76570,Bachelor Degree,Divorced,Williamsberg,PA,US,32767,2023-04-22,12,15.0,180.0,40,Apple Pay,90,60,68,83,81,83,73,4,24.61,19,86,20,41,26,1,7.7,1,1
+2c970e52,71,Non-binary,26599,PhD,Single,Stephaniefurt,LA,US,70789,2024-06-20,4,15.0,60.0,27,PayPal,63,51,34,67,54,35,30,1,11.07,38,62,1,39,0,2,4.2,1,1
+909a6456,53,Female,32048,PhD,Married,South Carla,AZ,US,87385,2024-02-27,4,36.66,146.65,24,Apple Pay,53,49,20,37,55,37,49,1,12.23,59,41,5,69,51,2,5.4,1,1
+300eaa19,68,Male,157066,Associate Degree,Divorced,East Jackborough,MA,US,86747,2023-08-05,11,37.65,414.1,82,Bank Transfer,37,48,56,41,61,45,31,2,9.19,9,93,5,62,62,0,6.9,1,1
+299845f5,56,Non-binary,41670,Bachelor Degree,Widowed,East Rachelbury,AL,US,50467,2022-02-07,5,15.0,75.0,56,PayPal,70,47,63,72,76,41,56,4,6.8,7,77,14,45,0,1,5.7,1,1
+64a7224f,47,Non-binary,45208,Associate Degree,Divorced,Jeffreyport,SC,US,96311,2024-05-11,3,15.0,45.0,7,PayPal,49,63,45,26,41,41,56,6,12.65,55,42,6,61,44,2,6.3,1,1
+9d8438f1,67,Non-binary,41038,Associate Degree,Single,East Jay,ID,US,75000,2021-12-01,6,18.87,113.2,97,Debit Card,54,54,53,51,57,40,68,2,10.08,52,31,2,45,10,1,5.0,1,1
+4ad10622,51,Female,49627,Bachelor Degree,Widowed,South Ashley,HI,US,36325,2022-12-19,9,29.28,263.48,44,Debit Card,19,15,38,20,18,41,45,3,26.98,74,38,13,68,45,1,6.5,1,1
+973c4b49,62,Male,102382,Master Degree,Widowed,West Mary,MN,US,82189,2024-11-05,8,15.0,120.0,15,Debit Card,60,89,81,78,82,67,87,5,17.37,97,17,17,21,35,0,7.4,1,-1
+359b32de,29,Non-binary,103970,Bachelor Degree,Single,East Nicolefort,MS,US,63006,2021-02-06,21,35.97,755.27,105,Credit Card,22,23,28,33,22,27,22,13,29.19,100,0,19,42,37,0,8.4,-1,-1
+9ae5a352,19,Female,48494,Master Degree,Single,West Carriefort,AK,US,82009,2024-03-04,5,49.24,246.18,14,Credit Card,82,87,53,80,57,66,52,5,8.62,0,86,4,51,63,3,6.1,1,1
+0015b811,56,Male,34006,PhD,Married,West Oscarfort,MS,US,51408,2024-03-28,5,51.37,256.86,86,PayPal,6,10,18,38,23,23,11,2,5.65,94,11,1,62,0,1,5.7,1,1
+f1134c4d,54,Male,52909,High School,Single,East Nathanielberg,OK,US,31557,2022-04-23,9,40.31,362.77,28,Bank Transfer,30,22,46,12,18,25,44,7,20.9,90,15,10,46,35,0,6.4,1,1
+166c1938,29,Female,50396,High School,Married,Lake Vanessa,PA,US,93073,2020-08-05,11,35.47,390.17,46,Apple Pay,40,59,41,53,34,47,34,8,16.59,52,47,11,33,89,1,7.0,1,1
+66ce9c5a,66,Female,115510,Bachelor Degree,Single,Hunterport,IL,US,56406,2024-10-24,12,58.48,701.78,42,Apple Pay,31,25,36,45,26,35,21,3,19.51,54,47,13,36,54,1,7.1,1,1
+983a6c8c,72,Male,109550,Master Degree,Divorced,East Brenda,AZ,US,91054,2024-04-08,8,15.0,120.0,2,Bank Transfer,37,56,59,64,36,38,40,7,7.82,47,53,8,52,2,0,6.7,1,1
+2878dcaa,22,Female,75060,Associate Degree,Divorced,South Thomasview,MA,US,26421,2024-02-25,7,15.0,105.0,77,Apple Pay,21,34,38,24,44,44,24,5,20.77,85,26,5,63,60,0,7.4,1,1
+4a135bab,48,Non-binary,96882,PhD,Widowed,Crystalchester,RI,US,16471,2022-07-23,14,78.77,1102.8,66,PayPal,38,15,16,25,40,40,23,5,25.55,56,27,13,43,43,0,7.9,1,1
+5fdfc4c1,65,Male,25837,High School,Widowed,Zamoramouth,NY,US,13029,2021-06-22,5,15.0,75.0,4,Debit Card,62,44,33,43,63,63,30,4,3.86,82,28,3,90,12,3,4.8,1,1
+686db390,30,Female,36304,Master Degree,Widowed,West Jessicaborough,NC,US,66578,2022-06-12,8,15.0,120.0,34,Google Pay,55,55,22,23,48,28,45,6,27.76,47,58,4,94,28,1,6.6,1,1
+c77a496c,20,Male,44755,Associate Degree,Divorced,Jamesmouth,LA,US,21852,2020-04-25,5,41.91,209.55,91,Debit Card,58,39,50,55,62,38,67,6,1.76,74,39,10,51,56,1,6.4,1,1
+dbf751b3,48,Female,54501,PhD,Married,North Karen,MI,US,44824,2022-06-08,10,38.0,379.98,8,Apple Pay,47,53,40,55,38,34,36,7,13.25,14,84,9,45,30,0,6.5,1,1
+6ab2e49c,71,Female,69590,Bachelor Degree,Single,North Jefferybury,FL,US,18546,2020-12-25,6,50.43,302.55,115,Bank Transfer,45,27,48,43,43,47,43,3,12.25,2,91,1,64,55,0,5.7,1,1
+988803c4,59,Female,94362,PhD,Single,Josephstad,NY,US,51411,2021-06-01,8,35.9,287.2,9,PayPal,28,17,8,41,27,9,36,6,18.75,68,42,16,35,30,1,7.6,1,1
+48a99d99,75,Female,61695,Bachelor Degree,Single,Lake Connieshire,FM,US,33574,2021-05-16,5,33.48,167.41,61,Google Pay,21,25,37,25,21,37,7,3,6.9,73,15,1,62,30,2,5.3,1,1
+c222cd5e,49,Non-binary,43158,Bachelor Degree,Married,North Christina,FM,US,536,2021-10-29,9,15.0,135.0,39,PayPal,39,58,67,31,61,40,45,1,12.67,25,81,18,56,17,0,6.3,1,1
+055d291b,69,Male,75327,PhD,Single,South Gregville,CO,US,95503,2021-04-02,10,20.83,208.28,109,Google Pay,43,27,23,10,42,39,36,1,14.98,43,49,4,76,77,0,6.2,1,1
+7bfc842e,50,Female,89318,Master Degree,Divorced,Harrisview,AK,US,88482,2024-02-26,12,39.34,472.14,54,Apple Pay,55,48,45,51,27,17,56,9,10.66,65,37,8,0,49,1,7.9,1,1
+ed04c4f5,31,Non-binary,26567,Master Degree,Divorced,Dylanfort,TX,US,71577,2021-09-12,7,32.46,227.24,69,Google Pay,81,90,94,57,87,66,77,6,13.85,43,47,3,49,39,3,6.2,1,1
+175c4d1a,72,Female,63783,Master Degree,Divorced,New Daletown,KS,US,72649,2020-06-14,4,15.0,60.0,107,Credit Card,53,66,57,58,50,56,78,2,10.32,20,69,6,46,17,4,5.5,1,1
+dfaa92ab,30,Male,38533,Associate Degree,Divorced,North Heather,ME,US,32198,2022-09-03,8,35.26,282.07,63,Google Pay,54,29,39,37,44,35,28,6,10.18,23,81,14,43,52,1,6.5,1,1
+50bdcfdc,59,Male,22196,Master Degree,Single,Reidshire,AZ,US,89514,2024-12-18,5,15.0,75.0,111,Credit Card,58,39,24,46,43,25,45,2,11.01,88,2,4,60,17,2,4.7,1,1
+67baaa7d,54,Non-binary,106591,PhD,Single,Johnsonport,OH,US,92780,2022-05-08,14,76.96,1077.45,86,Google Pay,93,76,91,65,75,98,67,7,21.27,77,22,18,57,65,0,8.1,-1,1
+3741a8b4,65,Female,22846,Associate Degree,Widowed,Port Chase,NJ,US,64234,2024-01-20,4,15.0,60.0,19,Credit Card,24,28,39,37,27,48,14,1,1.49,50,43,6,57,17,2,4.5,1,1
+6c854c31,52,Female,48413,Master Degree,Married,Samuelchester,CA,US,9043,2023-09-20,12,26.07,312.81,113,Debit Card,53,46,42,24,61,25,26,5,9.87,66,28,12,26,45,1,6.4,1,1
+d3295415,42,Female,43694,Bachelor Degree,Single,Wilsonton,IN,US,27036,2022-04-11,8,15.0,120.0,111,Debit Card,82,78,54,79,70,73,59,5,8.32,90,5,10,59,42,1,6.5,1,1
+1a7f753e,73,Male,61044,Master Degree,Divorced,South Williamland,OK,US,22092,2020-05-05,6,48.07,288.41,104,Bank Transfer,28,43,31,57,56,52,47,2,13.91,64,23,7,74,16,2,5.4,1,1
+6b5c1159,50,Male,87423,Bachelor Degree,Widowed,New Adriana,NM,US,10338,2021-11-24,14,33.03,462.38,94,Google Pay,67,76,48,50,58,87,75,11,14.23,73,10,13,30,45,0,7.8,1,1
+92f82ba3,30,Non-binary,81319,Bachelor Degree,Divorced,Sarahport,PA,US,67808,2022-01-17,11,15.0,165.0,11,Credit Card,25,43,18,48,36,30,38,8,13.5,41,50,14,75,31,0,8.0,1,1
+10884981,61,Non-binary,78615,Bachelor Degree,Divorced,East Carly,SC,US,44721,2024-02-29,5,47.3,236.52,11,Apple Pay,34,48,47,59,37,24,24,5,2.46,100,16,5,68,49,2,6.6,1,1
+34049b70,23,Female,41112,Associate Degree,Divorced,North Jacobview,NM,US,60107,2021-05-05,11,76.37,840.11,110,Debit Card,28,42,30,41,19,12,8,6,4.68,90,12,4,52,66,3,6.0,1,1
+bb79ecc6,18,Non-binary,46198,PhD,Widowed,North Matthewview,LA,US,56836,2020-12-09,4,81.02,324.07,118,Apple Pay,83,59,66,65,64,69,70,3,11.46,76,19,10,38,12,0,6.2,1,1
+663658ea,72,Male,45887,PhD,Married,East Emilychester,OR,US,79107,2020-08-27,5,15.0,75.0,37,Bank Transfer,55,69,54,69,52,44,61,0,13.03,94,11,2,36,0,2,5.0,1,1
+28e86d26,33,Female,64591,PhD,Widowed,New Maryfurt,GA,US,53454,2024-10-17,15,15.0,225.0,2,Apple Pay,28,33,21,32,35,46,24,5,14.04,14,83,23,32,51,1,7.4,1,1
+5b5f8c73,39,Male,67578,Master Degree,Divorced,Scottbury,KY,US,48551,2021-11-16,14,15.0,210.0,86,Google Pay,47,45,61,77,84,69,64,6,20.8,98,0,13,39,77,2,7.8,1,1
+167c3478,20,Non-binary,47169,Associate Degree,Divorced,New Carl,VI,US,12595,2024-04-28,12,54.87,658.42,65,Apple Pay,80,88,67,64,79,92,86,3,17.58,7,85,16,27,27,3,6.1,1,-1
+2ca91b82,26,Female,58198,Bachelor Degree,Divorced,West Melissaview,NY,US,3216,2022-11-12,12,15.0,180.0,37,PayPal,55,72,59,66,49,59,70,6,10.36,70,30,6,59,50,3,7.1,1,1
+436de3a2,21,Male,63686,Associate Degree,Single,Haydenhaven,MI,US,79867,2023-12-27,12,15.0,180.0,24,Credit Card,46,40,59,57,37,61,32,10,19.97,51,60,10,67,0,1,7.0,1,1
+305d0f22,49,Male,43759,Associate Degree,Single,Randyberg,AK,US,30263,2023-04-26,4,28.88,115.52,12,Debit Card,73,66,65,87,72,91,92,2,10.51,11,84,7,47,18,0,6.4,1,1
+7cbc0df1,29,Female,74904,High School,Married,Jameshaven,GA,US,1950,2020-12-19,10,50.97,509.65,64,Bank Transfer,27,7,24,13,31,29,43,5,19.34,85,7,13,44,59,1,7.7,1,1
+6425ba7a,19,Male,53196,Master Degree,Widowed,Simonview,FL,US,19140,2022-09-24,7,15.0,105.0,81,PayPal,38,59,40,77,66,58,74,5,8.38,3,97,5,36,48,3,6.4,1,1
+9280d12c,38,Male,41142,High School,Widowed,Cainmouth,RI,US,95911,2024-10-03,10,15.0,150.0,52,PayPal,26,36,16,12,24,21,35,3,2.31,76,32,17,64,45,2,6.7,1,1
+cdfb7bef,25,Female,155802,Master Degree,Widowed,North Heidi,NY,US,48079,2021-02-23,12,15.0,180.0,104,PayPal,95,65,79,63,80,89,69,6,30.16,50,56,11,50,45,1,8.4,1,1
+3e55041c,54,Non-binary,52499,Master Degree,Single,West Sharonville,ME,US,31392,2021-01-12,6,15.0,90.0,55,PayPal,50,66,79,66,44,41,71,5,12.97,38,62,10,47,36,0,6.1,1,1
+1526d149,49,Non-binary,106352,PhD,Single,North Aaron,HI,US,4785,2023-08-24,9,25.46,229.14,60,Apple Pay,35,24,14,13,24,20,38,4,17.59,50,48,13,59,42,0,8.4,1,1
+0a231e56,22,Male,52663,PhD,Single,South Catherineport,AZ,US,52063,2022-05-31,12,17.57,210.86,55,Apple Pay,35,42,22,28,22,43,11,3,16.02,66,16,20,50,65,0,6.7,1,1
+c783ff3f,29,Male,51105,Master Degree,Single,Lake Timothy,MT,US,16572,2024-10-22,13,15.0,195.0,54,Bank Transfer,39,56,48,47,58,35,40,7,26.29,91,0,14,50,40,2,6.8,1,1
+f40f8dc1,23,Non-binary,60366,PhD,Divorced,North Misty,GA,US,33347,2020-05-21,6,15.0,90.0,87,Credit Card,61,28,27,52,34,27,37,6,10.19,69,36,8,73,3,2,7.1,1,1
+d79608aa,64,Female,91442,Bachelor Degree,Divorced,South Kayla,VA,US,5668,2021-05-27,6,18.63,111.77,87,Bank Transfer,68,62,48,51,51,43,55,2,14.71,1,84,1,71,45,2,6.8,1,1
+f5cc0c0b,31,Female,17078,Associate Degree,Married,Bakerhaven,IN,US,5815,2022-10-31,2,15.0,30.0,108,Bank Transfer,88,66,59,73,83,63,84,4,9.05,35,52,1,35,38,2,5.8,1,1
+9a47de2a,65,Non-binary,78672,Master Degree,Widowed,West Deborahfort,AK,US,13537,2022-08-19,10,18.2,181.97,3,Apple Pay,52,49,55,73,62,40,58,1,22.05,10,100,15,34,15,1,6.6,1,1
+5d4394a2,72,Female,77238,PhD,Divorced,Port Kayleeview,HI,US,15360,2025-01-25,8,15.0,120.0,63,Apple Pay,63,68,70,62,45,34,64,4,13.37,9,98,2,37,43,2,6.2,1,1
+33be1de8,22,Female,108886,Master Degree,Widowed,West Melissachester,CT,US,67664,2024-08-14,13,69.74,906.62,64,Google Pay,82,88,87,61,70,78,72,7,27.8,50,50,21,56,65,0,8.4,-1,1
+f673631c,32,Non-binary,50456,Bachelor Degree,Widowed,East Meganhaven,OH,US,15770,2024-07-16,8,63.43,507.41,114,PayPal,70,72,69,76,56,85,59,11,14.47,20,76,13,50,43,0,7.0,1,1
+79310115,29,Male,58848,Associate Degree,Widowed,West Markland,VI,US,18513,2024-09-16,6,64.38,386.3,102,Apple Pay,91,79,75,73,95,63,61,0,22.47,33,65,6,29,51,3,7.1,1,1
+3a0c002b,29,Non-binary,66330,High School,Single,Josephton,DC,US,9511,2023-05-20,6,51.36,308.14,56,Credit Card,53,46,74,53,70,55,60,7,20.05,69,28,14,51,0,1,7.5,1,1
+51a2045e,75,Male,53295,PhD,Single,South Adam,NC,US,36324,2021-04-25,3,43.48,130.43,7,Apple Pay,80,58,57,90,90,57,86,1,2.12,0,90,1,82,35,3,4.8,-1,1
+60319308,73,Male,73950,Bachelor Degree,Married,New Jack,SD,US,76549,2021-03-11,5,31.76,158.79,38,Bank Transfer,60,59,34,37,51,49,36,7,11.19,8,91,5,28,33,2,6.0,1,1
+8be185b4,67,Male,57979,Associate Degree,Widowed,Grayhaven,TX,US,36554,2023-05-12,10,15.0,150.0,37,Google Pay,15,27,33,36,33,50,25,7,15.05,21,87,17,46,13,5,5.6,1,-1
+c3715451,26,Female,49904,Master Degree,Widowed,Donaldview,HI,US,56357,2022-09-14,8,94.48,755.83,110,Google Pay,73,51,78,59,50,83,54,5,16.65,8,93,12,57,0,0,6.6,1,1
+cfbfc866,45,Male,57774,Master Degree,Single,North Joseph,MN,US,68924,2021-07-28,10,15.0,150.0,119,Bank Transfer,45,12,49,42,27,35,34,8,22.09,95,10,18,42,32,1,6.9,1,1
+4cfedfa2,40,Male,86373,Bachelor Degree,Married,North Jessica,VA,US,56186,2021-05-07,9,29.11,261.99,52,Apple Pay,54,75,80,80,69,63,66,9,14.3,76,14,11,58,76,0,8.0,1,1
+92858d45,52,Female,46643,Master Degree,Married,East Stuartside,WA,US,10017,2022-05-11,8,49.65,397.2,70,PayPal,18,45,48,32,46,34,53,7,6.63,6,90,10,100,55,2,6.3,1,1
+a720216a,34,Male,75482,Bachelor Degree,Widowed,North Thomas,KY,US,71420,2022-06-11,7,33.46,234.24,15,Bank Transfer,26,19,43,35,25,10,6,8,16.16,68,28,15,58,41,0,8.1,1,1
+d1abf3d1,54,Non-binary,37500,High School,Widowed,Lake Harryborough,ID,US,17884,2023-05-17,8,15.0,120.0,31,Bank Transfer,73,77,71,75,51,59,56,2,8.99,36,65,3,66,0,2,5.8,1,1
+bac26ddd,51,Non-binary,41404,Associate Degree,Single,Rodriguezbury,UT,US,22283,2023-06-09,6,15.0,90.0,67,Google Pay,35,41,18,21,39,38,17,3,4.43,12,84,5,40,32,0,6.1,1,1
+3dc3024c,31,Female,74512,High School,Divorced,Port Bonnieberg,MH,US,7551,2021-06-24,4,19.44,77.78,68,Apple Pay,72,70,62,53,74,68,77,10,14.38,46,62,11,35,37,1,8.0,1,1
+eea956fb,70,Male,54202,Associate Degree,Married,North Ronald,PR,US,27410,2022-07-23,6,29.51,177.07,92,Apple Pay,40,41,15,21,37,38,10,2,14.11,81,26,4,64,22,1,5.2,1,1
+46668552,56,Female,68077,High School,Single,Port Judy,SC,US,77288,2023-03-16,3,26.42,79.25,74,PayPal,35,11,9,25,21,25,21,2,12.16,19,64,8,76,40,2,6.6,1,1
+0366cd0b,68,Non-binary,90105,Master Degree,Single,Mitchellhaven,PW,US,10541,2023-07-26,13,15.0,195.0,114,PayPal,24,44,13,20,48,35,17,6,16.07,90,17,11,54,24,2,6.9,1,1
+d3c576a7,37,Non-binary,87790,Master Degree,Divorced,West Mike,AR,US,48500,2020-11-22,9,78.32,704.85,49,Apple Pay,91,61,61,85,93,82,81,8,15.33,60,33,12,32,50,0,8.3,1,1
+f50c2b9c,69,Non-binary,25583,PhD,Widowed,West Connieview,PR,US,84882,2023-02-07,7,15.0,105.0,30,Apple Pay,55,23,49,38,26,31,22,2,0.04,56,49,4,63,19,3,4.2,1,1
+d735a9ac,59,Non-binary,42391,High School,Married,West Jennifer,PR,US,69749,2021-10-21,7,54.66,382.62,70,Google Pay,51,84,81,60,78,80,49,3,11.22,19,82,6,53,9,3,5.4,1,1
+c35dfff3,35,Male,66568,Associate Degree,Widowed,Port Jeremiahville,MN,US,32147,2024-10-19,7,20.7,144.87,104,Google Pay,58,63,75,40,69,39,59,7,18.69,46,46,17,63,3,1,8.0,1,1
+f2798bb8,38,Female,25628,Bachelor Degree,Single,Foxville,ND,US,6835,2024-08-19,9,15.0,135.0,13,Google Pay,28,19,21,26,15,19,29,6,19.2,90,0,9,33,10,0,6.4,1,1
+89705c9a,38,Male,102046,High School,Single,New Danielchester,DE,US,72556,2023-08-09,10,57.61,576.07,50,Credit Card,29,46,40,36,44,27,23,6,29.6,29,87,16,68,69,1,8.7,1,1
+d66463ae,49,Non-binary,101832,PhD,Widowed,Danielport,IN,US,30824,2024-08-18,16,34.46,551.38,35,Credit Card,49,55,46,24,50,21,46,12,28.02,53,34,18,52,95,2,8.4,1,1
+ab11f37f,55,Non-binary,27957,High School,Married,Crystalmouth,IA,US,65037,2020-12-30,4,15.0,60.0,72,Bank Transfer,58,69,86,76,78,55,90,1,4.4,44,50,10,45,20,2,5.5,1,1
+eb6a8c26,28,Male,83226,PhD,Widowed,Port Jeffery,MH,US,45135,2022-03-01,5,49.86,249.28,58,Credit Card,29,39,18,10,0,3,30,6,14.57,25,74,20,44,57,0,8.0,1,1
+4199f63b,71,Non-binary,68618,Associate Degree,Divorced,South Brandon,IN,US,85060,2025-01-07,8,37.42,299.37,21,Bank Transfer,70,38,53,39,59,41,42,3,15.44,70,30,6,43,17,1,5.7,1,1
+a4aeee5c,57,Non-binary,42920,Bachelor Degree,Divorced,Mariamouth,CO,US,68948,2021-09-18,4,58.52,234.08,34,Bank Transfer,45,43,48,49,41,57,66,1,9.12,26,77,14,43,0,4,5.5,1,1
+b1d6532d,56,Female,124087,High School,Single,South Kathryntown,SD,US,58433,2021-07-03,11,15.0,165.0,23,Apple Pay,66,60,69,40,39,69,36,6,11.93,93,3,8,62,61,1,7.8,1,1
+708fd4f2,70,Female,109455,PhD,Divorced,Amyberg,NE,US,87128,2023-02-08,4,43.49,173.95,23,Bank Transfer,7,29,23,12,28,0,14,2,17.44,72,26,1,30,37,0,6.9,1,-1
+eeee45c5,23,Non-binary,60337,Bachelor Degree,Married,North Adam,PR,US,67858,2023-12-18,8,15.0,120.0,64,PayPal,19,33,40,15,2,14,42,7,14.67,37,68,4,45,24,0,7.1,1,1
+b563d670,49,Male,76084,PhD,Married,Port Crystal,ID,US,76845,2021-07-29,9,42.54,382.85,95,Google Pay,81,79,54,47,80,51,47,5,25.41,20,84,20,28,36,1,7.5,1,1
+ec4a2adc,64,Female,69887,Associate Degree,Single,New Holly,PA,US,9255,2021-05-22,9,15.0,135.0,87,Google Pay,55,74,68,39,66,42,59,5,13.65,46,54,3,58,48,0,6.1,1,1
+52e411d5,61,Non-binary,66094,Master Degree,Widowed,North Carrietown,MS,US,15262,2023-04-01,10,15.0,150.0,67,Credit Card,70,59,73,82,90,84,76,1,12.4,0,99,7,40,29,3,6.1,1,1
+00ce6209,74,Non-binary,141849,High School,Married,South Joshuaton,IA,US,59711,2021-05-29,8,48.59,388.73,55,Credit Card,73,70,68,79,77,62,98,5,12.75,52,42,4,44,15,3,6.8,1,1
+01da2580,69,Male,47837,PhD,Divorced,Muellermouth,IN,US,99837,2020-07-24,5,15.0,75.0,33,Debit Card,36,21,27,9,27,39,21,5,11.09,100,14,4,79,18,3,5.3,1,1
+20100a96,66,Male,120377,Master Degree,Single,Port Laura,MN,US,796,2024-10-17,3,50.43,151.3,8,Credit Card,44,28,32,27,52,27,43,6,14.7,64,30,16,54,13,0,7.0,1,1
+1046c1d0,61,Male,83297,PhD,Single,Novakton,OH,US,77916,2023-08-16,6,57.42,344.5,109,Apple Pay,31,64,51,39,63,64,25,2,13.5,49,57,9,68,6,3,7.1,1,1
+ef7ba0d3,57,Male,97499,Bachelor Degree,Single,Lake Christopherstad,NV,US,82560,2022-09-24,3,51.29,153.86,67,PayPal,49,43,43,37,75,41,74,3,3.55,74,29,15,45,40,0,7.5,1,1
+21bc4997,58,Non-binary,20773,Bachelor Degree,Divorced,Simpsonside,NM,US,50894,2022-11-30,4,20.3,81.21,62,Bank Transfer,67,50,54,47,41,42,47,0,15.85,34,74,1,71,33,2,4.9,1,1
+4890502e,37,Non-binary,65185,PhD,Married,Nicolestad,WV,US,51639,2024-06-13,14,61.52,861.25,61,PayPal,59,56,61,38,71,75,47,4,14.65,11,100,11,36,82,0,7.5,1,1
+4f6893ac,45,Female,38307,Associate Degree,Married,Lake Stephanie,TX,US,70323,2021-09-07,10,29.38,293.85,117,Debit Card,54,71,62,80,79,88,71,6,11.36,93,14,13,55,8,2,6.5,1,1
+f6014b63,37,Female,92169,Bachelor Degree,Married,Port Heather,MA,US,69935,2024-09-08,6,22.31,133.84,59,Credit Card,45,31,71,45,45,60,70,7,13.55,26,78,12,66,14,0,8.7,1,1
+6aeff010,31,Female,77624,Associate Degree,Single,Martinborough,NC,US,92865,2023-03-29,17,24.32,413.5,2,Credit Card,23,57,29,31,40,50,34,4,21.81,64,27,19,35,71,1,7.8,1,1
+60830d31,30,Male,88336,Bachelor Degree,Married,West Stephanieland,AZ,US,46882,2024-01-18,10,23.03,230.32,114,PayPal,57,67,81,61,57,58,47,8,18.47,15,75,15,40,40,1,8.1,1,1
+2fca2760,71,Non-binary,58291,Associate Degree,Widowed,Sparksmouth,ND,US,58461,2021-08-08,5,37.17,185.86,101,Credit Card,34,40,50,36,44,44,31,5,10.15,100,8,11,65,0,2,5.2,1,1
+b9f21877,25,Male,47094,Associate Degree,Married,North Susan,DC,US,84734,2024-03-14,11,40.67,447.4,69,Apple Pay,67,64,82,71,84,59,46,8,13.14,84,19,1,33,35,3,6.8,1,1
+40562e4d,36,Male,48587,Bachelor Degree,Married,Lake Adam,MN,US,68044,2024-12-22,6,37.99,227.94,81,PayPal,63,87,92,86,68,60,85,5,8.38,88,12,11,53,35,2,7.0,1,1
+ece55a9d,50,Female,43406,PhD,Divorced,Mooreside,NH,US,45721,2022-06-24,7,58.54,409.79,67,Apple Pay,31,34,44,41,42,41,28,6,8.85,68,49,1,59,33,2,5.9,1,1
+4f374deb,31,Male,187237,Associate Degree,Widowed,South Brianburgh,VT,US,58111,2020-06-08,9,26.32,236.88,31,Apple Pay,32,40,37,49,23,36,29,5,22.57,49,36,19,43,61,0,8.8,1,1
+2b1bab75,46,Non-binary,175989,Bachelor Degree,Married,East Mark,MN,US,92575,2022-01-01,1,34.0,34.0,6,Apple Pay,71,53,59,60,61,59,58,3,16.33,41,63,5,26,53,0,8.4,1,-1
+965ca6f7,42,Male,54616,Associate Degree,Widowed,East Ashleymouth,CA,US,21746,2023-12-19,10,15.0,150.0,34,Bank Transfer,26,9,22,36,36,38,9,6,14.31,75,14,23,43,31,2,6.8,1,1
+22560acf,22,Female,65848,High School,Married,Baileyborough,UT,US,97491,2023-05-28,11,24.66,271.22,26,Bank Transfer,37,40,38,33,59,29,55,6,7.63,81,7,16,56,17,3,7.0,1,1
+1aaccc69,70,Female,47807,Master Degree,Widowed,Lake Barbara,WI,US,96152,2020-08-31,3,15.0,45.0,75,Bank Transfer,30,32,9,25,14,14,13,0,7.38,53,60,1,58,50,1,5.3,1,1
+b7ddb960,66,Female,25577,Master Degree,Divorced,Ortizberg,AR,US,15596,2020-11-01,4,29.7,118.8,11,PayPal,66,81,80,67,82,82,89,5,5.84,0,100,3,61,19,4,4.5,1,1
+0e2ced04,37,Non-binary,81103,High School,Widowed,South Debra,TN,US,40014,2020-09-24,11,15.0,165.0,85,PayPal,35,47,48,46,55,40,41,6,27.09,66,32,5,27,79,0,8.1,1,1
+c3bab453,27,Female,81862,PhD,Widowed,Port Sarahshire,PA,US,45752,2023-02-20,12,86.67,1040.06,27,Apple Pay,38,28,16,34,10,25,40,8,20.06,100,2,12,45,53,1,7.7,1,1
+f6ca4e93,28,Male,59201,PhD,Married,West Christinafort,IN,US,73577,2025-02-04,11,66.58,732.35,106,Bank Transfer,69,39,49,50,42,62,56,7,16.83,19,85,13,27,53,2,7.0,1,1
+017f0adf,47,Male,63041,Bachelor Degree,Single,North David,RI,US,48104,2024-04-24,9,36.48,328.32,42,Apple Pay,35,32,33,59,51,55,29,6,18.34,34,55,4,42,53,0,6.9,1,1
+17ef18cb,37,Female,28850,Master Degree,Married,Port Davidhaven,DE,US,5577,2021-11-21,7,37.02,259.12,74,PayPal,49,69,66,54,49,37,46,4,4.49,46,64,1,60,28,1,6.3,1,1
+578d1305,51,Female,67200,PhD,Widowed,New Brad,NV,US,13826,2022-09-11,11,89.6,985.61,60,Google Pay,7,20,31,24,21,27,41,8,17.3,77,20,19,24,31,1,6.8,1,1
+bd20895a,29,Non-binary,90341,Master Degree,Widowed,Seanchester,PA,US,33761,2023-02-13,7,55.14,386.01,117,Bank Transfer,47,17,36,13,26,21,28,6,28.13,95,10,10,43,73,1,8.1,1,1
+90c711f8,62,Non-binary,27053,Associate Degree,Widowed,Port Carlosville,AR,US,59081,2022-12-20,4,32.49,129.96,98,Google Pay,30,11,13,39,27,33,35,4,7.4,12,89,3,71,12,1,4.7,1,1
+d42fbf23,47,Male,44958,High School,Widowed,Noblefurt,WY,US,79944,2023-02-20,5,58.55,292.74,44,Bank Transfer,37,50,27,25,41,32,33,5,12.49,36,72,2,77,47,1,6.5,1,1
+261e7173,22,Male,110288,PhD,Married,Brandiville,RI,US,58968,2021-04-10,9,15.0,135.0,57,Debit Card,47,40,40,31,68,36,41,5,19.8,36,72,12,36,25,0,8.1,1,1
+001f14f4,22,Non-binary,84405,High School,Divorced,Lesterville,CO,US,58756,2024-05-31,11,21.43,235.73,57,PayPal,24,13,45,24,39,14,51,8,26.21,91,11,13,27,0,2,7.8,1,1
+bd445796,62,Female,34381,Master Degree,Single,Randolphside,HI,US,8590,2021-12-02,2,73.73,147.45,1,Credit Card,73,61,64,72,64,61,54,0,1.38,0,88,7,68,0,0,5.1,1,1
+ac3b15f6,70,Male,39197,High School,Married,Beckton,KY,US,6154,2020-04-30,4,15.0,60.0,13,Bank Transfer,20,12,36,42,16,30,30,0,10.41,52,52,4,49,2,0,4.7,1,1
+f1424b1e,52,Female,134112,Master Degree,Single,Whiteton,FM,US,79766,2023-12-22,10,71.32,713.15,28,Credit Card,42,33,22,47,42,22,46,12,22.93,18,70,17,46,38,0,8.0,1,1
+3d31dac3,59,Non-binary,25350,Bachelor Degree,Single,West Amanda,ND,US,91817,2024-11-24,3,52.75,158.24,114,Debit Card,45,64,57,32,60,62,36,5,10.65,18,83,1,61,22,3,5.0,1,1
+c05e3c10,58,Non-binary,45084,Master Degree,Married,East Jasonchester,MH,US,556,2023-05-31,9,80.73,726.6,23,Bank Transfer,68,78,52,69,49,86,85,3,7.16,50,65,2,58,44,0,5.6,1,1
+5a2559da,50,Non-binary,119186,High School,Married,South Karlafort,MH,US,98480,2025-02-26,7,66.63,466.44,79,Credit Card,34,46,34,58,24,22,27,6,18.04,36,58,8,32,61,2,8.0,1,1
+67ec5e45,42,Male,44818,High School,Married,Lake Theresa,MO,US,91789,2021-03-17,10,77.91,779.09,77,Apple Pay,68,55,64,67,49,80,73,4,15.07,63,25,8,40,56,2,6.6,1,1
+820c59d7,72,Non-binary,22045,Bachelor Degree,Divorced,South Christianton,IN,US,78620,2023-12-01,3,15.0,45.0,27,Google Pay,18,17,41,27,36,23,14,0,6.08,34,47,1,60,5,3,4.2,1,1
+39618324,22,Male,90430,High School,Married,Reynoldschester,AR,US,43345,2024-02-17,13,15.0,195.0,17,Credit Card,48,46,24,26,43,16,38,9,23.84,71,22,18,26,62,2,7.8,1,1
+f8ce1bdc,33,Female,25532,Associate Degree,Married,Rogersport,AR,US,14709,2023-07-30,8,28.06,224.45,37,Google Pay,68,40,45,58,33,51,53,3,17.17,42,66,13,54,20,0,6.4,1,1
+846ffb65,50,Non-binary,75012,Master Degree,Married,North Nathanhaven,GU,US,33426,2020-09-05,9,43.79,394.14,102,Apple Pay,25,28,6,20,39,35,10,7,14.93,50,42,13,51,36,0,7.4,1,1
+5b1c6718,47,Female,51779,Master Degree,Divorced,East Allisonbury,WA,US,63248,2023-03-04,5,30.58,152.89,72,Google Pay,34,51,38,60,42,39,42,3,6.19,6,100,17,74,44,3,6.7,1,1
+e3593ccb,43,Female,118231,Master Degree,Divorced,Morganberg,VI,US,26297,2023-02-14,12,20.26,243.09,63,PayPal,78,45,67,43,48,65,77,9,23.79,19,81,6,39,66,0,8.5,1,1
+6b8b2c3c,50,Non-binary,38983,Master Degree,Divorced,Lake Amyland,PA,US,51229,2021-05-15,10,15.0,150.0,8,Bank Transfer,51,39,39,54,26,47,64,3,11.75,60,39,1,29,48,1,5.9,1,1
+976e0f69,34,Non-binary,63728,Master Degree,Married,Port Ronaldburgh,KY,US,33806,2023-11-07,10,35.41,354.07,32,Google Pay,47,37,44,42,61,62,74,4,9.76,89,8,8,55,53,0,7.6,1,1
+39275624,74,Female,44026,Associate Degree,Widowed,Mcneilhaven,NY,US,20817,2023-11-10,5,15.0,75.0,89,PayPal,66,56,69,51,58,37,38,2,-0.3,64,30,5,74,15,1,4.8,1,1
+6db1a39d,65,Male,80939,Master Degree,Divorced,East Theresaside,NM,US,4444,2025-03-28,10,15.14,151.42,22,Apple Pay,6,4,26,33,26,18,27,5,14.34,18,77,12,72,61,1,6.5,1,1
+f81829fa,30,Female,86542,Associate Degree,Single,Wilsontown,NY,US,83257,2022-10-01,11,63.12,694.3,73,Debit Card,23,14,22,23,27,37,39,4,23.93,71,30,19,23,56,1,8.1,1,1
+28a9a963,23,Female,59413,High School,Widowed,North Adamtown,NH,US,99014,2024-07-29,5,15.0,75.0,36,Credit Card,22,58,36,51,52,27,21,10,13.07,0,100,14,75,4,0,6.7,1,-1
+62c0f4d0,24,Male,103395,PhD,Single,Weaverville,MO,US,80994,2023-03-03,8,45.99,367.9,78,Google Pay,65,79,78,69,86,75,69,10,25.45,37,62,17,34,52,0,8.3,1,1
+6e4f8f53,41,Non-binary,36340,Master Degree,Widowed,South Allisonfort,WY,US,81027,2021-11-07,5,15.0,75.0,8,PayPal,76,61,55,84,80,63,56,2,17.65,66,37,6,31,48,2,6.3,1,1
+af4f5a82,41,Female,51454,PhD,Widowed,North Kristen,MN,US,44490,2022-05-22,2,58.05,116.1,53,Bank Transfer,12,52,32,13,52,35,14,2,9.56,96,7,1,65,59,0,6.9,1,1
+f7a56e1f,56,Female,89280,Master Degree,Single,South Brianview,VA,US,96368,2023-04-28,6,38.75,232.52,55,Apple Pay,48,66,60,80,54,51,75,3,13.9,93,3,13,49,36,0,7.3,1,1
+66b59e17,49,Male,61093,Bachelor Degree,Widowed,Lake Rachel,MT,US,36560,2024-05-01,7,61.29,429.01,115,Apple Pay,37,41,22,22,20,17,12,3,12.11,0,84,7,80,55,1,6.8,1,1
+54ace960,75,Female,63524,Bachelor Degree,Married,Jonesstad,OH,US,84581,2021-03-30,9,35.96,323.65,33,Bank Transfer,37,38,64,70,61,35,51,1,7.6,95,21,3,40,0,1,5.2,1,1
+6544d6ff,59,Female,63042,Master Degree,Widowed,Erintown,NJ,US,34111,2021-08-10,13,22.62,294.08,83,Google Pay,81,68,68,70,61,72,59,5,12.39,11,96,14,39,58,0,6.2,1,1
+fddb3e4a,65,Male,58017,PhD,Divorced,East Rachelland,AZ,US,34293,2024-07-24,12,33.48,401.77,110,PayPal,60,24,43,27,61,58,36,5,13.96,87,15,8,40,67,0,5.8,1,1
+9b13d416,69,Non-binary,35417,Associate Degree,Married,Patriciaside,NY,US,26090,2024-09-04,4,15.0,60.0,51,Credit Card,63,54,43,52,48,65,63,2,2.29,13,79,1,71,38,4,4.6,1,1
+34e1d30d,56,Female,64251,Bachelor Degree,Single,South Cristinaport,VA,US,4112,2023-09-28,8,15.0,120.0,109,Bank Transfer,66,76,49,67,54,60,39,1,8.85,98,0,9,78,47,0,6.4,1,1
+1869caac,72,Non-binary,36032,Associate Degree,Single,North Elizabethburgh,NV,US,41624,2020-06-03,5,34.74,173.69,100,Debit Card,85,79,73,64,55,89,79,1,3.1,38,67,3,65,7,4,4.7,1,1
+8d15d09a,43,Male,32152,PhD,Divorced,Padillaberg,NH,US,78483,2023-09-10,4,15.0,60.0,90,Debit Card,79,69,50,52,64,81,47,3,9.02,83,19,6,37,20,2,6.1,1,1
+87cb63f9,54,Male,22003,Master Degree,Widowed,East Veronicamouth,FM,US,81159,2023-08-23,7,15.0,105.0,115,Debit Card,26,25,13,36,49,19,22,0,8.83,40,57,5,75,24,3,5.0,1,1
+e376023e,24,Female,48495,Master Degree,Married,Bradleybury,NJ,US,66162,2024-12-24,8,63.89,511.14,16,Google Pay,62,78,68,50,81,66,56,7,15.8,0,98,13,45,27,1,6.7,1,1
+af8a3429,37,Non-binary,22840,PhD,Married,South Isaiah,CT,US,60712,2021-08-13,11,18.26,200.88,96,Apple Pay,54,78,73,66,89,77,72,2,16.33,0,90,10,63,16,2,6.0,1,1
+166fd4c2,49,Non-binary,101463,PhD,Married,New Sara,LA,US,89412,2025-02-22,12,72.49,869.86,76,Google Pay,66,53,42,73,47,60,66,7,18.97,100,0,12,37,54,0,8.4,1,1
+fec43f9e,26,Male,39749,Bachelor Degree,Single,North Jonathan,NH,US,3733,2021-04-10,9,65.94,593.47,117,Google Pay,36,12,36,46,45,44,42,5,19.1,14,100,7,31,48,3,6.2,1,1
+1461e635,66,Male,36575,High School,Married,Lewisstad,MA,US,72621,2020-06-10,3,15.0,45.0,77,Bank Transfer,11,46,39,31,18,13,19,1,3.79,67,37,3,37,21,3,4.8,1,1
+7171dd9e,53,Female,88333,High School,Single,Martinport,VI,US,7502,2024-07-29,9,41.82,376.41,65,PayPal,57,33,50,23,38,42,25,7,7.76,100,4,11,50,44,0,7.7,1,1
+965df976,46,Male,63046,PhD,Widowed,Lake Alejandro,DC,US,96933,2021-05-18,9,15.0,135.0,41,Google Pay,80,96,92,90,71,64,60,6,14.4,19,70,12,54,60,0,7.1,1,1
+4a165bcc,72,Male,35608,Associate Degree,Married,Gonzalezton,MI,US,94249,2021-12-16,4,15.0,60.0,46,PayPal,47,35,12,43,24,24,32,3,4.46,59,37,7,61,14,4,4.7,1,1
+e3411dee,23,Female,54119,Master Degree,Married,Carlfurt,MO,US,21761,2022-04-09,8,37.38,299.01,27,Credit Card,57,80,52,63,76,72,78,2,15.05,10,83,2,41,37,0,6.8,1,1
+bb98fc5e,42,Male,46930,PhD,Married,Kevinton,NV,US,57056,2024-11-03,7,15.0,105.0,35,Credit Card,41,69,60,38,55,74,39,1,13.29,36,61,13,56,46,1,6.6,1,1
+48ad0477,73,Male,76863,Bachelor Degree,Single,North Erin,PR,US,67772,2024-09-22,8,54.92,439.33,49,Debit Card,30,31,35,57,43,61,55,7,13.58,10,98,8,42,46,2,6.0,1,1
+823a8777,53,Female,48506,PhD,Single,West Amandabury,IA,US,34676,2025-01-02,6,43.06,258.39,22,PayPal,84,71,82,94,95,98,85,4,18.05,41,50,4,68,67,2,5.9,1,1
+970f2cc2,61,Non-binary,33167,Associate Degree,Married,Ritterview,MO,US,51181,2024-06-22,4,16.54,66.16,49,Google Pay,64,50,87,70,62,85,73,1,13.43,65,33,4,47,26,4,5.1,1,1
+0717420a,69,Female,104916,PhD,Divorced,North Shawn,KY,US,18419,2023-09-24,7,29.94,209.55,55,Google Pay,74,79,100,65,79,86,80,4,21.53,94,7,10,64,4,3,6.8,1,1
+6e078108,64,Male,61876,High School,Married,Lake Rebeccatown,ND,US,85123,2022-01-18,6,15.0,90.0,8,Credit Card,65,82,78,47,74,79,55,6,10.17,53,59,11,31,12,1,5.8,1,1
+1217c4ff,43,Male,109723,PhD,Married,Lake Allisonmouth,FM,US,97752,2020-08-12,15,31.5,472.55,96,Credit Card,72,79,67,60,78,83,47,9,27.11,55,45,5,28,77,1,8.4,1,1
+3d3affdc,29,Male,80344,Bachelor Degree,Married,North Anthonyberg,NJ,US,89946,2022-05-24,5,21.39,106.96,46,Credit Card,58,51,37,50,34,48,42,4,8.65,76,15,8,57,41,1,8.0,1,1
+ce35e02b,48,Female,210946,Bachelor Degree,Married,Jennahaven,WI,US,51719,2025-04-06,14,98.0,1372.03,95,Bank Transfer,61,49,55,68,38,65,75,7,18.9,75,16,11,51,57,1,8.0,-1,1
+88a25f89,57,Female,115480,Bachelor Degree,Divorced,Millerstad,AZ,US,62044,2023-04-17,7,15.0,105.0,14,Credit Card,33,47,44,22,28,49,53,4,21.4,25,86,11,35,36,1,7.6,1,1
+7dec9ec4,44,Male,54673,Master Degree,Single,Lake Christopher,PR,US,65118,2024-05-27,3,15.0,45.0,99,Bank Transfer,30,46,41,39,35,39,43,5,11.32,96,8,7,60,14,3,6.7,1,1
+b3aee377,46,Non-binary,130380,Master Degree,Married,East Jessica,MI,US,53588,2024-06-28,11,73.4,807.44,46,Bank Transfer,27,49,39,34,39,45,29,10,31.42,16,86,20,40,61,0,8.2,1,1
+88dce103,28,Non-binary,41333,Associate Degree,Widowed,East Kimburgh,MO,US,87152,2021-07-18,9,56.65,509.84,35,Credit Card,57,61,57,34,46,51,58,4,13.51,74,21,14,57,34,3,6.3,1,1
+9414c872,24,Male,69153,Associate Degree,Married,New Jennifershire,IL,US,77955,2023-05-07,8,15.0,120.0,65,Credit Card,64,52,70,76,87,49,76,6,-1.44,47,56,10,51,22,0,7.1,1,1
+a143fa34,66,Female,34282,Associate Degree,Married,Johnsonhaven,NJ,US,28762,2021-03-09,3,15.0,45.0,66,Debit Card,32,22,31,30,42,27,45,3,15.35,63,35,3,50,5,4,5.1,1,1
+499f2c67,29,Male,43765,PhD,Married,Murphyborough,AK,US,67674,2023-12-28,10,15.0,150.0,16,Debit Card,27,42,37,34,52,26,64,6,10.33,10,82,5,39,28,1,6.8,1,1
+1ce00d75,51,Female,47670,Associate Degree,Married,Watkinsport,FM,US,12169,2023-05-23,3,44.11,132.34,55,Apple Pay,35,30,6,22,10,20,26,4,6.88,29,74,9,75,33,4,6.1,1,1
+2f911ac6,38,Male,120392,Associate Degree,Single,New Heather,IN,US,42587,2025-04-09,9,58.67,527.99,7,Bank Transfer,67,60,65,77,64,85,53,6,27.79,41,61,17,42,66,3,8.8,1,1
+b0e1c25b,39,Female,58989,High School,Single,Wrightmouth,WV,US,34805,2021-07-10,7,53.82,376.73,2,Bank Transfer,43,56,58,58,72,68,73,4,26.27,47,60,9,48,39,0,7.2,1,1
+acb66c01,55,Female,57682,High School,Single,Andersonfort,VA,US,29143,2024-07-17,4,41.4,165.58,81,Bank Transfer,45,40,75,50,50,66,44,3,13.17,14,100,7,52,55,1,6.4,1,1
+468a1346,37,Non-binary,24305,Master Degree,Married,Patrickland,FL,US,95336,2022-04-14,6,33.21,199.24,93,Debit Card,10,14,28,37,18,37,24,3,15.23,93,20,5,16,44,1,6.0,1,1
+ac7f95c9,45,Male,84453,Master Degree,Widowed,Jaimemouth,MO,US,51342,2022-05-04,12,31.53,378.38,120,Google Pay,51,60,88,67,58,68,52,9,9.37,86,0,14,48,56,1,8.0,1,1
+64ebddd2,49,Non-binary,41190,PhD,Single,Gordonfurt,WY,US,71315,2024-05-07,4,38.21,152.86,57,Google Pay,59,48,49,62,41,37,35,7,8.83,8,95,4,62,51,2,6.3,1,1
+6a95c90b,62,Male,48873,PhD,Widowed,East Lisa,RI,US,37244,2022-06-14,10,42.08,420.84,91,Bank Transfer,49,52,47,51,50,68,40,1,12.6,8,89,2,28,53,1,5.5,1,1
+8e02c170,36,Male,61416,Associate Degree,Divorced,West Ricky,NV,US,9377,2024-07-12,8,46.24,369.89,35,Credit Card,56,54,75,48,41,63,81,5,15.9,61,39,7,27,70,0,7.4,1,1
+2a1511a6,63,Non-binary,85038,Bachelor Degree,Married,New Kenneth,CA,US,76722,2022-12-26,12,38.35,460.22,115,Google Pay,38,21,58,18,40,32,35,2,15.44,7,89,10,40,58,0,7.0,1,1
+baf06705,24,Non-binary,56562,Master Degree,Divorced,Fullermouth,NY,US,8901,2020-05-25,3,47.55,142.64,81,Bank Transfer,73,51,66,52,58,55,51,2,16.63,60,35,6,66,28,1,6.9,1,1
+7b3778df,32,Non-binary,54842,Master Degree,Divorced,Toniside,MT,US,97854,2024-06-11,13,40.55,527.15,116,Apple Pay,36,16,34,16,16,17,41,4,15.68,44,60,16,27,36,1,7.2,1,1
+d65d4906,19,Female,113042,Associate Degree,Married,Goodmanbury,IN,US,73581,2020-09-09,15,33.52,502.82,51,Bank Transfer,50,42,47,42,65,53,67,6,24.64,92,2,10,30,56,0,8.3,1,1
+2ca9fb30,26,Non-binary,33239,High School,Single,Alexandermouth,AK,US,22286,2023-02-27,15,76.43,1146.46,50,Credit Card,7,9,15,22,12,24,16,5,17.37,100,0,5,34,46,1,5.9,-1,-1
+a1bbbbb8,68,Male,77731,PhD,Divorced,North Robert,FM,US,52846,2020-06-29,6,15.0,90.0,91,Credit Card,20,42,48,40,22,31,33,9,13.54,44,43,11,40,52,1,6.5,1,1
+a95212b0,62,Female,78645,PhD,Single,South Elizabeth,AS,US,20708,2025-02-26,7,15.0,105.0,106,Credit Card,40,24,12,38,32,15,6,2,7.7,81,5,16,32,63,3,6.8,1,1
+056c1016,42,Male,31613,Bachelor Degree,Divorced,Port Charles,WA,US,39307,2024-01-04,5,57.31,286.57,118,Bank Transfer,31,55,34,31,38,30,42,1,14.52,44,64,16,74,10,1,6.0,1,1
+a16123a1,41,Male,186185,High School,Married,Sanchezmouth,NC,US,43399,2024-04-11,13,53.15,691.0,55,Google Pay,59,32,48,30,40,60,39,9,21.7,27,63,16,0,53,0,8.7,1,1
+c85d55f3,60,Female,56327,Bachelor Degree,Single,West Jessicahaven,PW,US,74996,2020-11-07,8,32.78,262.27,1,Debit Card,58,69,58,73,77,79,53,2,15.83,14,86,6,65,0,1,5.9,1,1
+75835028,23,Female,33427,Associate Degree,Married,Lake Haleyburgh,VT,US,780,2020-12-21,4,84.06,336.25,50,PayPal,51,47,50,46,58,60,41,4,11.59,23,83,8,63,37,2,6.1,1,1
+e1bb6342,44,Non-binary,82532,Master Degree,Widowed,South Raymondchester,GA,US,60451,2022-04-16,9,30.39,273.51,69,Debit Card,29,61,50,57,60,38,29,3,22.52,13,72,1,86,78,1,7.7,1,1
+14bfc588,41,Non-binary,69667,Master Degree,Married,Arnoldville,AL,US,10250,2024-08-28,14,22.24,311.39,8,PayPal,31,41,52,32,58,49,38,11,19.7,18,69,9,41,80,2,7.5,1,1
+9da25915,25,Non-binary,51414,Associate Degree,Widowed,Margaretburgh,AL,US,83706,2021-03-01,6,52.3,313.81,4,Bank Transfer,50,30,33,64,31,57,65,9,15.02,77,6,11,64,19,0,6.7,1,1
+f62ddbd5,27,Male,85317,Associate Degree,Single,Fergusonburgh,RI,US,46887,2025-03-16,14,66.27,927.73,73,Apple Pay,20,39,17,42,28,39,35,5,32.6,76,37,12,36,51,0,7.8,1,1
+6b6b0425,36,Male,40865,Associate Degree,Single,Smithtown,OH,US,78526,2020-05-02,8,15.0,120.0,83,Credit Card,49,70,48,38,63,65,67,1,20.5,53,52,18,23,14,0,7.1,1,1
+2140c997,37,Non-binary,40372,Associate Degree,Widowed,Cartershire,ND,US,4165,2024-05-24,10,15.0,150.0,35,Credit Card,57,41,46,58,72,36,47,3,14.79,46,69,4,36,14,0,6.6,1,1
+ae6111cb,70,Non-binary,69591,Master Degree,Widowed,Michaelville,WI,US,29525,2023-07-09,15,26.47,397.09,84,Bank Transfer,49,35,28,48,52,37,42,6,15.27,2,90,13,38,29,4,6.1,1,1
+3216e3a6,67,Female,62073,High School,Married,Wolffurt,CT,US,78118,2023-09-11,4,96.63,386.51,21,Google Pay,10,19,44,6,25,18,41,0,6.34,11,76,5,59,55,0,5.8,1,1
+b3f6251a,23,Non-binary,63322,PhD,Single,Pamelaville,AR,US,30768,2022-02-11,15,22.13,331.94,102,Apple Pay,5,22,7,21,2,24,20,5,17.68,100,0,15,38,84,1,7.0,-1,-1
+6c07ba5a,66,Female,40846,Bachelor Degree,Married,Tateburgh,PR,US,24198,2021-05-02,6,15.0,90.0,87,Credit Card,47,53,27,53,30,22,58,5,2.77,84,28,3,63,12,3,4.9,1,1
+a6a0d673,36,Male,31538,Associate Degree,Widowed,North Gabriel,MP,US,78611,2024-10-31,11,15.0,165.0,114,Bank Transfer,19,18,14,15,37,38,43,3,11.46,65,38,9,42,38,1,6.4,1,1
+0250db30,39,Female,90148,Bachelor Degree,Widowed,Donaldmouth,CT,US,53726,2025-01-19,14,34.48,482.7,115,Bank Transfer,73,64,62,88,87,53,58,9,20.82,61,36,15,53,60,0,8.2,1,1
+210ee93a,27,Female,65651,PhD,Single,Danielmouth,DE,US,47215,2022-06-24,10,56.38,563.78,13,Apple Pay,30,38,30,24,37,56,43,8,18.99,27,59,11,46,31,1,7.4,1,1
+83e3f0d8,34,Female,29951,Bachelor Degree,Widowed,Mayerhaven,NJ,US,66827,2021-08-18,7,49.86,349.04,119,Debit Card,67,96,91,62,83,78,85,5,15.93,49,53,10,44,4,1,6.6,1,1
+eb164a83,41,Non-binary,50875,PhD,Divorced,Mollyfort,CO,US,96867,2023-03-07,10,38.62,386.19,11,Bank Transfer,58,54,42,28,65,29,41,7,15.36,76,20,2,48,30,1,6.8,1,1
+15381d05,72,Male,71356,Bachelor Degree,Widowed,Lake Benjaminton,ND,US,78564,2024-05-21,11,15.0,165.0,73,Apple Pay,58,68,78,83,59,76,83,2,15.52,53,57,10,61,59,2,5.6,1,1
+f015cecf,23,Male,75816,High School,Widowed,Jacksonstad,GU,US,64762,2020-12-19,14,66.24,927.32,56,Debit Card,46,29,45,46,63,56,38,7,16.72,75,22,5,58,80,2,7.5,1,1
+9f7d15b5,47,Male,113440,PhD,Married,Ruthview,MA,US,13461,2022-08-22,9,60.75,546.71,19,Bank Transfer,33,49,15,51,37,16,36,11,16.37,83,17,18,27,54,1,8.1,1,1
+073ff141,31,Male,164595,Master Degree,Divorced,Lake Laurashire,SC,US,22380,2023-11-11,10,69.97,699.71,82,Debit Card,14,9,22,30,10,24,33,4,24.6,93,8,11,55,52,0,8.8,-1,1
+600b79de,29,Male,66334,High School,Widowed,Port Breanna,AL,US,33088,2023-05-11,10,30.8,308.04,97,PayPal,22,32,36,40,40,44,20,5,29.25,99,4,18,46,64,1,7.7,1,1
+7c0d96b2,42,Male,44573,PhD,Married,Sarahhaven,NM,US,27454,2024-11-02,9,29.61,266.5,93,Bank Transfer,76,46,57,57,37,46,66,9,16.84,98,6,5,45,39,0,6.5,1,1
+089175a9,68,Non-binary,89511,Master Degree,Divorced,Allenfort,OK,US,24872,2022-05-10,7,24.82,173.75,93,Credit Card,36,68,56,68,65,34,30,5,14.1,17,81,16,74,51,0,6.9,1,1
+db6bd915,67,Male,97600,PhD,Widowed,Port Janetchester,CA,US,5083,2024-01-24,7,41.46,290.2,45,Debit Card,72,96,60,83,83,61,79,7,20.34,95,3,9,53,58,1,7.1,1,1
+5459df6e,59,Female,68425,Master Degree,Widowed,Ericamouth,DE,US,69820,2023-04-21,8,82.46,659.71,46,Google Pay,60,48,34,38,56,54,50,6,13.99,26,77,5,64,25,2,6.7,1,1
+86e40349,45,Female,70540,Bachelor Degree,Widowed,Taylorfort,DE,US,59943,2021-09-20,6,15.0,90.0,37,Bank Transfer,45,44,45,44,40,78,65,1,9.48,19,96,5,35,34,1,7.2,1,1
+46465a49,58,Female,108169,PhD,Single,Port Johnbury,VT,US,1605,2021-07-13,11,55.63,611.89,38,Apple Pay,27,42,48,37,20,25,43,11,24.43,96,8,12,74,50,2,7.8,1,1
+f3369897,70,Non-binary,36202,Master Degree,Single,Andersonview,WV,US,37135,2023-03-05,4,25.51,102.06,101,Debit Card,50,49,48,51,58,47,32,1,5.21,93,0,1,82,4,2,4.5,1,1
+e704bbef,19,Male,66135,Bachelor Degree,Divorced,Hernandezfurt,KS,US,75780,2023-05-25,8,48.68,389.42,22,Google Pay,42,62,52,39,66,52,30,6,14.97,88,22,5,34,34,0,6.8,1,1
+78a595f8,58,Female,92645,Associate Degree,Widowed,Bensonburgh,AR,US,20351,2023-06-29,5,56.85,284.24,67,Debit Card,41,33,35,59,34,67,63,5,14.94,88,19,18,56,43,2,7.6,1,1
+11a88d74,28,Female,65516,Associate Degree,Single,Port Stevenmouth,CO,US,25340,2024-10-01,7,35.56,248.9,4,Apple Pay,40,37,9,1,39,34,5,7,11.09,47,36,8,23,0,0,7.5,1,-1
+08d611ef,58,Non-binary,33922,Bachelor Degree,Married,South Brian,FL,US,30068,2023-12-07,11,30.85,339.31,84,Debit Card,31,53,34,43,35,22,36,4,3.77,2,100,7,80,73,0,5.1,1,1
+18fec8ab,58,Non-binary,102404,High School,Single,Maystad,MD,US,12870,2022-09-13,16,66.5,1064.06,119,Google Pay,13,16,25,23,18,12,11,6,19.07,50,46,11,47,26,1,7.8,1,1
+024aa3de,24,Female,59210,High School,Widowed,East Lindaside,FM,US,53533,2024-11-11,10,45.53,455.26,63,Bank Transfer,17,30,28,24,44,32,14,7,16.81,7,77,14,41,66,2,7.1,1,1
+ce3e1b56,58,Non-binary,49216,High School,Single,Christineshire,DC,US,11740,2023-05-09,6,28.57,171.42,45,Apple Pay,77,73,39,49,72,55,46,4,19.19,9,87,6,61,11,0,5.7,1,1
+bcf0da14,51,Non-binary,50986,Associate Degree,Married,North Whitney,ID,US,97950,2020-05-31,3,29.85,89.55,47,Credit Card,70,58,77,65,71,62,65,1,5.7,31,69,8,64,1,0,6.2,1,1
+07506235,40,Non-binary,61100,PhD,Divorced,West Davidtown,AK,US,76476,2022-08-28,6,61.03,366.16,96,Apple Pay,59,52,39,43,38,39,44,2,13.24,89,11,11,24,60,0,7.5,1,1
+abc2ad94,37,Male,43178,Associate Degree,Widowed,Amyland,PR,US,72277,2022-11-05,7,98.59,690.1,114,Apple Pay,65,44,47,66,33,65,51,2,13.48,50,58,5,34,42,3,6.9,1,1
+b6652601,75,Non-binary,79793,High School,Widowed,East Cynthiatown,CA,US,48082,2024-05-03,5,15.0,75.0,114,Credit Card,48,69,58,50,70,65,54,3,8.15,32,55,17,49,46,2,6.0,1,1
+90144db2,45,Male,37361,Bachelor Degree,Married,New Sean,WI,US,38378,2024-11-13,15,15.0,225.0,28,Bank Transfer,46,32,43,30,23,43,23,5,3.15,67,32,17,20,40,0,6.4,1,1
+990a205b,68,Female,119663,Associate Degree,Single,Maysburgh,WY,US,83279,2023-02-11,8,48.15,385.19,37,Google Pay,46,26,19,48,30,51,17,2,15.61,67,45,17,55,0,0,7.2,1,1
+03f28c21,38,Female,72452,Associate Degree,Married,New Jessica,SC,US,56497,2024-12-30,4,43.1,172.4,103,Apple Pay,33,48,57,38,38,59,41,5,25.73,68,41,13,9,57,0,7.8,1,1
+553a0878,54,Male,16954,Bachelor Degree,Single,Ballborough,VA,US,41018,2021-08-31,5,15.0,75.0,101,Google Pay,29,18,8,25,2,34,33,1,20.73,13,86,13,51,0,4,4.8,-1,-1
+d022c52e,48,Male,100177,Master Degree,Divorced,Hensonchester,PR,US,72037,2023-09-26,15,30.44,456.54,41,PayPal,30,60,45,56,64,28,50,8,23.49,33,75,16,47,61,0,8.0,1,1
+8c31ad3e,71,Female,77431,PhD,Single,Kochfurt,OH,US,20471,2025-02-10,5,15.0,75.0,29,Credit Card,52,60,58,72,79,66,62,7,12.35,9,98,13,88,18,1,5.9,1,1
+999247a9,62,Male,30491,Bachelor Degree,Single,West Jeremiah,TX,US,77408,2024-08-27,1,39.11,39.11,7,PayPal,20,25,43,28,21,14,12,3,-6.05,51,35,2,41,45,5,5.0,-1,-1
+310bb930,73,Male,92312,PhD,Widowed,Port Anthony,VT,US,53119,2021-09-14,15,64.31,964.58,58,Bank Transfer,40,40,22,43,37,38,24,6,18.66,37,64,9,54,74,2,6.3,1,1
+6be876aa,34,Female,53059,High School,Divorced,Gillside,MT,US,6476,2022-02-22,11,48.27,531.01,107,Debit Card,55,46,46,73,45,55,42,4,21.55,71,34,14,65,6,0,7.2,1,1
+6c07620a,49,Male,181723,Bachelor Degree,Married,West Alyssa,VT,US,16148,2020-09-16,16,38.92,622.73,76,Google Pay,52,51,61,41,64,38,40,7,23.28,22,80,15,19,55,1,8.3,1,1
+446b70d7,73,Non-binary,44803,PhD,Married,South Matthew,IN,US,5785,2020-11-25,7,19.9,139.27,52,Debit Card,21,31,14,23,40,10,13,4,12.98,39,46,5,63,15,3,4.8,1,1
+fb581a7c,19,Female,107633,Associate Degree,Divorced,Arnoldmouth,KS,US,52721,2025-02-11,11,27.62,303.83,61,Bank Transfer,61,55,49,40,68,38,55,7,14.37,37,58,7,48,85,1,8.3,1,1
+c9323293,45,Non-binary,102403,Bachelor Degree,Single,Lake Kaitlin,DE,US,81766,2022-10-20,7,70.27,491.92,35,PayPal,9,30,33,18,24,18,31,8,22.57,15,88,4,46,55,1,8.6,1,1
+c6942143,49,Non-binary,61427,Master Degree,Single,Wolfefurt,VT,US,32622,2021-06-15,10,15.0,150.0,7,Bank Transfer,22,29,22,18,17,51,32,3,18.1,30,69,19,55,32,1,6.8,1,1
+b52d582e,32,Non-binary,75096,Master Degree,Widowed,South Rebeccamouth,AS,US,13409,2023-01-27,15,74.72,1120.76,13,Debit Card,63,77,59,56,59,68,86,6,23.33,37,70,13,49,60,0,7.8,1,1
+5f81220a,24,Male,31105,PhD,Widowed,West Calvinville,AK,US,60884,2021-02-17,9,42.64,383.74,40,Bank Transfer,25,35,19,25,26,36,44,5,12.52,4,90,8,62,29,3,6.0,1,1
+4fda51bb,39,Male,30360,Associate Degree,Divorced,Williamsshire,HI,US,44060,2020-05-02,6,28.16,168.95,10,Debit Card,43,81,65,73,80,43,74,3,12.66,92,5,13,58,25,2,6.1,1,1
+c5e04abe,70,Male,67864,PhD,Divorced,East Patricia,NE,US,95139,2020-08-04,7,15.0,105.0,30,Google Pay,42,41,38,38,51,53,60,2,15.38,50,57,11,72,57,0,5.8,1,1
+7d36d433,60,Female,22614,Bachelor Degree,Divorced,West Kristinahaven,MP,US,79666,2022-09-14,1,17.56,17.56,2,PayPal,40,52,57,49,26,36,52,6,9.63,62,21,1,51,0,1,4.9,1,1
+99ea48e5,72,Male,38357,Associate Degree,Divorced,Portermouth,MI,US,33883,2022-06-26,5,15.0,75.0,4,Debit Card,63,59,49,41,48,60,76,6,8.42,8,99,1,55,6,1,4.9,1,1
+a9530c89,75,Female,105158,PhD,Married,Denisefort,NE,US,80028,2023-10-15,7,81.39,569.75,117,Bank Transfer,43,47,59,48,39,41,34,5,16.91,10,95,14,60,73,2,6.9,1,1
+aa0e2f4b,25,Female,92950,Master Degree,Divorced,North Wendyview,HI,US,89447,2023-08-29,9,33.62,302.55,15,Credit Card,40,60,40,64,49,70,66,12,13.19,65,38,1,38,49,1,8.2,1,1
+192dadb1,22,Female,77126,High School,Widowed,Port Daniel,AS,US,58247,2025-01-17,10,58.99,589.85,28,PayPal,89,59,55,83,71,52,79,7,10.09,25,55,7,46,26,0,7.4,1,1
+711edfa1,26,Female,95052,Bachelor Degree,Married,East Patriciaville,GU,US,51306,2024-10-16,11,62.03,682.32,92,PayPal,21,36,46,14,27,23,11,8,24.91,48,49,14,56,44,0,8.4,1,1
+137f7f9d,45,Female,86700,High School,Divorced,Chaneychester,PR,US,3345,2023-08-01,16,62.6,1001.68,77,PayPal,47,38,31,48,19,23,27,6,28.85,20,82,15,52,90,1,8.0,1,1
+939a8c4a,37,Male,53375,Bachelor Degree,Widowed,Carlosberg,AS,US,49553,2022-03-20,4,15.0,60.0,24,Apple Pay,77,56,58,83,78,70,82,4,10.04,94,10,15,42,66,0,7.3,1,1
+31893341,45,Female,146134,Master Degree,Widowed,North Lisa,AK,US,45959,2022-09-09,10,40.87,408.71,4,Google Pay,27,6,9,40,20,16,38,10,22.89,45,57,14,37,96,1,8.6,-1,1
+4c212e79,75,Non-binary,58372,Bachelor Degree,Single,Danielleshire,IL,US,59239,2021-01-15,7,15.0,105.0,109,Apple Pay,33,8,37,41,37,11,13,0,7.68,15,87,3,46,26,0,5.2,1,1
+1fe5306c,56,Male,75569,Bachelor Degree,Widowed,Lake Judy,ND,US,35704,2021-05-27,11,15.0,165.0,43,Credit Card,44,39,10,20,40,16,42,6,12.38,79,19,4,53,41,2,6.8,1,1
+cae7218c,75,Non-binary,48742,Associate Degree,Divorced,Michelleberg,CO,US,66262,2021-10-02,4,31.72,126.87,40,Bank Transfer,59,90,98,71,66,63,59,2,-3.44,8,90,1,53,13,0,4.7,1,-1
+2813271b,33,Male,128426,High School,Widowed,West Tanner,ND,US,87731,2025-02-19,10,72.19,721.92,107,Google Pay,53,31,35,47,53,58,39,4,23.67,89,15,16,28,61,0,9.1,1,1
+6f3a579a,61,Female,78197,PhD,Single,Christophershire,MO,US,22622,2022-11-07,5,15.0,75.0,19,Bank Transfer,12,10,16,11,33,35,13,9,13.18,46,51,5,66,48,0,6.5,1,1
+5dcc4004,55,Female,31571,Bachelor Degree,Divorced,Fostermouth,AZ,US,18114,2023-01-30,6,17.92,107.54,50,Bank Transfer,57,80,77,78,60,52,69,0,5.28,53,56,6,57,30,1,5.2,1,1
+23a42a9e,55,Female,31490,High School,Widowed,New Jeffreytown,UT,US,6632,2025-01-13,5,15.0,75.0,117,PayPal,37,37,25,8,18,30,40,0,9.22,91,10,3,43,13,1,5.4,1,1
+dc6cdfd1,75,Non-binary,35046,PhD,Widowed,Lake Daniel,VI,US,26483,2022-05-26,3,57.09,171.27,9,Debit Card,50,63,77,62,70,49,58,2,14.06,77,23,1,58,5,1,4.2,1,1
+760f2940,71,Non-binary,43337,Master Degree,Widowed,South Micheleborough,WY,US,33401,2022-08-18,3,15.0,45.0,78,Bank Transfer,47,43,44,27,19,31,48,4,5.61,96,12,10,68,0,4,5.1,1,1
+8faee8c8,71,Female,52532,High School,Single,Michaelmouth,WY,US,26239,2025-02-09,5,21.9,109.51,110,Bank Transfer,24,16,16,41,40,30,24,2,6.59,95,0,5,41,14,2,5.1,1,1
+c046891e,64,Female,81785,Master Degree,Single,Conniemouth,NJ,US,97745,2024-12-05,8,15.0,120.0,79,PayPal,9,11,35,30,45,47,8,5,10.52,92,0,9,72,42,1,6.8,1,1
+28528260,42,Male,33473,PhD,Married,South Brett,VA,US,49676,2024-03-06,5,72.66,363.28,33,Apple Pay,46,42,40,38,55,61,40,6,13.66,0,100,2,60,74,2,6.1,1,1
+c68a1825,31,Male,66788,Associate Degree,Single,New Megan,AL,US,68268,2023-04-05,10,90.09,900.95,100,Apple Pay,70,40,57,47,69,67,48,0,15.6,91,21,11,35,47,1,7.8,1,1
+ab37c05e,40,Female,56338,PhD,Married,Lake Isaac,MT,US,62809,2020-10-12,15,26.92,403.73,9,Apple Pay,67,51,31,63,32,35,60,8,21.18,22,75,19,30,46,1,7.1,1,1
+ca14cdfd,21,Non-binary,50010,PhD,Divorced,Laurenmouth,PR,US,3372,2025-02-23,14,59.68,835.55,29,PayPal,75,83,81,63,69,77,63,3,16.84,50,52,9,55,10,3,6.6,1,1
+a3615856,50,Female,51261,Master Degree,Single,Port Mary,MP,US,81203,2022-03-19,10,26.39,263.93,90,Credit Card,67,53,38,39,58,63,53,8,20.07,11,73,9,44,40,1,6.3,1,1
+270b7d30,53,Non-binary,42545,Bachelor Degree,Single,Gloriatown,DE,US,37499,2023-12-15,4,61.4,245.59,64,Credit Card,87,90,53,73,55,77,89,6,5.09,65,33,2,64,45,0,6.0,1,1
+a1c75480,26,Female,63862,High School,Single,Hardyville,MT,US,62298,2025-01-28,11,15.0,165.0,64,Google Pay,36,41,44,33,28,15,17,7,18.21,0,100,10,31,73,3,7.4,1,1
+667fc53d,73,Female,84926,High School,Widowed,North William,ND,US,4622,2024-12-25,4,15.0,60.0,50,Apple Pay,52,71,71,79,52,51,72,6,10.78,20,89,8,48,32,4,6.3,1,1
+8775683e,30,Female,29245,Master Degree,Single,Garrisonburgh,AS,US,62399,2023-12-10,8,95.98,767.82,30,Credit Card,37,51,63,71,73,39,37,4,13.61,84,3,11,53,37,1,6.0,1,1
+931ec19a,21,Male,114573,Master Degree,Married,Yoderland,HI,US,1936,2023-09-10,17,63.55,1080.34,6,PayPal,60,37,40,30,60,47,52,8,26.36,57,26,17,16,42,1,8.2,1,1
+e2c6d272,52,Male,50637,Master Degree,Divorced,Banksmouth,AL,US,17784,2020-06-17,5,39.9,199.48,29,Apple Pay,64,68,80,63,60,78,62,6,0.18,38,74,15,78,10,1,6.1,1,1
+5a9bf81c,21,Female,37043,Master Degree,Widowed,Sheilafurt,MT,US,20459,2023-09-16,4,15.0,60.0,11,Debit Card,66,91,72,77,93,71,65,1,7.86,31,53,15,37,35,4,5.9,1,1
+ca4663be,62,Female,122491,Master Degree,Single,Lopezchester,OK,US,81750,2025-02-26,11,17.07,187.73,64,Credit Card,34,54,41,36,22,20,34,5,12.94,87,19,9,51,55,0,7.2,1,1
+350f26ae,73,Female,34039,Master Degree,Widowed,Mckinneymouth,RI,US,25049,2025-01-10,6,15.0,90.0,29,Debit Card,35,51,58,27,43,26,58,3,1.05,66,32,1,71,22,0,4.5,1,1
+d2bd279f,71,Female,41628,PhD,Married,Port Kevinbury,PR,US,4925,2021-01-11,10,15.0,150.0,4,PayPal,85,73,73,49,52,81,70,1,10.82,94,11,6,65,1,4,5.0,1,1
+ee1feb2c,45,Non-binary,80600,PhD,Divorced,North Ashley,NM,US,56419,2024-05-13,6,15.0,90.0,49,Apple Pay,62,55,47,64,64,52,62,2,16.08,76,22,13,21,62,1,7.9,1,1
+d5f6dffa,43,Male,82599,PhD,Divorced,Armstrongfort,FL,US,99813,2023-04-01,9,29.38,264.46,35,Bank Transfer,54,16,23,35,52,36,32,4,25.81,88,19,14,21,13,0,7.7,1,1
+0525dfbf,46,Male,47605,Master Degree,Single,South Christopher,OK,US,87433,2023-04-07,9,20.44,183.99,62,Bank Transfer,89,67,80,57,91,59,71,2,9.9,96,10,3,34,45,1,6.3,1,1
+62d4e719,46,Male,74789,Bachelor Degree,Divorced,Gutierrezland,WI,US,99729,2023-10-27,10,37.97,379.66,112,Apple Pay,22,48,19,17,47,11,22,11,13.3,2,83,7,49,83,1,7.7,1,1
+91532d30,73,Female,32817,PhD,Divorced,Caldwellbury,PA,US,87848,2025-01-15,5,80.9,404.48,71,Bank Transfer,17,30,30,15,36,48,16,4,-0.77,61,32,1,68,0,0,4.2,1,-1
+e12ebe68,50,Female,104571,High School,Single,New Patrick,WI,US,21514,2023-12-12,7,34.93,244.51,27,PayPal,59,62,40,63,54,45,37,7,16.06,33,67,13,31,61,0,8.2,1,1
+c6ed2150,75,Non-binary,31549,Bachelor Degree,Widowed,West Jennifer,DC,US,26726,2023-08-17,4,15.0,60.0,80,Credit Card,33,12,28,19,47,11,16,2,4.63,60,45,1,81,0,2,4.5,1,1
+8bf63f18,68,Non-binary,22315,Bachelor Degree,Married,New Maryport,VI,US,29645,2023-02-25,5,15.0,75.0,107,Google Pay,11,26,7,6,16,38,34,1,3.14,100,7,2,33,1,0,4.5,-1,-1
+8de7bd3d,52,Non-binary,82850,High School,Single,South Thomasview,MN,US,93715,2021-11-14,9,28.35,255.13,61,Bank Transfer,66,61,53,50,45,69,51,9,19.35,91,5,8,50,69,1,7.4,1,1
+6ac5f600,32,Female,151961,Bachelor Degree,Single,Whitemouth,UT,US,76027,2021-05-22,14,29.87,418.16,31,Apple Pay,72,69,51,68,81,78,50,8,32.73,100,13,15,67,78,0,9.0,-1,-1
+202c1022,32,Female,38217,Master Degree,Married,East Jessicaland,SD,US,83507,2022-01-30,10,32.71,327.14,106,Debit Card,93,74,85,96,67,97,75,10,16.4,79,20,12,60,49,0,6.5,1,-1
+f61db58a,23,Female,156441,Master Degree,Married,South Bobby,RI,US,94428,2022-01-17,11,46.44,510.83,64,Bank Transfer,68,67,85,56,66,63,82,5,14.24,33,78,6,50,77,0,8.1,1,1
+3a777e1c,26,Male,47778,Master Degree,Single,Oliviaport,WV,US,43777,2021-05-28,12,37.8,453.6,22,Credit Card,40,41,32,35,30,16,33,4,6.68,66,29,14,40,22,0,6.4,1,1
+4f32d231,39,Female,63115,PhD,Single,East Michael,CA,US,48469,2021-03-23,12,56.67,680.04,6,Credit Card,69,75,73,87,75,74,65,7,18.66,69,19,18,51,50,1,7.7,1,1
+d4deed91,70,Non-binary,48690,High School,Married,Brianfurt,KS,US,96435,2025-03-26,1,15.0,15.0,76,Google Pay,52,47,43,51,34,55,60,5,4.12,20,69,6,65,36,1,5.2,1,1
+57fed18c,49,Female,88971,High School,Widowed,West Jennifer,NM,US,35083,2023-09-04,11,48.98,538.73,42,Apple Pay,31,29,22,33,47,53,37,6,25.83,66,42,24,71,49,0,7.6,1,1
+31e301b4,40,Female,44669,Associate Degree,Single,East Melissa,FL,US,90967,2023-08-30,8,49.36,394.84,36,Apple Pay,42,38,46,44,66,34,42,7,13.91,60,26,1,48,43,0,6.7,1,1
+c3f91b4e,53,Non-binary,46213,Associate Degree,Single,North Derrick,TX,US,24403,2021-12-02,7,15.0,105.0,116,Credit Card,91,91,69,57,88,58,80,3,15.5,28,82,1,100,31,2,6.2,1,-1
+a2a4bfc4,51,Male,62033,Master Degree,Divorced,Meganmouth,DC,US,51488,2024-08-29,9,36.81,331.3,92,Bank Transfer,65,86,85,89,74,63,66,7,21.72,92,1,10,52,9,0,6.5,1,1
+b03f3cf3,65,Male,72415,High School,Divorced,South Oliviahaven,UT,US,4927,2024-05-25,12,76.66,919.89,65,PayPal,46,57,49,21,37,19,44,8,10.15,16,89,7,47,34,0,6.2,1,1
+aa6fff4f,71,Non-binary,62725,High School,Single,East Rachaelview,AK,US,89026,2023-11-24,12,53.21,638.51,18,Google Pay,38,36,40,54,33,55,35,1,9.96,72,20,7,73,34,0,5.5,1,1
+e4231694,58,Male,29201,PhD,Married,Lesliefort,SD,US,77335,2025-04-04,3,26.71,80.13,56,Credit Card,66,70,44,42,33,57,47,0,8.44,71,46,1,53,22,3,5.1,1,1
+3267775a,58,Female,140614,Master Degree,Married,New Jonathan,MS,US,13795,2020-05-09,13,67.92,882.93,39,Debit Card,74,87,87,96,81,94,78,8,14.42,53,38,8,13,31,2,7.6,-1,-1
+fa3c0d2c,25,Female,82704,Master Degree,Widowed,Raymondmouth,WA,US,66563,2023-06-14,8,15.0,120.0,32,Bank Transfer,34,38,56,47,34,49,52,9,20.23,75,34,4,43,46,2,8.0,1,1
+babccc86,44,Non-binary,54393,Associate Degree,Single,Hansonshire,WI,US,51202,2023-08-24,9,16.84,151.58,35,Google Pay,39,16,48,33,29,33,39,5,15.08,43,63,7,20,28,3,7.0,1,1
+fcd16b0d,34,Male,94338,Bachelor Degree,Widowed,Wadehaven,MO,US,42768,2021-03-11,11,76.32,839.57,29,PayPal,42,59,68,66,54,76,50,5,21.52,63,39,8,27,42,1,8.9,1,1
+1859170e,57,Female,50312,Associate Degree,Single,Port Williamfort,LA,US,1148,2021-03-23,5,15.0,75.0,3,Apple Pay,26,27,40,9,8,38,18,5,8.51,32,58,4,76,39,4,6.2,1,1
+096d4009,43,Non-binary,88593,Associate Degree,Divorced,North Laura,MA,US,96356,2020-10-12,10,18.46,184.6,21,PayPal,47,34,56,36,21,23,22,7,25.39,81,17,16,49,49,1,8.3,1,1
+ee94e195,43,Female,80151,High School,Married,West Louiston,NH,US,27324,2023-09-09,19,31.89,605.92,39,Credit Card,54,29,16,31,21,38,39,8,27.23,11,78,21,35,84,2,7.6,-1,1
+72aadf4b,22,Non-binary,82193,Master Degree,Single,West Abigail,RI,US,2802,2025-03-11,11,34.91,384.02,96,Google Pay,47,44,75,63,50,76,57,4,20.4,81,27,14,26,73,1,7.4,1,1
+397d1ed5,37,Female,95526,Master Degree,Married,Kristinhaven,VI,US,52462,2024-09-18,11,35.08,385.84,34,Bank Transfer,66,60,54,63,41,50,62,6,20.12,61,42,16,66,95,1,8.9,1,1
+848d7121,50,Male,66688,Master Degree,Single,West Christopherhaven,MH,US,12340,2022-06-28,4,15.0,60.0,94,Apple Pay,83,94,66,88,74,96,61,4,16.27,36,64,10,77,77,3,7.0,1,1
+016844a1,48,Non-binary,172353,High School,Divorced,North Jeanettechester,MD,US,36248,2023-05-31,9,74.47,670.2,19,Bank Transfer,11,40,15,18,36,42,20,7,20.14,10,100,17,54,64,0,8.3,-1,1
+24417fa9,51,Non-binary,79449,PhD,Married,Jacksonside,IL,US,66761,2024-12-11,9,39.27,353.44,99,Apple Pay,42,35,37,25,18,36,52,9,20.2,49,38,17,61,41,1,7.2,1,1
+16b6792b,66,Non-binary,53164,Master Degree,Widowed,Port Lindsey,SD,US,64523,2023-07-09,6,15.0,90.0,84,Debit Card,49,50,52,55,25,26,47,2,16.29,71,24,4,45,40,1,5.4,1,1
+167622fb,28,Non-binary,145903,High School,Married,Lake Leslie,MT,US,64835,2024-03-02,12,64.08,768.98,57,Credit Card,29,33,12,42,35,33,10,11,24.55,81,28,20,23,81,1,8.7,-1,1
+4f633b0c,18,Female,88892,High School,Widowed,West Michaelhaven,ND,US,27926,2023-08-17,8,45.23,361.82,93,Bank Transfer,50,37,56,40,53,27,26,1,14.05,25,79,19,63,29,3,7.6,1,1
+89004318,51,Non-binary,35951,Bachelor Degree,Widowed,Medinaberg,IN,US,84231,2022-09-06,3,15.0,45.0,27,PayPal,67,69,92,89,59,79,85,1,4.91,22,74,12,39,22,1,5.6,1,1
+9411eec5,37,Non-binary,37732,Associate Degree,Married,Mccarthyburgh,PA,US,92684,2021-05-20,11,35.88,394.64,13,Google Pay,50,35,32,68,58,67,39,3,10.78,16,100,8,53,61,1,6.6,1,1
+c22409d5,40,Non-binary,89497,High School,Married,Kellyfurt,PR,US,62228,2023-09-26,7,47.42,331.92,37,Apple Pay,56,60,76,62,53,72,71,9,25.27,60,27,9,16,56,0,8.5,1,1
+d17a3b1f,27,Male,207452,Associate Degree,Divorced,Maryfort,MS,US,92126,2024-04-10,8,50.75,406.0,34,Google Pay,14,39,43,30,27,42,43,5,22.59,69,44,16,34,80,1,8.4,1,1
+0234639b,28,Male,74694,Associate Degree,Married,New Jessicashire,MS,US,93179,2024-10-05,10,15.0,150.0,119,Google Pay,18,19,39,9,29,13,12,6,11.75,17,89,15,51,83,1,7.8,1,1
+5bf8981f,38,Female,75847,PhD,Single,Spencerchester,NM,US,47435,2023-12-04,11,33.21,365.35,72,Apple Pay,48,54,46,43,57,44,57,7,22.17,16,88,10,69,83,1,7.9,1,1
+82bbd4ed,58,Female,146029,Associate Degree,Widowed,North Andreabury,NM,US,99015,2022-02-18,7,42.65,298.54,57,Apple Pay,60,51,79,71,66,55,45,8,12.3,90,14,7,63,56,0,7.8,1,1
+4136e257,31,Non-binary,160208,PhD,Married,Port Sharon,KY,US,38321,2023-02-17,11,27.67,304.41,48,Debit Card,59,71,87,82,92,71,59,7,17.83,58,34,11,47,82,0,8.8,1,1
+74fedd36,34,Non-binary,60622,High School,Divorced,Jasonberg,VI,US,90705,2025-02-01,9,39.25,353.26,83,PayPal,71,66,43,57,58,81,44,9,6.31,87,7,11,55,72,1,7.8,1,1
+7f00729e,58,Female,88004,Master Degree,Married,Olsonchester,GA,US,83247,2022-08-15,15,15.0,225.0,96,Bank Transfer,82,54,50,71,49,87,57,5,19.94,65,23,17,55,5,2,7.0,1,1
+cb9a57d6,44,Male,54097,High School,Widowed,Lake Julia,AL,US,53486,2021-09-13,7,33.13,231.92,91,Credit Card,26,54,37,32,59,21,41,4,14.38,83,11,13,60,43,0,7.1,1,1
+35a75eac,64,Female,50013,PhD,Single,North Tonyafurt,NE,US,33249,2021-07-20,5,17.99,89.94,52,Apple Pay,56,57,65,85,62,70,58,2,12.86,8,80,6,47,22,1,5.8,1,1
+130e5a79,30,Non-binary,80125,PhD,Widowed,West Hunter,MS,US,15802,2024-04-21,4,15.0,60.0,82,Bank Transfer,53,72,70,88,75,60,74,2,12.02,38,61,15,13,30,0,8.1,1,1
+d9a5fd36,23,Male,58877,High School,Married,Christensenfort,SC,US,32286,2021-03-08,13,31.28,406.61,12,Debit Card,57,60,21,30,20,33,60,2,17.74,29,59,2,83,36,2,6.9,1,1
+bbede70e,71,Non-binary,72307,Associate Degree,Married,Evansview,NJ,US,48928,2023-07-15,7,22.0,153.97,7,Apple Pay,63,56,62,53,81,65,71,2,13.58,18,75,8,59,63,2,5.8,1,1
+1b4e83f6,29,Female,27182,Bachelor Degree,Widowed,Julieberg,LA,US,27049,2023-10-17,13,79.88,1038.39,12,Apple Pay,59,45,44,55,50,62,32,11,3.25,11,98,15,47,21,2,6.0,1,-1
+487a9ed2,52,Non-binary,36513,Associate Degree,Widowed,South Colebury,TX,US,66049,2023-05-01,14,15.0,210.0,83,Bank Transfer,68,63,71,82,85,67,55,3,13.84,47,46,17,39,31,1,5.7,1,1
+0fa21e16,47,Female,90658,High School,Single,North David,DE,US,37918,2022-05-18,11,15.0,165.0,85,Bank Transfer,41,19,40,48,31,34,47,7,16.38,45,53,18,31,59,1,8.0,1,1
+53a224b9,62,Male,42181,Bachelor Degree,Single,Alexanderfurt,GU,US,75560,2024-05-20,4,18.94,75.75,54,Apple Pay,42,27,32,43,40,31,50,4,11.78,44,49,6,66,25,3,5.6,1,1
+8e60e411,47,Non-binary,167236,PhD,Widowed,South Danielstad,WY,US,75371,2021-03-06,15,70.57,1058.56,52,Apple Pay,68,69,76,91,74,83,78,6,30.23,27,75,15,41,27,0,8.1,-1,1
+50b5bce3,44,Female,38149,Bachelor Degree,Widowed,North Charles,KS,US,71857,2021-12-13,7,69.78,488.49,4,Debit Card,42,51,70,65,44,68,40,4,8.14,12,78,10,100,47,2,6.1,1,1
+c378557f,37,Male,99461,Bachelor Degree,Widowed,Kevinview,FM,US,20939,2023-01-21,7,79.32,555.21,22,Apple Pay,9,12,11,19,19,5,11,8,21.95,19,79,13,46,49,1,8.7,1,1
+9c5af8a7,64,Male,36624,Associate Degree,Divorced,Rebeccatown,GA,US,68757,2025-03-31,4,15.0,60.0,62,Debit Card,28,52,57,47,35,52,46,4,14.52,80,9,2,65,19,1,5.2,1,1
+354a0d0e,26,Female,74124,Associate Degree,Widowed,Lake Valerieville,WY,US,76207,2020-12-09,10,20.14,201.44,42,PayPal,79,90,77,86,56,74,83,7,11.85,74,23,13,77,42,1,7.5,1,1
+d39c0e2e,74,Non-binary,22305,Associate Degree,Married,Lake Stevenside,PA,US,92878,2023-03-17,2,15.0,30.0,47,PayPal,32,71,70,57,36,46,40,2,1.76,40,46,1,84,0,2,4.0,-1,1
+efb76cd2,45,Male,50438,Bachelor Degree,Widowed,South Ericfurt,DC,US,86144,2021-08-10,8,15.0,120.0,24,Apple Pay,27,28,33,39,11,25,35,1,11.46,19,88,16,59,55,1,6.5,1,1
+258df59b,47,Male,89254,Bachelor Degree,Single,Jacksonhaven,VA,US,15092,2021-08-06,13,57.9,752.68,111,Apple Pay,51,61,71,59,87,83,75,4,22.38,58,36,9,29,37,1,8.0,1,1
+305bbbea,45,Male,127168,Bachelor Degree,Widowed,Shaunville,IN,US,49394,2023-10-29,16,24.06,384.89,95,Bank Transfer,45,35,39,30,37,28,41,11,19.8,90,0,11,35,61,1,8.5,1,1
+8925a710,52,Female,185588,High School,Married,North Pattyville,RI,US,38210,2025-03-27,14,27.78,388.85,44,Bank Transfer,53,49,69,76,66,64,40,7,28.75,37,46,8,30,47,0,8.1,1,1
+c58e9ca0,47,Female,16780,High School,Divorced,North Paul,WV,US,45636,2023-11-11,5,15.0,75.0,55,PayPal,61,44,77,60,54,61,65,0,8.68,45,58,7,25,15,4,5.4,1,1
+e2263d4f,58,Male,38584,PhD,Single,New Katherineburgh,OK,US,97044,2023-04-10,8,22.7,181.6,94,Credit Card,59,49,45,39,68,40,42,2,11.19,82,32,1,48,25,3,5.6,1,1
+d44df88b,75,Female,28484,Bachelor Degree,Widowed,Brianaside,AR,US,18852,2021-05-30,3,28.8,86.39,80,Debit Card,91,94,87,60,62,78,81,3,-4.47,12,100,5,85,17,4,4.0,-1,-1
+6846c824,42,Non-binary,74693,High School,Divorced,South Jennaport,DE,US,94892,2021-09-14,7,15.0,105.0,96,PayPal,52,28,38,43,32,54,34,6,16.75,87,18,9,39,19,1,7.7,1,1
+d3a68ef9,57,Non-binary,62726,PhD,Married,Michaelbury,PR,US,11323,2021-05-20,7,51.78,362.47,103,Credit Card,59,53,36,50,40,34,40,6,6.29,41,58,15,71,72,1,6.5,1,1
+f6f007cc,29,Non-binary,126244,Bachelor Degree,Divorced,North Michael,IA,US,77878,2025-03-31,11,15.0,165.0,53,Debit Card,27,9,18,18,30,39,41,8,21.96,28,65,13,49,16,2,8.4,1,1
+930a32a7,63,Female,34028,Associate Degree,Single,East Nathaniel,IN,US,64648,2021-11-05,2,15.08,30.16,37,Bank Transfer,83,74,82,71,85,83,66,2,0.57,59,52,5,81,13,1,4.9,1,1
+3b480550,39,Female,39498,Bachelor Degree,Divorced,West Laurastad,VA,US,28969,2020-08-30,8,51.04,408.34,57,Debit Card,60,42,63,39,53,45,54,9,17.2,11,88,11,38,11,2,6.7,1,1
+90e726e0,53,Female,78883,High School,Married,Dicksonchester,MT,US,93758,2021-01-30,10,59.0,589.95,68,PayPal,37,39,47,48,20,28,58,11,22.01,67,42,15,56,84,2,7.4,1,1
+f2440977,45,Female,75305,High School,Divorced,South Crystalfort,SC,US,56544,2022-02-26,8,66.91,535.25,96,Apple Pay,39,49,23,39,53,22,21,5,12.83,35,53,14,65,71,5,7.8,1,1
+528436c5,36,Male,70856,Associate Degree,Widowed,Greerbury,OK,US,99111,2022-03-11,9,74.82,673.4,53,PayPal,61,74,86,65,68,71,88,9,13.25,20,99,13,55,7,1,7.9,1,1
+5bfcfdc8,50,Non-binary,35123,PhD,Widowed,Laraburgh,UT,US,56595,2024-01-05,3,34.62,103.85,110,Apple Pay,60,49,59,41,42,56,49,2,5.18,0,100,6,57,12,1,5.8,1,1
+dc068fb6,61,Male,89763,Master Degree,Widowed,Jeanville,AK,US,40717,2022-12-06,16,32.15,514.47,53,Debit Card,41,79,54,48,79,79,72,9,26.9,100,8,9,60,23,3,7.2,1,1
+4ee7299f,19,Female,46608,PhD,Married,Samuelstad,MH,US,1073,2024-05-05,5,15.0,75.0,73,Bank Transfer,35,53,31,68,54,65,62,7,16.39,81,17,1,51,38,1,6.2,1,1
+ad554efe,64,Male,89030,Associate Degree,Widowed,Helenton,NH,US,3676,2021-04-12,4,24.44,97.76,118,Debit Card,28,38,24,21,33,56,49,2,11.52,54,58,12,36,47,0,6.8,1,1
+7338d73f,68,Male,134462,Master Degree,Single,Gonzalezville,CA,US,18630,2020-10-08,14,96.05,1344.72,78,PayPal,65,70,84,59,55,57,81,4,15.76,91,15,13,49,37,1,6.9,1,-1
+08af8d67,68,Female,68242,Bachelor Degree,Single,Catherineport,MH,US,57499,2021-04-06,7,35.69,249.86,100,Google Pay,75,42,69,71,44,59,66,3,7.17,73,18,5,48,13,1,6.1,1,1
+f7396573,63,Non-binary,97277,Master Degree,Widowed,New Natalieborough,NC,US,96674,2020-11-10,5,15.0,75.0,16,Credit Card,25,46,16,19,32,35,30,4,19.35,11,90,5,39,4,0,7.2,1,1
+177ac3f6,34,Male,123428,Bachelor Degree,Single,Sethfort,MP,US,59588,2022-09-15,14,56.9,796.64,116,Bank Transfer,46,47,52,49,59,52,59,8,23.49,77,28,16,30,62,0,9.1,1,1
+8bb3377c,20,Male,65022,Associate Degree,Divorced,Bethhaven,ID,US,87532,2025-02-16,9,68.97,620.72,29,PayPal,59,54,55,46,72,76,55,4,12.97,51,51,8,46,61,1,6.8,1,1
+79efc825,65,Non-binary,55243,Associate Degree,Married,Erikfurt,TN,US,19116,2021-11-13,7,79.22,554.51,38,Apple Pay,56,30,17,29,53,35,25,3,15.78,56,42,10,43,11,1,5.9,1,1
+13cfaabf,65,Non-binary,102720,Master Degree,Widowed,Levistad,AS,US,97317,2021-10-22,13,58.25,757.31,116,Debit Card,31,59,54,42,55,45,46,9,13.58,91,23,14,26,49,0,7.2,1,1
+e8f8cebc,73,Non-binary,40323,Master Degree,Married,Gonzalezton,AL,US,58511,2022-07-24,4,15.0,60.0,115,Apple Pay,4,21,14,19,13,14,9,5,15.67,20,82,9,53,21,2,4.6,1,1
+84cce61c,40,Female,117216,Master Degree,Single,Russellton,PA,US,80376,2020-07-25,12,29.21,350.46,96,Google Pay,71,69,80,59,82,97,63,8,28.26,100,0,12,43,62,1,8.7,1,1
+9c5e259b,53,Non-binary,47984,PhD,Single,West Trevorshire,DE,US,11329,2020-10-19,13,58.91,765.78,8,Apple Pay,69,51,51,52,47,51,50,5,18.48,72,26,14,35,83,2,5.9,1,1
+63f49bfd,56,Female,41719,PhD,Divorced,Williamborough,MI,US,64987,2024-10-05,5,39.9,199.52,96,Debit Card,50,54,79,65,49,59,60,3,13.41,32,80,1,55,0,0,5.8,1,1
+ebfddab1,24,Non-binary,75560,High School,Divorced,Santiagoport,AL,US,5664,2020-11-05,9,75.77,681.94,82,Credit Card,42,19,40,17,42,24,18,10,6.43,50,54,21,38,26,1,7.6,1,1
+ff993f27,37,Non-binary,180597,High School,Widowed,South Carmen,WV,US,26816,2020-06-12,12,52.93,635.15,116,Credit Card,74,58,83,86,85,75,46,6,32.21,28,83,9,42,93,0,8.9,-1,-1
+0909bb84,49,Non-binary,54851,Associate Degree,Divorced,Lake Scott,NE,US,12103,2022-06-07,10,15.0,150.0,62,Google Pay,37,34,52,33,39,35,53,6,25.02,60,53,10,20,29,2,6.4,1,1
+a301b62b,66,Male,51130,Master Degree,Single,North Tiffanyside,IL,US,88888,2023-06-27,10,42.91,429.09,115,Google Pay,61,40,41,34,57,49,36,6,19.7,96,7,11,42,36,1,5.7,1,1
+75a24198,70,Male,70751,Associate Degree,Single,New Tylerfurt,VI,US,16919,2020-12-30,7,43.4,303.79,30,Debit Card,51,38,39,52,49,25,38,4,17.24,88,15,2,44,41,3,5.8,1,1
+f546262a,38,Male,47427,Associate Degree,Widowed,South Kellyshire,IA,US,42180,2020-11-13,5,17.44,87.19,22,Debit Card,49,59,72,69,77,65,56,4,6.44,20,82,14,68,44,0,7.0,1,1
+55f96903,41,Male,61523,Bachelor Degree,Divorced,Port Scottfurt,MA,US,63788,2021-03-14,13,60.77,790.0,46,Bank Transfer,48,39,47,56,45,46,20,9,20.98,78,14,3,39,96,4,7.4,1,1
+eddb3296,40,Non-binary,104603,Associate Degree,Widowed,Lake Allen,FL,US,77787,2020-12-22,11,35.94,395.34,36,Credit Card,64,65,68,70,75,53,72,12,25.77,44,57,2,41,38,4,8.9,1,-1
+9f0e71fd,53,Non-binary,59249,Associate Degree,Married,South Garyton,AL,US,65837,2021-10-24,10,39.26,392.63,65,Apple Pay,71,60,58,69,64,74,84,3,3.74,100,10,7,77,47,2,6.3,1,1
+fe3904e7,67,Non-binary,100072,Master Degree,Widowed,Danielsfort,WY,US,27800,2023-11-16,8,27.97,223.72,36,Google Pay,61,40,43,40,77,58,54,8,16.9,57,45,19,47,37,3,6.9,1,1
+21fcc853,48,Male,59878,High School,Divorced,Irwinport,NC,US,41551,2020-12-05,9,58.18,523.62,94,Apple Pay,61,61,89,71,88,64,87,1,9.68,5,91,7,23,49,0,7.0,1,1
+c7be4e87,52,Non-binary,41968,Bachelor Degree,Divorced,Richardburgh,VA,US,1574,2021-05-29,4,48.92,195.67,3,Debit Card,53,69,72,77,62,60,69,3,12.96,50,54,13,75,6,4,6.0,1,1
+4921c51e,30,Non-binary,103840,Bachelor Degree,Divorced,West Jasonbury,FM,US,8985,2021-11-21,8,22.67,181.37,96,Credit Card,15,34,35,33,39,11,41,8,30.02,12,94,6,54,70,1,8.5,1,1
+67feb7bf,54,Female,141883,High School,Divorced,Lake Brentstad,NM,US,29788,2020-11-04,14,63.86,893.98,69,Apple Pay,54,39,58,22,22,54,23,7,21.39,90,9,10,38,49,0,7.8,1,1
+8731f6b8,69,Non-binary,50928,High School,Widowed,Port Robertfort,HI,US,71780,2021-11-08,12,16.76,201.17,84,Debit Card,52,75,65,77,76,57,69,3,14.15,17,100,6,84,47,6,5.3,-1,-1
+3c771227,47,Non-binary,55549,Master Degree,Single,North Carrie,NE,US,32023,2023-01-09,8,15.0,120.0,74,PayPal,39,24,1,0,14,20,27,3,12.28,12,92,9,70,17,0,6.7,1,1
+b6ab1f70,52,Female,46592,Associate Degree,Divorced,Alexanderville,HI,US,28722,2020-05-04,3,22.24,66.71,92,Google Pay,21,18,22,28,20,15,10,5,8.41,44,40,1,100,24,1,6.3,1,1
+eab7c991,40,Male,98538,Bachelor Degree,Divorced,Port Erinside,HI,US,95181,2023-12-26,6,103.28,619.67,85,Debit Card,31,22,39,29,26,25,34,4,24.96,6,90,11,46,79,0,8.8,1,-1
+32d5bf8f,19,Female,202398,Associate Degree,Widowed,Lake Tina,NJ,US,63893,2024-12-31,12,15.0,180.0,58,Apple Pay,37,38,49,62,32,30,36,7,17.06,58,55,7,41,89,0,7.9,1,1
+128874d6,28,Male,30668,High School,Widowed,New Andreafurt,OK,US,10399,2021-02-14,8,82.71,661.7,78,PayPal,67,73,59,60,52,79,70,4,15.55,53,45,16,60,33,0,6.3,1,1
+42d4499e,19,Male,69970,Master Degree,Widowed,Peterston,FM,US,28425,2023-01-12,10,55.18,551.85,110,Credit Card,45,41,26,49,41,36,27,1,17.04,67,39,3,52,0,0,6.8,1,1
+ebb34c6f,35,Non-binary,106049,Bachelor Degree,Single,North Pamelaside,TN,US,17823,2024-06-26,10,81.09,810.92,109,Debit Card,47,11,19,44,20,19,41,3,23.56,67,32,16,35,41,1,8.9,1,1
+31bbd769,73,Non-binary,38482,Bachelor Degree,Divorced,Lake Shawnafort,IA,US,97268,2021-10-24,1,15.0,15.0,54,Debit Card,37,37,59,35,37,49,33,3,2.18,68,26,1,80,6,1,4.5,1,1
+38dae4ff,37,Female,50766,Bachelor Degree,Divorced,East Jaytown,NC,US,49169,2021-10-15,8,83.51,668.06,42,Credit Card,51,71,51,80,52,59,76,1,13.32,6,100,3,52,59,1,7.4,1,1
+801fc6f7,28,Male,35466,High School,Single,Port Ronald,OR,US,46949,2023-04-27,2,49.8,99.6,115,Debit Card,31,9,12,35,34,31,39,5,13.0,53,65,15,41,51,0,6.1,1,1
+047ed9f3,37,Female,140073,Master Degree,Divorced,Elizabethland,ME,US,39445,2024-07-22,7,153.86,1076.99,42,Bank Transfer,57,73,40,64,65,70,46,4,20.88,18,81,13,35,57,0,8.8,1,-1
+da1071e3,32,Non-binary,66865,High School,Single,Watkinsfort,AK,US,28871,2021-04-03,6,61.67,370.01,52,PayPal,95,62,71,70,72,67,75,3,13.68,36,75,1,77,23,1,7.9,1,1
+53dac413,51,Non-binary,132330,Bachelor Degree,Married,South Juliaberg,OR,US,12846,2023-06-09,16,44.48,711.61,55,PayPal,51,79,44,66,82,45,54,6,25.39,87,0,8,51,37,1,7.9,1,1
+90129547,71,Male,80737,Associate Degree,Widowed,North Tracy,DE,US,37090,2023-06-20,6,36.79,220.71,2,Google Pay,60,52,42,70,66,55,58,6,3.0,100,9,6,57,5,1,6.2,1,1
+2806fdab,52,Female,84922,High School,Divorced,Lake Michelle,MT,US,14048,2021-08-07,10,43.83,438.3,99,Google Pay,80,80,70,75,80,90,94,8,17.84,38,54,15,37,53,0,7.7,1,1
+d0adebe7,34,Male,37554,Bachelor Degree,Widowed,Mccallbury,CA,US,62131,2021-09-03,8,15.14,121.11,4,Google Pay,14,22,37,15,15,43,26,5,7.62,13,86,8,56,0,0,6.9,1,1
+0a78a2b8,45,Non-binary,71637,High School,Married,East Renee,WI,US,45330,2023-01-17,17,92.16,1566.65,105,Google Pay,21,26,13,24,34,45,50,3,29.04,85,28,12,50,55,0,7.6,-1,-1
+63f893e0,21,Non-binary,87304,Bachelor Degree,Married,New Johnfort,PA,US,52922,2021-05-21,11,79.98,879.75,68,Debit Card,33,29,33,63,63,62,37,6,22.65,78,22,3,42,86,1,7.9,1,1
+c3edd50e,45,Male,180170,Bachelor Degree,Single,South Heatherville,NJ,US,86597,2023-01-11,15,64.8,971.97,38,Apple Pay,90,83,87,86,77,65,76,9,22.66,0,100,14,55,78,0,8.4,-1,1
+a355ae8e,31,Non-binary,45614,PhD,Single,East Heatherbury,AS,US,99321,2024-12-10,11,15.0,165.0,97,Apple Pay,17,38,18,23,33,18,34,10,20.83,35,57,8,60,61,1,6.9,1,1
+1886c0b1,22,Male,71841,Bachelor Degree,Married,West Mary,CO,US,90203,2023-01-09,10,87.62,876.21,16,Bank Transfer,84,56,60,75,56,64,67,7,12.94,0,100,11,40,40,3,7.3,1,1
+5be152a6,51,Male,60181,PhD,Widowed,Greeneburgh,OK,US,45979,2023-12-22,13,48.01,624.09,85,Apple Pay,26,53,58,48,28,23,40,2,18.31,78,14,12,55,49,1,6.7,1,1
+779b0590,25,Non-binary,94864,Master Degree,Widowed,Port Kevin,NC,US,71122,2021-12-29,9,76.59,689.27,22,Bank Transfer,75,62,58,77,50,49,82,4,15.23,96,1,18,58,72,1,8.3,1,1
+83b62694,71,Non-binary,26164,Master Degree,Widowed,New Michelleburgh,WV,US,73828,2024-12-15,2,35.41,70.81,82,Credit Card,72,72,71,95,87,76,81,5,-1.11,64,34,1,65,19,0,4.1,-1,-1
+b5072dd8,18,Male,117562,Master Degree,Married,North Benjamin,OR,US,77663,2021-12-28,13,56.45,733.82,64,Debit Card,64,54,43,68,72,75,73,8,10.52,43,64,14,32,58,1,7.8,1,1
+fd4b985e,56,Male,17755,PhD,Single,North Tabithaborough,AS,US,69130,2022-01-18,7,53.33,373.29,13,Credit Card,63,71,85,86,74,73,50,2,-1.89,38,69,1,65,25,0,5.1,1,1
+35cead6a,73,Non-binary,43889,High School,Widowed,Johnstonmouth,AK,US,36970,2020-09-18,3,15.0,45.0,104,Bank Transfer,74,48,60,83,58,48,87,4,3.43,87,4,1,71,16,1,4.9,1,1
+e9cb35ed,69,Male,41853,Master Degree,Divorced,West Brian,VI,US,89956,2023-04-07,5,15.0,75.0,105,Bank Transfer,44,37,39,50,25,42,51,0,6.18,79,28,4,76,7,3,4.9,1,1
+8d65a883,31,Non-binary,53055,PhD,Divorced,Burkeland,AS,US,80506,2021-02-14,7,64.32,450.24,52,PayPal,60,80,54,70,71,88,83,1,18.42,70,26,7,37,32,2,7.1,1,1
+14f440b0,24,Non-binary,61279,High School,Widowed,New Charlesberg,ID,US,29644,2023-07-10,12,15.0,180.0,80,Apple Pay,51,64,52,56,71,62,61,3,18.01,81,14,12,21,52,3,6.9,1,1
+d350e4bf,38,Male,83631,High School,Married,Christinaport,SD,US,31883,2022-01-05,10,15.0,150.0,40,Google Pay,79,62,79,78,55,69,83,10,5.44,65,22,23,30,72,0,8.1,1,1
+e3faedaa,63,Non-binary,63792,Master Degree,Divorced,Jamesland,CA,US,42062,2024-06-16,7,51.88,363.17,92,PayPal,56,59,42,58,40,52,73,1,11.12,49,42,12,54,46,1,6.0,1,1
+64b31aec,46,Male,40056,Associate Degree,Married,South Russell,AZ,US,83246,2021-07-13,4,66.93,267.71,36,Credit Card,45,45,46,45,59,44,40,3,8.43,0,88,20,78,24,0,6.5,1,1
+2c4853f1,48,Female,40763,Master Degree,Married,Westland,NY,US,84758,2022-12-18,7,33.15,232.08,24,Google Pay,62,77,73,61,53,60,53,6,11.02,44,53,5,55,32,2,6.2,1,1
+355137de,52,Female,150087,High School,Married,New Janet,NM,US,55919,2023-06-22,15,55.58,833.71,111,Bank Transfer,49,52,23,21,47,45,49,4,29.32,40,65,11,45,36,0,8.0,1,1
+e0e1628a,63,Non-binary,80332,PhD,Married,West Shawnhaven,MA,US,22476,2022-09-01,9,50.97,458.72,35,Google Pay,56,82,92,81,84,90,80,4,8.11,1,83,11,46,18,0,6.9,1,1
+2bdbe741,46,Non-binary,74153,High School,Divorced,East Christopherborough,PW,US,48534,2022-08-08,11,30.59,336.54,112,Bank Transfer,13,31,13,26,45,25,10,8,25.08,76,31,3,39,93,0,7.4,1,1
+9c589cf1,43,Male,68786,Master Degree,Divorced,East Teresaside,MS,US,43793,2022-04-04,11,31.07,341.8,90,Bank Transfer,40,33,55,51,45,28,53,7,17.56,100,1,9,32,61,2,7.2,1,1
+8b7d7687,57,Male,135562,Bachelor Degree,Single,West David,PA,US,23182,2020-12-06,10,67.5,675.03,10,Google Pay,37,30,14,16,19,42,15,1,13.96,73,26,11,19,55,1,7.8,1,1
+ee96ef3e,64,Male,94806,Bachelor Degree,Single,North Malikton,ID,US,8219,2024-09-30,8,15.0,120.0,52,Google Pay,68,70,68,74,52,65,55,7,20.27,10,85,9,58,47,4,7.2,1,1
+b7b63220,74,Female,63184,Master Degree,Single,Ericchester,ME,US,90211,2024-03-29,9,15.0,135.0,34,Apple Pay,26,34,52,17,33,40,18,3,7.35,42,56,13,58,65,1,5.2,1,1
+c35dc5bc,53,Male,101521,Bachelor Degree,Single,Jacksonfurt,MP,US,81540,2024-04-30,5,15.0,75.0,1,Google Pay,0,20,24,19,1,36,36,1,26.65,29,57,17,37,39,2,7.9,-1,1
+0108e7c6,58,Non-binary,37256,Master Degree,Married,Mossview,AS,US,25584,2022-04-10,6,138.06,828.33,28,PayPal,15,44,29,42,17,34,17,2,2.33,54,39,9,66,51,0,5.7,1,-1
+44c8daea,20,Non-binary,54348,High School,Divorced,Blevinsfurt,UT,US,80060,2023-08-23,11,106.23,1168.5,14,PayPal,54,80,76,53,49,74,55,9,17.36,69,39,10,36,30,1,6.6,1,1
+d8391a10,60,Non-binary,60668,Master Degree,Widowed,North Jamie,TN,US,7377,2024-08-15,5,35.4,177.02,86,Google Pay,25,19,27,13,19,35,16,0,6.78,70,21,1,28,34,1,6.0,1,1
+d87f6f75,48,Non-binary,98061,PhD,Single,Melodyhaven,OR,US,42791,2020-07-09,17,71.48,1215.18,67,Credit Card,62,75,78,78,76,75,67,11,23.29,85,20,15,35,19,0,8.2,-1,1
+09da96a7,38,Male,40737,Master Degree,Married,Michellehaven,MO,US,82655,2023-08-20,7,50.24,351.68,81,Apple Pay,52,49,30,56,26,56,31,2,9.42,37,76,13,62,40,0,6.9,1,1
+ea9d33e9,37,Female,51855,Bachelor Degree,Single,Shawfurt,KY,US,42961,2022-04-26,4,30.93,123.71,107,Credit Card,17,31,49,48,46,23,32,6,7.67,80,16,5,33,8,2,7.0,1,1
+1cd2459a,37,Female,78753,Associate Degree,Divorced,Lake Calebport,NC,US,51064,2022-04-05,18,47.24,850.4,7,Bank Transfer,82,87,88,66,87,78,57,9,26.78,84,12,16,32,92,1,8.0,-1,1
+cbf9724a,75,Male,57913,Bachelor Degree,Single,North Mary,MO,US,25623,2021-04-09,9,15.0,135.0,27,Apple Pay,49,53,52,13,15,37,26,3,11.0,83,8,4,68,0,2,5.0,1,1
+58ca2eec,75,Male,102536,Bachelor Degree,Married,North Marymouth,VI,US,29228,2023-02-02,4,37.71,150.82,106,Debit Card,48,25,32,32,61,38,62,5,11.14,69,41,12,44,46,3,6.7,1,1
+a873d1d3,31,Non-binary,95738,Bachelor Degree,Widowed,South Sara,PR,US,39680,2021-05-28,16,46.75,748.04,2,Apple Pay,78,76,69,64,83,68,90,10,20.65,3,89,20,29,66,0,8.7,-1,1
+0a105743,26,Non-binary,34020,Associate Degree,Single,New Nathan,NJ,US,84563,2021-09-13,10,15.0,150.0,15,Credit Card,41,14,21,44,30,20,26,1,11.87,97,3,7,47,40,2,6.4,1,1
+225c20d4,36,Female,70494,PhD,Divorced,Lake Craig,PW,US,36623,2024-08-31,3,80.68,242.04,98,Credit Card,37,30,60,56,37,33,58,5,14.93,100,5,2,56,68,0,7.7,1,1
+96f7fd47,25,Male,45936,High School,Widowed,Lake Aaron,OR,US,35317,2024-03-29,13,20.23,263.05,11,Bank Transfer,55,66,78,90,74,79,60,7,16.35,35,61,20,59,29,0,6.4,1,1
+58161b9e,67,Male,28845,Bachelor Degree,Single,Andersonstad,MN,US,61881,2022-02-01,4,22.62,90.5,2,Debit Card,37,32,43,50,33,24,46,4,9.7,37,67,5,58,11,2,4.4,1,1
+c0527f67,32,Male,45098,Associate Degree,Divorced,Lake Rileyton,FL,US,70087,2021-08-02,13,97.2,1263.63,93,Apple Pay,29,5,16,39,34,19,36,4,11.18,23,83,17,40,42,0,6.7,-1,-1
+6c073435,25,Non-binary,41765,High School,Widowed,South Sheila,MN,US,94071,2022-05-16,10,15.0,150.0,69,Credit Card,49,59,62,41,48,45,53,2,17.28,0,100,2,39,25,1,6.2,1,1
+c1f0b5d8,70,Female,39587,PhD,Single,Mckeeberg,DE,US,98708,2020-06-20,8,15.0,120.0,29,Bank Transfer,38,36,6,3,32,38,26,3,6.8,37,73,1,68,27,2,4.9,1,1
+85b10421,65,Male,44654,Master Degree,Divorced,Port Jamestown,CA,US,36166,2023-05-05,2,15.0,30.0,82,Apple Pay,39,59,64,53,44,39,48,5,8.48,58,38,4,55,0,0,5.3,1,1
+f51a0cfe,74,Male,48921,Bachelor Degree,Single,Port Michael,SC,US,57773,2022-11-08,5,41.63,208.15,104,PayPal,11,38,35,43,23,34,17,2,14.45,85,11,1,81,14,3,5.0,1,1
+dc80d8f4,44,Female,77323,Master Degree,Widowed,Pattersonshire,CT,US,12095,2022-10-14,10,72.7,727.01,50,Apple Pay,44,43,48,31,56,36,38,9,10.39,17,86,12,38,73,1,7.6,1,1
+04f98a7a,73,Non-binary,46300,PhD,Divorced,Joshualand,DE,US,68759,2022-09-05,5,50.74,253.71,71,Apple Pay,42,36,48,32,53,29,57,4,8.93,64,43,1,51,0,1,5.0,1,1
+4d49cfbb,21,Male,71361,Associate Degree,Divorced,Michelleland,KS,US,50570,2022-03-08,7,73.35,513.47,114,Debit Card,66,75,69,53,70,43,55,6,20.94,33,59,8,59,51,2,7.4,1,1
+94a28fa5,67,Male,76337,Master Degree,Married,Velezton,VA,US,75606,2024-06-06,6,15.0,90.0,53,PayPal,44,37,60,49,68,68,62,5,6.25,64,19,3,64,51,0,6.1,1,1
+98348959,23,Male,60927,High School,Single,South Megan,SD,US,43559,2023-06-02,9,39.92,359.32,110,Credit Card,42,32,29,33,39,24,43,6,17.7,62,45,10,39,38,2,7.0,1,1
+04605ed5,48,Female,24355,Associate Degree,Divorced,Lisaville,VT,US,78643,2023-07-29,8,33.19,265.48,13,Google Pay,19,20,36,17,44,49,36,4,10.09,22,94,7,42,23,2,5.7,1,1
+25f1b9b0,62,Female,139042,Associate Degree,Single,Flynnberg,HI,US,15322,2021-07-21,13,15.0,195.0,19,Apple Pay,8,14,30,36,30,36,16,4,14.21,84,24,11,61,45,2,7.5,1,1
+923155b0,55,Non-binary,63371,Associate Degree,Widowed,Samanthafurt,OK,US,29031,2025-03-01,11,39.74,437.16,63,Bank Transfer,58,57,41,59,40,47,44,10,10.96,64,31,1,54,61,1,6.4,1,1
+af62832c,68,Non-binary,50587,Associate Degree,Divorced,South Sarahland,PR,US,64193,2023-08-21,2,34.0,68.0,92,Credit Card,60,53,23,61,59,48,32,2,4.76,34,59,6,59,0,5,5.5,1,1
+af8e103a,35,Non-binary,35964,High School,Widowed,Mathewstown,MS,US,37176,2023-06-28,6,44.64,267.81,116,Debit Card,18,22,19,31,30,24,5,5,8.76,31,64,7,72,29,2,6.8,1,1
+481763b7,53,Male,96748,Associate Degree,Single,West Amyside,PR,US,6161,2021-02-26,10,28.67,286.68,74,Credit Card,43,31,49,43,43,21,36,6,19.52,69,31,9,39,48,1,8.0,1,1
+a3a21e5b,72,Female,47129,Master Degree,Divorced,North Danielfort,OK,US,62453,2024-07-13,5,15.0,75.0,45,Bank Transfer,51,28,47,34,33,21,44,1,10.56,83,8,1,37,55,3,5.2,1,1
+52717257,75,Male,97408,High School,Married,Port Stephanie,VT,US,53942,2020-10-02,10,15.0,150.0,98,Credit Card,19,26,38,19,24,51,30,3,18.37,69,12,16,51,32,2,6.4,1,1
+8d062c54,65,Female,40064,PhD,Single,Malonestad,DE,US,17542,2024-05-26,4,105.11,420.45,75,Bank Transfer,84,95,76,61,94,62,58,2,15.26,66,21,6,78,59,2,5.1,1,1
+0aa88646,23,Non-binary,105817,High School,Single,East Matthew,ND,US,51853,2022-11-06,7,15.08,105.57,102,Bank Transfer,27,17,19,38,34,54,47,10,23.22,15,85,11,27,18,1,8.5,1,1
+6fbbc2be,63,Male,105269,Master Degree,Divorced,Tarastad,MA,US,4415,2021-03-04,12,41.66,499.92,87,Google Pay,58,83,66,87,55,60,66,2,20.71,95,0,17,45,3,2,7.6,1,1
+8029d865,54,Male,49891,High School,Single,New Lisa,OK,US,69246,2024-03-21,8,15.0,120.0,24,PayPal,62,58,73,88,85,66,86,9,12.09,51,57,9,35,6,0,6.0,1,1
+3a2e65e8,45,Female,54554,Bachelor Degree,Married,Collinsland,FL,US,3280,2022-04-20,3,27.54,82.62,1,Bank Transfer,72,74,66,60,59,60,87,5,10.24,25,74,9,29,29,0,6.9,1,1
+32dfd2c4,23,Non-binary,68768,Master Degree,Single,Kingburgh,GU,US,7159,2021-02-06,10,88.3,883.04,87,Credit Card,57,43,58,24,56,36,40,4,14.3,50,55,10,37,13,1,7.3,1,1
+c2baddce,37,Female,65561,Bachelor Degree,Married,Vincentville,RI,US,83635,2023-12-30,18,15.0,270.0,76,Debit Card,24,28,31,31,22,27,31,10,22.01,90,17,10,36,89,1,7.6,1,1
+97f83da0,27,Non-binary,40008,Master Degree,Widowed,Port Josephborough,WV,US,62972,2025-02-19,9,54.43,489.88,112,Debit Card,70,74,90,59,75,73,50,8,11.87,38,50,2,66,35,1,6.6,1,1
+991fe935,29,Male,61110,High School,Single,Serranoshire,MT,US,21269,2023-01-30,10,88.77,887.72,61,Debit Card,38,29,18,48,42,27,36,5,12.52,89,15,12,36,2,3,7.2,1,1
+77983459,30,Female,77566,PhD,Widowed,Thomasmouth,MH,US,53729,2022-11-06,12,22.12,265.42,56,Debit Card,34,53,37,35,51,61,69,7,24.85,25,77,17,40,66,1,8.0,1,1
+57ba1c65,69,Male,98151,Master Degree,Widowed,Perezchester,DC,US,38247,2025-03-15,3,37.29,111.86,40,Bank Transfer,31,50,29,49,37,49,17,6,7.42,65,39,6,50,71,0,7.0,1,1
+2ff1f848,64,Female,28895,Associate Degree,Divorced,South Lance,CA,US,34399,2022-02-08,5,15.3,76.49,61,Credit Card,29,24,27,16,14,21,15,5,5.39,91,18,1,41,0,2,4.9,1,1
+435aeb9c,68,Female,49713,PhD,Divorced,West Johntown,WY,US,22627,2022-01-14,8,44.4,355.24,102,PayPal,56,52,64,84,80,58,81,3,-4.72,57,44,13,62,40,1,5.5,1,1
+8858dead,48,Male,78201,Bachelor Degree,Single,Louiston,VT,US,37743,2023-02-14,10,36.66,366.56,97,Debit Card,59,44,72,70,68,77,56,8,16.41,8,89,16,53,66,0,7.5,1,1
+a4bdeef4,63,Male,55489,Bachelor Degree,Single,Stephenbury,GU,US,67471,2022-08-14,6,34.7,208.22,32,Debit Card,40,60,62,79,70,75,49,7,22.74,78,26,6,72,47,1,5.8,1,1
+df4f4d4b,56,Non-binary,64433,Associate Degree,Married,Jamesmouth,GA,US,7705,2021-12-04,6,42.26,253.54,78,Credit Card,21,30,51,50,36,33,42,5,11.21,32,56,4,69,43,4,6.5,1,1
+617bc89e,31,Male,42285,Bachelor Degree,Single,Melissaberg,MD,US,30984,2025-02-10,16,15.0,240.0,84,Bank Transfer,74,53,71,77,57,76,88,9,16.84,33,70,14,50,45,1,6.8,1,1
+ef38cd28,66,Female,66096,High School,Divorced,West Robert,AK,US,56938,2022-09-20,6,32.48,194.85,36,Debit Card,83,74,63,55,82,53,65,2,12.67,88,0,5,48,0,2,6.0,1,1
+ec6b6f21,53,Female,67032,Bachelor Degree,Married,Lake Jason,NE,US,3643,2023-07-05,5,15.0,75.0,107,Bank Transfer,59,25,64,51,44,49,35,2,17.48,23,77,1,41,41,1,6.8,1,1
+65691276,38,Non-binary,66423,PhD,Single,Rasmussenfort,VT,US,70710,2020-04-28,10,95.19,951.94,66,Credit Card,54,77,50,50,54,55,52,5,21.36,49,39,20,51,58,0,7.6,1,1
+10168fa6,40,Female,60887,High School,Widowed,Mooretown,VA,US,84166,2023-05-08,12,25.49,305.87,97,Credit Card,56,65,34,64,57,56,40,6,18.03,46,41,11,38,52,2,7.4,1,1
+c6b7b477,28,Male,75862,Bachelor Degree,Married,Bakerton,NE,US,50166,2023-12-07,11,34.55,380.0,8,Bank Transfer,78,44,46,57,73,45,45,5,27.74,18,72,4,48,92,0,7.6,1,1
+50689858,50,Female,92257,Bachelor Degree,Widowed,Katherineborough,IA,US,62068,2021-01-13,4,44.03,176.12,82,Bank Transfer,26,57,43,56,26,51,60,5,15.48,2,100,2,57,49,1,7.7,1,1
+8345190c,31,Male,43918,PhD,Widowed,New Victoriaton,TN,US,74371,2025-03-27,8,53.27,426.18,45,Bank Transfer,42,28,37,15,30,18,14,1,15.55,63,55,4,74,56,1,6.8,1,1
+8100188c,35,Non-binary,73737,Bachelor Degree,Widowed,Holtview,CT,US,57868,2024-05-18,12,49.36,592.26,107,Debit Card,86,64,69,60,68,64,73,6,21.66,10,92,12,47,36,0,7.9,1,1
+669fff3c,46,Non-binary,28693,PhD,Widowed,Patrickmouth,NV,US,13881,2024-02-16,8,20.96,167.72,24,Credit Card,26,8,15,14,38,21,15,3,6.52,87,12,2,55,5,0,6.0,1,1
+338e2f4d,21,Non-binary,72889,Associate Degree,Divorced,Marshchester,CO,US,43280,2024-01-22,10,31.97,319.72,66,Credit Card,19,32,30,40,32,50,43,6,24.74,75,30,2,61,56,1,7.4,1,1
+e6bbde26,66,Male,101272,Master Degree,Widowed,West Kristinbury,TN,US,75703,2022-02-17,9,15.0,135.0,77,PayPal,65,54,89,56,50,51,89,5,11.95,0,92,2,42,65,0,7.0,1,1
+db4f106b,37,Female,59394,Master Degree,Married,West Christopherland,NC,US,14085,2024-09-23,6,15.0,90.0,7,PayPal,25,40,36,17,30,39,14,3,8.46,20,63,5,55,40,0,7.5,1,1
+acff186f,27,Female,81653,Master Degree,Married,Port Yvonnefurt,NH,US,13619,2024-08-07,14,36.6,512.34,118,Bank Transfer,48,77,58,47,54,52,62,9,21.69,53,61,12,21,65,0,7.9,1,1
+65508113,35,Male,96594,PhD,Widowed,Smithbury,IA,US,80252,2024-12-02,13,18.82,244.63,94,Bank Transfer,22,13,34,33,10,11,40,8,26.92,47,59,13,23,40,0,8.8,1,1
+5f8a6d15,18,Non-binary,22392,High School,Single,Richardville,GA,US,42721,2020-12-16,6,15.0,90.0,113,PayPal,63,75,57,62,46,62,57,4,16.17,27,66,9,48,14,2,5.1,1,1
+b4c0ad1e,73,Non-binary,35227,Master Degree,Widowed,Lake Timothy,OK,US,41125,2020-11-01,9,15.0,135.0,30,Bank Transfer,57,72,77,59,92,77,83,4,8.06,89,12,1,67,0,2,4.5,1,1
+29be1d63,60,Female,101945,PhD,Married,East Sandraview,LA,US,39000,2023-06-24,11,53.14,584.49,95,Bank Transfer,48,33,59,47,45,51,44,7,21.94,70,28,17,49,11,1,7.7,1,1
+b3eda3cf,44,Female,63137,Master Degree,Single,South Courtney,MI,US,28608,2021-11-24,10,15.0,150.0,33,Debit Card,43,50,49,55,31,23,42,1,9.15,60,43,11,52,50,1,7.4,1,1
+20ec660c,39,Non-binary,75772,Associate Degree,Married,East Joshuaborough,WY,US,16802,2020-09-12,10,64.33,643.25,102,Debit Card,77,57,78,59,84,86,54,9,23.59,59,38,17,46,29,1,7.9,1,1
+1dced707,53,Non-binary,203701,Associate Degree,Married,Richardshire,ND,US,91459,2021-06-10,8,32.28,258.23,91,PayPal,38,51,54,66,56,64,56,8,14.81,22,81,16,44,20,0,7.8,1,1
+e1248ec7,32,Non-binary,65280,Master Degree,Married,North Brandonland,WY,US,15061,2020-08-06,11,96.94,1066.31,89,Debit Card,45,77,51,76,54,49,64,10,25.52,26,74,8,39,48,0,7.5,1,1
+d1c01e85,52,Non-binary,69435,High School,Married,Woodsborough,TX,US,29081,2025-02-21,5,38.12,190.59,3,Credit Card,25,31,29,22,22,34,46,2,16.05,98,5,10,54,47,0,7.0,1,1
+5646fecc,18,Non-binary,46581,PhD,Divorced,Port Vickieside,DC,US,18812,2023-05-09,11,38.87,427.54,50,PayPal,32,40,52,50,43,53,52,1,11.13,64,31,12,56,50,1,6.2,1,1
+095c5a16,38,Female,48364,High School,Divorced,Abbottchester,KY,US,2460,2021-05-07,6,15.0,90.0,61,Apple Pay,82,54,75,85,87,70,79,4,19.36,100,0,10,34,30,0,7.1,1,1
+61b14cc1,66,Male,63952,Master Degree,Divorced,Gillview,ME,US,90127,2022-03-24,6,60.84,365.04,12,Credit Card,55,21,44,39,36,30,53,8,8.96,89,1,1,45,21,2,5.9,1,1
+835b0b36,53,Non-binary,41899,Master Degree,Married,Port Timothy,NJ,US,80422,2021-11-01,5,44.33,221.64,53,Credit Card,8,37,1,32,28,4,32,3,8.2,16,89,7,56,32,1,6.0,1,1
+f3174973,69,Non-binary,39237,High School,Divorced,East Dustinmouth,NY,US,39423,2021-12-28,5,25.17,125.84,16,Bank Transfer,64,44,61,51,43,35,51,3,4.76,63,32,5,75,63,9,4.8,1,-1
+1dc5ade4,71,Male,118171,Associate Degree,Widowed,Kathrynland,OK,US,84845,2022-07-20,9,33.66,302.93,32,Credit Card,35,48,26,43,35,38,45,2,17.32,94,18,8,78,61,0,6.8,1,1
+86dbdb03,63,Female,65256,High School,Single,Jessicaburgh,IL,US,27763,2024-05-09,7,34.26,239.82,18,Debit Card,85,83,48,75,78,70,74,0,4.87,8,98,10,31,31,2,6.4,1,1
+b971c227,24,Female,60821,Master Degree,Single,Jarvisport,ND,US,46236,2023-09-17,7,37.53,262.7,56,Google Pay,71,48,48,49,60,66,74,4,9.08,37,53,12,45,0,2,6.8,1,1
+56aa2a5b,19,Male,88872,High School,Married,New Kevinside,WI,US,34046,2021-07-19,7,31.54,220.77,26,Apple Pay,76,65,77,58,72,46,53,5,17.03,51,48,12,35,14,0,7.5,1,1
+6ed18d8b,32,Male,60410,Associate Degree,Divorced,South Mark,IL,US,75777,2024-07-12,15,53.41,801.1,96,Bank Transfer,25,48,28,57,25,32,58,4,26.04,74,39,1,13,64,0,7.2,1,1
+efe76808,37,Male,46142,Bachelor Degree,Married,Smithside,LA,US,38531,2020-06-13,13,77.66,1009.56,62,Debit Card,42,42,42,25,18,23,36,2,23.07,65,51,1,38,11,0,6.8,1,1
+4ccedd3a,27,Non-binary,132117,Associate Degree,Married,Ernestbury,UT,US,21819,2020-06-12,8,57.92,463.38,98,Credit Card,62,34,66,40,45,70,56,3,21.77,84,13,12,52,4,0,8.5,1,1
+93e63cbc,44,Male,69882,Master Degree,Single,North Darrellmouth,WI,US,21362,2020-05-23,11,40.59,446.44,42,Apple Pay,13,24,26,29,39,15,9,2,28.44,53,55,18,73,54,1,7.3,1,1
+afcf1444,33,Non-binary,50030,PhD,Divorced,Jonesport,GU,US,17703,2022-06-27,11,19.27,211.97,99,Credit Card,65,28,53,31,62,32,36,1,12.84,68,23,9,36,22,0,7.1,1,1
+a6979797,43,Female,112152,Master Degree,Divorced,Matamouth,VI,US,33283,2023-07-29,6,105.73,634.36,108,Google Pay,58,57,68,70,69,62,75,3,15.47,78,39,11,30,24,0,8.7,1,1
+6d3ea340,26,Female,109840,Bachelor Degree,Single,Brownhaven,ID,US,36191,2021-05-25,8,69.8,558.38,63,PayPal,67,73,74,38,50,74,51,11,24.36,92,15,9,40,73,1,8.7,1,1
+689cf5bc,32,Female,44224,Bachelor Degree,Married,Huntville,ND,US,34344,2022-02-06,7,35.98,251.88,25,PayPal,31,40,52,45,36,35,57,7,13.71,38,66,4,56,13,1,6.8,1,1
+452c7cb5,69,Non-binary,57758,Bachelor Degree,Married,West Kayla,MP,US,46986,2021-06-03,6,15.0,90.0,88,PayPal,79,80,65,58,74,82,78,3,16.39,16,92,11,53,31,1,5.4,1,1
+631be392,31,Non-binary,111354,Bachelor Degree,Married,South Maryborough,AR,US,58547,2020-04-19,5,73.72,368.62,83,Apple Pay,38,48,53,40,59,52,57,3,17.29,32,74,17,61,74,0,8.6,1,1
+7a57a5a1,34,Male,41269,Master Degree,Widowed,Davidside,MA,US,89907,2025-04-04,11,15.0,165.0,9,Debit Card,67,82,80,86,88,68,83,5,16.03,52,41,15,63,23,1,6.7,1,1
+437293ef,45,Non-binary,102128,Master Degree,Single,Sparksmouth,FM,US,4876,2022-08-09,8,68.37,546.99,56,Apple Pay,27,28,31,27,43,23,22,6,19.68,82,8,16,67,73,1,8.6,1,1
+58026550,52,Female,89051,Associate Degree,Single,Lloydville,WI,US,21487,2021-02-09,13,46.59,605.64,88,Apple Pay,15,49,16,13,20,34,52,11,18.22,70,31,6,69,82,0,7.5,1,1
+3180be32,32,Male,32537,PhD,Divorced,Johntown,KS,US,49125,2022-03-06,10,15.0,150.0,46,Debit Card,10,44,46,29,23,19,33,1,21.59,29,69,8,44,83,3,6.4,1,1
+a8d99d5c,23,Non-binary,46499,PhD,Divorced,South Ariana,VA,US,87098,2020-09-26,11,34.03,374.32,63,Credit Card,21,32,20,21,35,45,16,5,15.29,86,8,11,31,40,1,6.2,1,1
+6e10ccd1,18,Male,90517,Bachelor Degree,Widowed,South Samuelfort,MH,US,21943,2022-01-09,7,81.79,572.53,111,Google Pay,78,82,67,68,60,59,80,6,15.74,75,22,14,31,90,0,7.8,1,1
+044378fc,72,Non-binary,85409,Master Degree,Single,New Davidberg,NY,US,31063,2022-03-29,9,15.0,135.0,98,PayPal,44,40,46,34,33,14,44,7,3.38,52,53,10,61,8,2,6.5,1,1
+916e6cc1,31,Female,15964,Associate Degree,Single,Cardenastown,SD,US,56414,2021-11-27,9,38.56,347.02,108,Bank Transfer,67,53,68,56,56,63,65,3,8.91,37,58,7,86,37,0,5.7,1,1
+d6e60146,42,Non-binary,81991,Master Degree,Single,New Kirk,MO,US,68979,2021-06-05,10,36.95,369.53,120,Google Pay,19,43,16,39,51,37,38,10,18.72,43,64,12,44,62,0,8.1,1,1
+2fdcb8f2,45,Male,24014,Master Degree,Divorced,Torresfort,VI,US,76159,2023-04-28,6,15.0,90.0,30,PayPal,39,53,33,33,37,60,56,4,14.29,55,31,1,52,58,3,5.9,1,1
+a4d884b0,41,Male,78309,Associate Degree,Single,Lake Wyattfurt,NM,US,13971,2021-04-23,10,91.72,917.16,118,Debit Card,44,40,8,21,10,38,21,6,13.32,44,48,11,16,57,1,8.0,1,1
+7886ada3,35,Male,29975,Associate Degree,Widowed,Williamsville,NM,US,73281,2023-07-12,8,69.27,554.16,22,Google Pay,18,9,43,7,40,15,22,5,9.85,57,40,4,62,12,0,6.4,1,1
+88d62a62,19,Male,130004,PhD,Single,Daniellechester,MD,US,78489,2024-11-24,8,15.0,120.0,99,Credit Card,28,51,24,46,52,40,28,4,10.66,10,81,8,57,100,1,7.9,1,1
+044ba4b8,38,Male,73581,Bachelor Degree,Single,Port Sean,NE,US,99013,2022-06-20,4,23.66,94.65,65,Credit Card,33,35,28,55,34,33,40,5,21.27,87,21,6,44,59,1,7.9,1,1
+1d2750bd,47,Male,24070,Master Degree,Married,Jacksonton,TX,US,47095,2021-04-17,7,15.0,105.0,15,Bank Transfer,25,55,53,17,19,39,23,5,16.74,4,100,8,79,46,0,5.7,1,1
+9ae99f3e,61,Female,38994,PhD,Widowed,Candaceburgh,CA,US,32320,2020-04-16,4,16.36,65.45,68,Apple Pay,74,63,79,77,66,57,74,5,8.97,88,12,9,68,26,2,5.4,1,1
+d7500442,26,Male,117524,Associate Degree,Single,Port Autumn,VI,US,63975,2021-11-29,10,15.0,150.0,48,PayPal,45,33,31,31,26,30,8,10,24.99,27,58,18,49,47,0,8.4,1,1
+ef8a4579,45,Non-binary,58227,Associate Degree,Widowed,Port Josephberg,RI,US,24215,2020-06-04,9,79.19,712.74,76,Bank Transfer,27,33,23,17,9,22,36,6,17.36,27,78,10,57,17,1,7.1,1,1
+c5087939,41,Male,61301,Master Degree,Married,Sydneychester,HI,US,91645,2022-12-11,9,110.52,994.67,7,Debit Card,69,100,66,78,83,63,82,7,15.53,48,63,5,62,28,0,7.4,1,1
+828b3de0,22,Non-binary,67326,Bachelor Degree,Divorced,Port Stevenchester,MA,US,80886,2020-09-02,11,48.42,532.64,66,Google Pay,32,60,34,52,51,42,49,3,16.83,87,0,15,55,38,2,6.9,1,1
+94c7206f,27,Non-binary,44244,PhD,Divorced,Stephensburgh,OH,US,64499,2024-12-09,4,15.88,63.52,4,Google Pay,53,46,36,14,41,38,34,4,12.1,83,21,9,30,35,0,6.8,1,1
+4580f9dc,38,Female,86489,Bachelor Degree,Single,Lawrencehaven,WV,US,41154,2020-10-13,11,15.0,165.0,67,Google Pay,35,38,34,39,9,42,43,10,17.52,44,51,15,65,85,0,8.4,1,1
+ba63ea90,60,Non-binary,70048,Master Degree,Divorced,Davidmouth,VI,US,98670,2024-06-20,3,15.0,45.0,19,Debit Card,44,29,22,30,19,7,7,7,13.24,24,65,8,45,18,3,6.6,1,1
+fa86801a,54,Male,23717,Master Degree,Married,Pamelaburgh,ID,US,85746,2022-11-18,12,15.0,180.0,71,Google Pay,29,16,20,26,18,32,46,9,9.16,75,25,1,40,40,3,5.1,1,1
+18a1462b,61,Female,108515,High School,Single,Matthewport,PW,US,54311,2021-07-10,16,79.17,1266.72,59,PayPal,62,69,55,75,74,74,60,10,26.39,63,42,13,59,44,0,7.4,1,1
+73b4a8a9,60,Non-binary,53008,PhD,Divorced,East Jennifer,RI,US,9748,2020-10-02,4,73.54,294.15,77,Debit Card,15,41,44,31,35,46,33,5,10.77,51,41,9,78,40,1,6.1,1,1
+d7905ff6,37,Female,50858,High School,Married,Lake Davidhaven,NM,US,12443,2022-03-01,14,49.76,696.66,29,Debit Card,71,85,65,62,90,88,79,9,11.21,43,61,10,45,56,1,7.4,1,1
+530d07b2,39,Female,33625,High School,Married,Sarastad,PA,US,57057,2024-05-13,10,15.0,150.0,80,Apple Pay,64,80,63,87,85,87,69,6,17.16,31,58,13,71,75,1,6.4,1,1
+c702035c,25,Female,73528,Associate Degree,Widowed,Lake Melissa,MH,US,48600,2020-05-06,8,81.56,652.49,63,Apple Pay,50,62,64,52,55,52,76,5,19.09,80,14,10,43,39,0,7.7,1,1
+30df2da8,38,Non-binary,183878,Master Degree,Single,Harrishaven,VA,US,72187,2024-09-16,10,50.94,509.42,11,Credit Card,50,59,84,77,81,55,59,8,18.3,89,5,12,72,21,0,8.7,1,1
+1715426f,20,Male,83725,Bachelor Degree,Divorced,West Timothy,MD,US,76915,2021-06-20,7,15.0,105.0,88,Bank Transfer,58,27,24,32,41,43,28,6,14.04,11,88,13,55,49,0,7.4,1,1
+6c6dd112,57,Male,66211,Associate Degree,Married,Millerfort,IA,US,38558,2023-01-31,10,30.42,304.19,106,Apple Pay,23,43,24,45,39,10,45,5,14.08,20,75,3,56,44,2,6.7,1,1
+5463b6ef,72,Female,55156,Associate Degree,Single,North Makayla,CT,US,89118,2022-06-29,8,43.81,350.48,78,Debit Card,62,46,69,65,54,74,72,2,14.26,41,63,7,54,21,1,5.3,1,1
+74ee2b95,59,Non-binary,119826,Master Degree,Widowed,West Lisatown,DE,US,31850,2020-10-01,9,15.0,135.0,120,Debit Card,69,70,63,65,79,59,59,4,11.16,0,100,12,36,52,1,7.4,1,1
+6db77f50,27,Male,16916,Master Degree,Married,Johnsonborough,TN,US,65704,2024-06-09,12,15.0,180.0,93,Credit Card,39,38,55,33,48,45,44,7,12.55,22,94,6,29,0,2,5.8,1,1
+ebe7089f,37,Non-binary,13391,Associate Degree,Widowed,Port John,UT,US,60953,2021-08-06,5,26.67,133.35,5,PayPal,35,22,32,14,13,12,26,5,13.84,43,65,11,30,10,3,6.0,1,1
+770a219d,68,Non-binary,42828,Bachelor Degree,Widowed,New Nancy,GA,US,32404,2024-07-12,2,49.32,98.64,105,PayPal,74,67,83,58,47,57,63,4,12.14,46,58,1,41,15,0,5.0,1,1
+d8d0e018,20,Male,17467,Associate Degree,Widowed,New Jennifer,ID,US,52455,2023-09-19,5,15.0,75.0,117,Debit Card,57,72,48,46,86,69,67,3,9.45,81,19,8,51,35,3,5.0,1,1
+310cc5e3,24,Female,42420,PhD,Married,Johnsonview,MI,US,67791,2024-02-03,4,39.05,156.19,19,PayPal,75,60,76,68,76,80,82,7,18.15,88,10,1,67,0,1,6.1,1,1
+b90d0e04,47,Non-binary,32571,PhD,Divorced,South Kaitlyn,AK,US,44127,2022-04-03,5,49.0,245.0,97,Apple Pay,20,23,3,28,39,42,6,3,9.81,50,56,7,86,4,3,6.1,1,1
+ee7b6b35,54,Male,68891,Bachelor Degree,Married,Frenchtown,AL,US,30761,2022-10-03,14,16.82,235.45,34,PayPal,59,71,94,73,82,73,57,5,13.26,44,43,13,55,50,1,6.9,1,1
+9699232c,33,Female,46001,High School,Widowed,Manningborough,MS,US,70018,2025-01-03,15,69.06,1035.95,10,PayPal,68,60,35,66,74,53,72,6,16.18,71,41,13,58,55,0,6.9,1,1
